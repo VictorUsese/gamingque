@@ -1,0 +1,830 @@
+{
+    "@graph": [
+        {
+            "@id": "sdcdata:M343071",
+            "@type": "schema:Dataset",
+            "about": "sdc:M343071",
+            "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+            "softwareVersion": "1.0.0",
+            "version": 789298582,
+            "dateModified": "2023-08-02T12:14:39Z"
+        },
+        {
+            "@id": "sdc:M343071",
+            "@type": "wikibase:Mediainfo",
+            "P8058": "wd:Q183",
+            "P7482": "wd:Q66458942",
+            "P180": "wd:Q48160",
+            "P1163": "image/svg+xml",
+            "p:P8058": "sdcs:M343071-97daf7b9-4f15-7559-44ec-daac13da867d"
+        },
+        {
+            "@id": "sdcs:M343071-97daf7b9-4f15-7559-44ec-daac13da867d",
+            "@type": [
+                "wikibase:Statement",
+                "wikibase:BestRank"
+            ],
+            "rank": "wikibase:NormalRank",
+            "ps:P8058": "wd:Q183"
+        },
+        {
+            "@id": "sdc:M343071",
+            "p:P7482": "sdcs:M343071-926B18BD-66A2-449C-8E49-1634E21C0FEB"
+        },
+        {
+            "@id": "sdcs:M343071-926B18BD-66A2-449C-8E49-1634E21C0FEB",
+            "@type": [
+                "wikibase:Statement",
+                "wikibase:BestRank"
+            ],
+            "rank": "wikibase:NormalRank",
+            "ps:P7482": "wd:Q66458942"
+        },
+        {
+            "@id": "sdc:M343071",
+            "p:P180": "sdcs:M343071-094da699-46fa-bc00-6e6b-7b3dbb7f6f64"
+        },
+        {
+            "@id": "sdcs:M343071-094da699-46fa-bc00-6e6b-7b3dbb7f6f64",
+            "@type": [
+                "wikibase:Statement",
+                "wikibase:BestRank"
+            ],
+            "rank": "wikibase:PreferredRank",
+            "ps:P180": "wd:Q48160"
+        },
+        {
+            "@id": "sdc:M343071",
+            "p:P1163": "sdcs:M343071-161EBD1C-30F8-4312-94B6-EF20BEBD2300"
+        },
+        {
+            "@id": "sdcs:M343071-161EBD1C-30F8-4312-94B6-EF20BEBD2300",
+            "@type": [
+                "wikibase:Statement",
+                "wikibase:BestRank"
+            ],
+            "rank": "wikibase:NormalRank",
+            "ps:P1163": "image/svg+xml"
+        },
+        {
+            "@id": "sdc:M343071",
+            "caption": [
+                {
+                    "@language": "pt",
+                    "@value": "Bandeira da Alemanha"
+                },
+                {
+                    "@language": "pl",
+                    "@value": "Flaga Niemiec"
+                },
+                {
+                    "@language": "en",
+                    "@value": "Flag of the Federal Republic of Germany"
+                },
+                {
+                    "@language": "zh-hans",
+                    "@value": "\u897f\u5fb7\u56fd\u65d7"
+                },
+                {
+                    "@language": "bn",
+                    "@value": "\u099c\u09be\u09b0\u09cd\u09ae\u09be\u09a8\u09bf\u09b0 \u09aa\u09a4\u09be\u0995\u09be"
+                },
+                {
+                    "@language": "my",
+                    "@value": "\u1002\u103b\u102c\u1019\u1014\u102e\u1014\u102d\u102f\u1004\u103a\u1004\u1036\u1021\u101c\u1036\u1010\u1031\u102c\u103a"
+                },
+                {
+                    "@language": "ar",
+                    "@value": "\u0639\u0644\u0645 \u0623\u0644\u0645\u0627\u0646\u064a\u0627"
+                },
+                {
+                    "@language": "de",
+                    "@value": "Hissflagge der Bundesrepublik Deutschland"
+                },
+                {
+                    "@language": "ru",
+                    "@value": "\u0424\u043b\u0430\u0433 \u0413\u0435\u0440\u043c\u0430\u043d\u0438\u0438"
+                },
+                {
+                    "@language": "zh-hant",
+                    "@value": "\u5fb7\u56fd\u56fd\u65d7"
+                },
+                {
+                    "@language": "tr",
+                    "@value": "Almanya bayra\u011f\u0131"
+                },
+                {
+                    "@language": "az",
+                    "@value": "Almanya bayraq"
+                },
+                {
+                    "@language": "fa",
+                    "@value": "\u067e\u0631\u0686\u0645 \u0622\u0644\u0645\u0627\u0646"
+                },
+                {
+                    "@language": "sv",
+                    "@value": "Tysklands flagga"
+                },
+                {
+                    "@language": "eo",
+                    "@value": "Flago de Germanio"
+                },
+                {
+                    "@language": "es",
+                    "@value": "Bandera de la Rep\u00fablica Federal de Alemania"
+                },
+                {
+                    "@language": "gl",
+                    "@value": "Bandeira de Alema\u00f1a"
+                },
+                {
+                    "@language": "it",
+                    "@value": "Bandiera della Repubblica Federale di Germania"
+                },
+                {
+                    "@language": "fr",
+                    "@value": "Drapeau de la R\u00e9publique f\u00e9d\u00e9rale d'Allemagne"
+                },
+                {
+                    "@language": "fi",
+                    "@value": "Saksan lippu"
+                },
+                {
+                    "@language": "pa",
+                    "@value": "\u0a1c\u0a30\u0a2e\u0a28\u0a40 \u0a26\u0a3e \u0a1d\u0a70\u0a21\u0a3e"
+                },
+                {
+                    "@language": "yi",
+                    "@value": "\u05e4\u05d0\u05df \u05d3\u05d9\u05d9\u05d8\u05e9\u05dc\u05d0\u05e0\u05d3"
+                },
+                {
+                    "@language": "ka",
+                    "@value": "\u10d2\u10d4\u10e0\u10db\u10d0\u10dc\u10d8\u10d8\u10e1 \u10d3\u10e0\u10dd\u10e8\u10d0"
+                }
+            ],
+            "label": [
+                {
+                    "@language": "pt",
+                    "@value": "Bandeira da Alemanha"
+                },
+                {
+                    "@language": "pl",
+                    "@value": "Flaga Niemiec"
+                },
+                {
+                    "@language": "en",
+                    "@value": "Flag of the Federal Republic of Germany"
+                },
+                {
+                    "@language": "zh-hans",
+                    "@value": "\u897f\u5fb7\u56fd\u65d7"
+                },
+                {
+                    "@language": "bn",
+                    "@value": "\u099c\u09be\u09b0\u09cd\u09ae\u09be\u09a8\u09bf\u09b0 \u09aa\u09a4\u09be\u0995\u09be"
+                },
+                {
+                    "@language": "my",
+                    "@value": "\u1002\u103b\u102c\u1019\u1014\u102e\u1014\u102d\u102f\u1004\u103a\u1004\u1036\u1021\u101c\u1036\u1010\u1031\u102c\u103a"
+                },
+                {
+                    "@language": "ar",
+                    "@value": "\u0639\u0644\u0645 \u0623\u0644\u0645\u0627\u0646\u064a\u0627"
+                },
+                {
+                    "@language": "de",
+                    "@value": "Hissflagge der Bundesrepublik Deutschland"
+                },
+                {
+                    "@language": "ru",
+                    "@value": "\u0424\u043b\u0430\u0433 \u0413\u0435\u0440\u043c\u0430\u043d\u0438\u0438"
+                },
+                {
+                    "@language": "zh-hant",
+                    "@value": "\u5fb7\u56fd\u56fd\u65d7"
+                },
+                {
+                    "@language": "tr",
+                    "@value": "Almanya bayra\u011f\u0131"
+                },
+                {
+                    "@language": "az",
+                    "@value": "Almanya bayraq"
+                },
+                {
+                    "@language": "fa",
+                    "@value": "\u067e\u0631\u0686\u0645 \u0622\u0644\u0645\u0627\u0646"
+                },
+                {
+                    "@language": "sv",
+                    "@value": "Tysklands flagga"
+                },
+                {
+                    "@language": "eo",
+                    "@value": "Flago de Germanio"
+                },
+                {
+                    "@language": "es",
+                    "@value": "Bandera de la Rep\u00fablica Federal de Alemania"
+                },
+                {
+                    "@language": "gl",
+                    "@value": "Bandeira de Alema\u00f1a"
+                },
+                {
+                    "@language": "it",
+                    "@value": "Bandiera della Repubblica Federale di Germania"
+                },
+                {
+                    "@language": "fr",
+                    "@value": "Drapeau de la R\u00e9publique f\u00e9d\u00e9rale d'Allemagne"
+                },
+                {
+                    "@language": "fi",
+                    "@value": "Saksan lippu"
+                },
+                {
+                    "@language": "pa",
+                    "@value": "\u0a1c\u0a30\u0a2e\u0a28\u0a40 \u0a26\u0a3e \u0a1d\u0a70\u0a21\u0a3e"
+                },
+                {
+                    "@language": "yi",
+                    "@value": "\u05e4\u05d0\u05df \u05d3\u05d9\u05d9\u05d8\u05e9\u05dc\u05d0\u05e0\u05d3"
+                },
+                {
+                    "@language": "ka",
+                    "@value": "\u10d2\u10d4\u10e0\u10db\u10d0\u10dc\u10d8\u10d8\u10e1 \u10d3\u10e0\u10dd\u10e8\u10d0"
+                }
+            ],
+            "@type": [
+                "schema:MediaObject",
+                "schema:ImageObject"
+            ],
+            "encodingFormat": "image/svg+xml",
+            "contentUrl": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg",
+            "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Germany.svg",
+            "contentSize": 502,
+            "height": 600,
+            "width": 1000
+        },
+        {
+            "@id": "wd:Q183",
+            "@type": "wikibase:Item",
+            "label": {
+                "@language": "en",
+                "@value": "Germany"
+            },
+            "prefLabel": {
+                "@language": "en",
+                "@value": "Germany"
+            },
+            "name": {
+                "@language": "en",
+                "@value": "Germany"
+            },
+            "description": {
+                "@language": "en",
+                "@value": "country in Central Europe"
+            }
+        },
+        {
+            "@id": "wd:P8058",
+            "@type": "wikibase:Property",
+            "label": {
+                "@language": "en",
+                "@value": "symbol of"
+            },
+            "prefLabel": {
+                "@language": "en",
+                "@value": "symbol of"
+            },
+            "name": {
+                "@language": "en",
+                "@value": "symbol of"
+            },
+            "description": {
+                "@language": "en",
+                "@value": "item of which the image is a symbol"
+            },
+            "propertyType": "http://wikiba.se/ontology#WikibaseItem",
+            "directClaim": "wdt:P8058",
+            "claim": "p:P8058",
+            "statementProperty": "ps:P8058",
+            "statementValue": "psv:P8058",
+            "qualifier": "pq:P8058",
+            "qualifierValue": "pqv:P8058",
+            "reference": "pr:P8058",
+            "referenceValue": "prv:P8058",
+            "novalue": "wdno:P8058"
+        },
+        {
+            "@id": "p:P8058",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "psv:P8058",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pqv:P8058",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "prv:P8058",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdt:P8058",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "ps:P8058",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pq:P8058",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pr:P8058",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdno:P8058",
+            "@type": "owl:Class",
+            "complementOf": "_:796d08ffa521e6ab5b31b99c37c08ebc"
+        },
+        {
+            "@id": "_:796d08ffa521e6ab5b31b99c37c08ebc",
+            "@type": "owl:Restriction",
+            "onProperty": "wdt:P8058",
+            "someValuesFrom": "owl:Thing"
+        },
+        {
+            "@id": "wd:Q66458942",
+            "@type": "wikibase:Item",
+            "label": {
+                "@language": "en",
+                "@value": "original creation by uploader"
+            },
+            "prefLabel": {
+                "@language": "en",
+                "@value": "original creation by uploader"
+            },
+            "name": {
+                "@language": "en",
+                "@value": "original creation by uploader"
+            },
+            "description": {
+                "@language": "en",
+                "@value": "value to indicate source of an image on Wikimedia Commons"
+            }
+        },
+        {
+            "@id": "wd:P7482",
+            "@type": "wikibase:Property",
+            "label": {
+                "@language": "en",
+                "@value": "source of file"
+            },
+            "prefLabel": {
+                "@language": "en",
+                "@value": "source of file"
+            },
+            "name": {
+                "@language": "en",
+                "@value": "source of file"
+            },
+            "description": {
+                "@language": "en",
+                "@value": "broad nature of the origin of the file"
+            },
+            "propertyType": "http://wikiba.se/ontology#WikibaseItem",
+            "directClaim": "wdt:P7482",
+            "claim": "p:P7482",
+            "statementProperty": "ps:P7482",
+            "statementValue": "psv:P7482",
+            "qualifier": "pq:P7482",
+            "qualifierValue": "pqv:P7482",
+            "reference": "pr:P7482",
+            "referenceValue": "prv:P7482",
+            "novalue": "wdno:P7482"
+        },
+        {
+            "@id": "p:P7482",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "psv:P7482",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pqv:P7482",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "prv:P7482",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdt:P7482",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "ps:P7482",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pq:P7482",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pr:P7482",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdno:P7482",
+            "@type": "owl:Class",
+            "complementOf": "_:acc493f3ae8de4cf9c16f9963879aa6e"
+        },
+        {
+            "@id": "_:acc493f3ae8de4cf9c16f9963879aa6e",
+            "@type": "owl:Restriction",
+            "onProperty": "wdt:P7482",
+            "someValuesFrom": "owl:Thing"
+        },
+        {
+            "@id": "wd:Q48160",
+            "@type": "wikibase:Item",
+            "label": {
+                "@language": "en",
+                "@value": "flag of Germany"
+            },
+            "prefLabel": {
+                "@language": "en",
+                "@value": "flag of Germany"
+            },
+            "name": {
+                "@language": "en",
+                "@value": "flag of Germany"
+            },
+            "description": {
+                "@language": "en",
+                "@value": "national flag"
+            }
+        },
+        {
+            "@id": "wd:P180",
+            "@type": "wikibase:Property",
+            "label": {
+                "@language": "en",
+                "@value": "depicts"
+            },
+            "prefLabel": {
+                "@language": "en",
+                "@value": "depicts"
+            },
+            "name": {
+                "@language": "en",
+                "@value": "depicts"
+            },
+            "description": {
+                "@language": "en",
+                "@value": "entity visually depicted in an image, literarily described in a work, or otherwise incorporated into an audiovisual or other medium; see also P921,  'main subject'"
+            },
+            "propertyType": "http://wikiba.se/ontology#WikibaseItem",
+            "directClaim": "wdt:P180",
+            "claim": "p:P180",
+            "statementProperty": "ps:P180",
+            "statementValue": "psv:P180",
+            "qualifier": "pq:P180",
+            "qualifierValue": "pqv:P180",
+            "reference": "pr:P180",
+            "referenceValue": "prv:P180",
+            "novalue": "wdno:P180"
+        },
+        {
+            "@id": "p:P180",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "psv:P180",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pqv:P180",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "prv:P180",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdt:P180",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "ps:P180",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pq:P180",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pr:P180",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdno:P180",
+            "@type": "owl:Class",
+            "complementOf": "_:20c681d1555b7d642c63c655f8ceb64a"
+        },
+        {
+            "@id": "_:20c681d1555b7d642c63c655f8ceb64a",
+            "@type": "owl:Restriction",
+            "onProperty": "wdt:P180",
+            "someValuesFrom": "owl:Thing"
+        },
+        {
+            "@id": "wd:P1163",
+            "@type": "wikibase:Property",
+            "label": {
+                "@language": "en",
+                "@value": "MIME type"
+            },
+            "prefLabel": {
+                "@language": "en",
+                "@value": "MIME type"
+            },
+            "name": {
+                "@language": "en",
+                "@value": "MIME type"
+            },
+            "description": {
+                "@language": "en",
+                "@value": "IANA-registered identifier for a file type (MIME)"
+            },
+            "propertyType": "http://wikiba.se/ontology#String",
+            "directClaim": "wdt:P1163",
+            "claim": "p:P1163",
+            "statementProperty": "ps:P1163",
+            "statementValue": "psv:P1163",
+            "qualifier": "pq:P1163",
+            "qualifierValue": "pqv:P1163",
+            "reference": "pr:P1163",
+            "referenceValue": "prv:P1163",
+            "novalue": "wdno:P1163"
+        },
+        {
+            "@id": "p:P1163",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "psv:P1163",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "pqv:P1163",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "prv:P1163",
+            "@type": "owl:ObjectProperty"
+        },
+        {
+            "@id": "wdt:P1163",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "ps:P1163",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "pq:P1163",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "pr:P1163",
+            "@type": "owl:DatatypeProperty"
+        },
+        {
+            "@id": "wdno:P1163",
+            "@type": "owl:Class",
+            "complementOf": "_:704e62989d8eb9df732666f92fa84714"
+        },
+        {
+            "@id": "_:704e62989d8eb9df732666f92fa84714",
+            "@type": "owl:Restriction",
+            "onProperty": "wdt:P1163",
+            "someValuesFrom": "owl:Thing"
+        },
+        {
+            "@id": "sdc:M15847977",
+            "sameAs": "sdc:M343071"
+        },
+        {
+            "@id": "sdc:M21307529",
+            "sameAs": "sdc:M343071"
+        },
+        {
+            "@id": "sdc:M45962783",
+            "sameAs": "sdc:M343071"
+        },
+        {
+            "@id": "sdc:M74867398",
+            "sameAs": "sdc:M343071"
+        },
+        {
+            "@id": "sdc:M88638343",
+            "sameAs": "sdc:M343071"
+        },
+        {
+            "@id": "sdc:M88638375",
+            "sameAs": "sdc:M343071"
+        },
+        {
+            "@id": "sdc:M89195361",
+            "sameAs": "sdc:M343071"
+        },
+        {
+            "@id": "sdc:M89195393",
+            "sameAs": "sdc:M343071"
+        },
+        {
+            "@id": "sdc:M119982008",
+            "sameAs": "sdc:M343071"
+        }
+    ],
+    "@context": {
+        "sdcdata": "https://commons.wikimedia.org/wiki/Special:EntityData/",
+        "schema": "http://schema.org/",
+        "about": {
+            "@id": "schema:about",
+            "@type": "@id"
+        },
+        "sdc": "https://commons.wikimedia.org/entity/",
+        "cc": "http://creativecommons.org/ns#",
+        "license": {
+            "@id": "cc:license",
+            "@type": "@id"
+        },
+        "softwareVersion": {
+            "@id": "schema:softwareVersion"
+        },
+        "version": {
+            "@id": "schema:version"
+        },
+        "xsd": "http://www.w3.org/2001/XMLSchema#",
+        "dateModified": {
+            "@id": "schema:dateModified",
+            "@type": "xsd:dateTime"
+        },
+        "wikibase": "http://wikiba.se/ontology#",
+        "wdt": "http://www.wikidata.org/prop/direct/",
+        "P8058": {
+            "@id": "wdt:P8058",
+            "@type": "@id"
+        },
+        "wd": "http://www.wikidata.org/entity/",
+        "P7482": {
+            "@id": "wdt:P7482",
+            "@type": "@id"
+        },
+        "P180": {
+            "@id": "wdt:P180",
+            "@type": "@id"
+        },
+        "P1163": {
+            "@id": "wdt:P1163"
+        },
+        "p": "http://www.wikidata.org/prop/",
+        "sdcs": "https://commons.wikimedia.org/entity/statement/",
+        "p:P8058": {
+            "@type": "@id"
+        },
+        "rank": {
+            "@id": "wikibase:rank",
+            "@type": "@id"
+        },
+        "ps": "http://www.wikidata.org/prop/statement/",
+        "ps:P8058": {
+            "@type": "@id"
+        },
+        "p:P7482": {
+            "@type": "@id"
+        },
+        "ps:P7482": {
+            "@type": "@id"
+        },
+        "p:P180": {
+            "@type": "@id"
+        },
+        "ps:P180": {
+            "@type": "@id"
+        },
+        "p:P1163": {
+            "@type": "@id"
+        },
+        "caption": {
+            "@id": "schema:caption"
+        },
+        "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+        "label": {
+            "@id": "rdfs:label"
+        },
+        "encodingFormat": {
+            "@id": "schema:encodingFormat"
+        },
+        "contentUrl": {
+            "@id": "schema:contentUrl",
+            "@type": "@id"
+        },
+        "url": {
+            "@id": "schema:url",
+            "@type": "@id"
+        },
+        "contentSize": {
+            "@id": "schema:contentSize"
+        },
+        "height": {
+            "@id": "schema:height"
+        },
+        "width": {
+            "@id": "schema:width"
+        },
+        "skos": "http://www.w3.org/2004/02/skos/core#",
+        "prefLabel": {
+            "@id": "skos:prefLabel"
+        },
+        "name": {
+            "@id": "schema:name"
+        },
+        "description": {
+            "@id": "schema:description"
+        },
+        "propertyType": {
+            "@id": "wikibase:propertyType",
+            "@type": "@id"
+        },
+        "directClaim": {
+            "@id": "wikibase:directClaim",
+            "@type": "@id"
+        },
+        "claim": {
+            "@id": "wikibase:claim",
+            "@type": "@id"
+        },
+        "statementProperty": {
+            "@id": "wikibase:statementProperty",
+            "@type": "@id"
+        },
+        "statementValue": {
+            "@id": "wikibase:statementValue",
+            "@type": "@id"
+        },
+        "psv": "http://www.wikidata.org/prop/statement/value/",
+        "qualifier": {
+            "@id": "wikibase:qualifier",
+            "@type": "@id"
+        },
+        "pq": "http://www.wikidata.org/prop/qualifier/",
+        "qualifierValue": {
+            "@id": "wikibase:qualifierValue",
+            "@type": "@id"
+        },
+        "pqv": "http://www.wikidata.org/prop/qualifier/value/",
+        "reference": {
+            "@id": "wikibase:reference",
+            "@type": "@id"
+        },
+        "pr": "http://www.wikidata.org/prop/reference/",
+        "referenceValue": {
+            "@id": "wikibase:referenceValue",
+            "@type": "@id"
+        },
+        "prv": "http://www.wikidata.org/prop/reference/value/",
+        "novalue": {
+            "@id": "wikibase:novalue",
+            "@type": "@id"
+        },
+        "wdno": "http://www.wikidata.org/prop/novalue/",
+        "owl": "http://www.w3.org/2002/07/owl#",
+        "complementOf": {
+            "@id": "owl:complementOf",
+            "@type": "@id"
+        },
+        "onProperty": {
+            "@id": "owl:onProperty",
+            "@type": "@id"
+        },
+        "someValuesFrom": {
+            "@id": "owl:someValuesFrom",
+            "@type": "@id"
+        },
+        "sameAs": {
+            "@id": "owl:sameAs",
+            "@type": "@id"
+        }
+    }
+}

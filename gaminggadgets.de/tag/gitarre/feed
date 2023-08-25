@@ -1,0 +1,474 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Gitarre Archive - GamingGadgets.de</title>
+	<atom:link href="https://gaminggadgets.de/tag/gitarre/feed" rel="self" type="application/rss+xml" />
+	<link>https://gaminggadgets.de/tag/gitarre</link>
+	<description>Gaming &#38; Gadgets &#124; Verrücktes, Verspieltes, Spaßiges und Gebasteltes</description>
+	<lastBuildDate>Mon, 07 Oct 2019 11:53:25 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.3</generator>
+
+<image>
+	<url>https://gaminggadgets.de/wp-content/uploads/2022/11/cropped-favicon-gg-logo-new-100x100-1-32x32.jpg</url>
+	<title>Gitarre Archive - GamingGadgets.de</title>
+	<link>https://gaminggadgets.de/tag/gitarre</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>DIY Barcode-Gitarre</title>
+		<link>https://gaminggadgets.de/diy-barcode-gitarre-abgefahrene-gitarre-mit-barcode-scanner</link>
+		
+		<dc:creator><![CDATA[Sven]]></dc:creator>
+		<pubDate>Fri, 11 Oct 2019 10:25:27 +0000</pubDate>
+				<category><![CDATA[Undsonstso]]></category>
+		<category><![CDATA[3D-Drucker]]></category>
+		<category><![CDATA[Arduino]]></category>
+		<category><![CDATA[Barcode-Gitarre]]></category>
+		<category><![CDATA[Bastelei]]></category>
+		<category><![CDATA[DIY]]></category>
+		<category><![CDATA[Gitarre]]></category>
+		<category><![CDATA[Instrument]]></category>
+		<category><![CDATA[Musikinstrument]]></category>
+		<guid isPermaLink="false">http://gaminggadgets.de/?p=40610</guid>
+
+					<description><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://gaminggadgets.de/wp-content/uploads/2019/10/diy-barcode-gitarre.png" width="1000" height="593" title="Verrückte Barcode-Gitarre. (Foto: Screenshot)" alt="Verrückte Barcode-Gitarre. (Foto: Screenshot)" /></div>
+<div>
+<div style="margin-bottom:20px;"><img width="1000" height="593" src="https://gaminggadgets.de/wp-content/uploads/2019/10/diy-barcode-gitarre.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Verrückte Barcode-Gitarre. (Foto: Screenshot)" decoding="async" srcset="https://gaminggadgets.de/wp-content/uploads/2019/10/diy-barcode-gitarre.png 1000w, https://gaminggadgets.de/wp-content/uploads/2019/10/diy-barcode-gitarre-300x178.png 300w, https://gaminggadgets.de/wp-content/uploads/2019/10/diy-barcode-gitarre-768x455.png 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></div>
+<p>Wozu eine normale Gitarre benutzen, wenn es auch diese Barcode-Klampfe sein kann? Vollgestopft mit Technik ist diese DIY-Bastelei ebenfalls. James Brutan liebt es, abgefahrene Dinge zu basteln. Dafür benutzt ihr er häufig einen 3D-Drucker, um allerlei Teile selbst herzustellen. Eine solche Maschine benötigte er auch für sein Gitarren-Projekt, denn solch ein Musikinstrument gab es bisher [&#8230;]</p></div>
+<p>Der Beitrag <a rel="nofollow" href="https://gaminggadgets.de/diy-barcode-gitarre-abgefahrene-gitarre-mit-barcode-scanner">DIY Barcode-Gitarre</a> erschien zuerst auf <a rel="nofollow" href="https://gaminggadgets.de">GamingGadgets.de</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://gaminggadgets.de/wp-content/uploads/2019/10/diy-barcode-gitarre.png" width="1000" height="593" title="Verrückte Barcode-Gitarre. (Foto: Screenshot)" alt="Verrückte Barcode-Gitarre. (Foto: Screenshot)" /></div><div><div style="margin-bottom:20px;"><img width="1000" height="593" src="https://gaminggadgets.de/wp-content/uploads/2019/10/diy-barcode-gitarre.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Verrückte Barcode-Gitarre. (Foto: Screenshot)" decoding="async" loading="lazy" srcset="https://gaminggadgets.de/wp-content/uploads/2019/10/diy-barcode-gitarre.png 1000w, https://gaminggadgets.de/wp-content/uploads/2019/10/diy-barcode-gitarre-300x178.png 300w, https://gaminggadgets.de/wp-content/uploads/2019/10/diy-barcode-gitarre-768x455.png 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></div><p>Wozu eine normale Gitarre benutzen, wenn es auch diese Barcode-Klampfe sein kann? Vollgestopft mit Technik ist diese DIY-Bastelei ebenfalls.</p>
+<p>James Brutan liebt es, abgefahrene Dinge zu basteln. Dafür benutzt ihr er häufig einen 3D-Drucker, um allerlei Teile selbst herzustellen. Eine solche Maschine benötigte er auch für sein Gitarren-Projekt, denn solch ein Musikinstrument gab es bisher nicht.</p>
+<h2>Was ist eine Barcode-Gitarre?</h2>
+<p>James‘ ganz besondere Gitarre ähnelt nur noch entfernt der Vorlage, denn statt Saiten gibt’s in seinem Fall etliche angebrachte Barcodes. Die wiederum liest er mittels Barcode-Scanner ein. Ein Arduino-Controller übernimmt die Auswertung und produziert daraufhin Töne.</p>
+<p><iframe title="This GUITAR only has Barcodes!" width="1170" height="658" src="https://www.youtube.com/embed/OctazO-VxBw?wmode=transparent&amp;rel=0&amp;feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p>Das Ergebnis könnt ihr im Video gut erkennen: Es ist tatsächlich eine vollwertig nutzbare Midi-Gitarre, die natürlich auch zum Spielen verwendet werden kann. Fürs Musizieren setzte James zusätzlich einen Korg X5D, einen Alesis DM5 und eine Noveation Bass Station sowie Arturia Beatstep Pro ein.</p>
+<p>Nett: James bietet den Quellcode zum Programmieren des Arduino (Mega) bei <a href="https://github.com/XRobots/ScannerGuitar">Github</a> an. Ich denke, die Bastel-Arbeit dürfte aber sehr viel aufwändiger gewesen sein…</p>
+</div><p>Der Beitrag <a rel="nofollow" href="https://gaminggadgets.de/diy-barcode-gitarre-abgefahrene-gitarre-mit-barcode-scanner">DIY Barcode-Gitarre</a> erschien zuerst auf <a rel="nofollow" href="https://gaminggadgets.de">GamingGadgets.de</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<enclosure url="https://gaminggadgets.de/wp-content/uploads/2019/10/diy-barcode-gitarre.png" length="253677" type="image/jpg" />
+<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://gaminggadgets.de/wp-content/uploads/2019/10/diy-barcode-gitarre.png" width="1000" height="593" medium="image" type="image/jpeg">
+	<media:copyright>GamingGadgets.de</media:copyright>
+	<media:title>Verrückte Barcode-Gitarre. (Foto: Screenshot)</media:title>
+	<media:description type="html"><![CDATA[Verrückte Barcode-Gitarre. (Foto: Screenshot)]]></media:description>
+</media:content>
+<media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://gaminggadgets.de/wp-content/uploads/2019/10/diy-barcode-gitarre.png" width="1000" height="593" />
+	</item>
+		<item>
+		<title>Guitendo</title>
+		<link>https://gaminggadgets.de/guitendo-nes-als-e-gitarre</link>
+		
+		<dc:creator><![CDATA[Sven]]></dc:creator>
+		<pubDate>Thu, 29 Nov 2018 11:35:00 +0000</pubDate>
+				<category><![CDATA[Undsonstso]]></category>
+		<category><![CDATA[Bastelei]]></category>
+		<category><![CDATA[DIY]]></category>
+		<category><![CDATA[E-Gitarre]]></category>
+		<category><![CDATA[Gitarre]]></category>
+		<category><![CDATA[Guitendo]]></category>
+		<category><![CDATA[Instrument]]></category>
+		<category><![CDATA[Nintendo]]></category>
+		<guid isPermaLink="false">http://gaminggadgets.de/?p=38083</guid>
+
+					<description><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://gaminggadgets.de/wp-content/uploads/2018/11/guitendo-nes-4.jpg" width="1600" height="821" title="NES-Konsolen als E-Gitarren. (Foto: Guitendo)" alt="NES-Konsolen als E-Gitarren. (Foto: Guitendo)" /></div>
+<div>
+<div style="margin-bottom:20px;"><img width="1600" height="821" src="https://gaminggadgets.de/wp-content/uploads/2018/11/guitendo-nes-4.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="NES-Konsolen als E-Gitarren. (Foto: Guitendo)" decoding="async" loading="lazy" srcset="https://gaminggadgets.de/wp-content/uploads/2018/11/guitendo-nes-4.jpg 1600w, https://gaminggadgets.de/wp-content/uploads/2018/11/guitendo-nes-4-300x154.jpg 300w, https://gaminggadgets.de/wp-content/uploads/2018/11/guitendo-nes-4-768x394.jpg 768w, https://gaminggadgets.de/wp-content/uploads/2018/11/guitendo-nes-4-1024x525.jpg 1024w" sizes="(max-width: 1600px) 100vw, 1600px" /></div>
+<p>Mit einer NES-Konsole könnt ihr jetzt auch Gitarre spielen. Guitendo macht’s möglich. Der Reverb-Anbieter Guitendo hatte eine lustige Idee: Was wäre, würde man im Stil einer alten NES-Konsole von Nintendo eine E-Gitarre entwerfen? Das Ergebnis wird seit einiger Zeit verkauft und bietet nicht nur Spaß fürs Auge. Guitendo &#8211; das ist die NES Gitarre Tatsächlich [&#8230;]</p></div>
+<p>Der Beitrag <a rel="nofollow" href="https://gaminggadgets.de/guitendo-nes-als-e-gitarre">Guitendo</a> erschien zuerst auf <a rel="nofollow" href="https://gaminggadgets.de">GamingGadgets.de</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://gaminggadgets.de/wp-content/uploads/2018/11/guitendo-nes-4.jpg" width="1600" height="821" title="NES-Konsolen als E-Gitarren. (Foto: Guitendo)" alt="NES-Konsolen als E-Gitarren. (Foto: Guitendo)" /></div><div><div style="margin-bottom:20px;"><img width="1600" height="821" src="https://gaminggadgets.de/wp-content/uploads/2018/11/guitendo-nes-4.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="NES-Konsolen als E-Gitarren. (Foto: Guitendo)" decoding="async" loading="lazy" srcset="https://gaminggadgets.de/wp-content/uploads/2018/11/guitendo-nes-4.jpg 1600w, https://gaminggadgets.de/wp-content/uploads/2018/11/guitendo-nes-4-300x154.jpg 300w, https://gaminggadgets.de/wp-content/uploads/2018/11/guitendo-nes-4-768x394.jpg 768w, https://gaminggadgets.de/wp-content/uploads/2018/11/guitendo-nes-4-1024x525.jpg 1024w" sizes="(max-width: 1600px) 100vw, 1600px" /></div><p>Mit einer NES-Konsole könnt ihr jetzt auch Gitarre spielen. Guitendo macht’s möglich.</p>
+<p>Der Reverb-Anbieter Guitendo hatte eine lustige Idee: Was wäre, würde man im Stil einer alten NES-Konsole von Nintendo eine E-Gitarre entwerfen? Das Ergebnis wird seit einiger Zeit verkauft und bietet nicht nur Spaß fürs Auge.</p>
+<figure id="attachment_38085" aria-describedby="caption-attachment-38085" style="width: 1600px" class="wp-caption aligncenter"><a href="http://gaminggadgets.de/wp-content/uploads/2018/11/guitendo-nes-3.jpg" data-rel="lightbox-image-0" data-rl_title="Mit einer NES-Konsole mal etwas anders spielen. (Foto: Guitendo)" data-rl_caption="" title="Mit einer NES-Konsole mal etwas anders spielen. (Foto: Guitendo)"><img decoding="async" class="size-full wp-image-38085" src="http://gaminggadgets.de/wp-content/uploads/2018/11/guitendo-nes-3.jpg" alt="Mit einer NES-Konsole mal etwas anders spielen. (Foto: Guitendo)" width="1600" height="1200" srcset="https://gaminggadgets.de/wp-content/uploads/2018/11/guitendo-nes-3.jpg 1600w, https://gaminggadgets.de/wp-content/uploads/2018/11/guitendo-nes-3-300x225.jpg 300w, https://gaminggadgets.de/wp-content/uploads/2018/11/guitendo-nes-3-768x576.jpg 768w, https://gaminggadgets.de/wp-content/uploads/2018/11/guitendo-nes-3-1024x768.jpg 1024w" sizes="(max-width: 1600px) 100vw, 1600px" /></a><figcaption id="caption-attachment-38085" class="wp-caption-text">Mit einer NES-Konsole mal etwas anders spielen. (Foto: Guitendo)</figcaption></figure>
+<h2>Guitendo &#8211; das ist die NES Gitarre</h2>
+<p>Tatsächlich ist Guitendo eine vollwertige E-Gitarre mit sechs Saiten, Lautstärkeregler, einer fixierten Brücke und allen Elementen, die von einem solchen Instrument erwartet werden. Auch lässt sie sich für Links- und Rechtshänder verwenden. Farbe, Kopfplatte und Nackentasche lassen sich sogar individualisieren.</p>
+
+<a href='https://gaminggadgets.de/wp-content/uploads/2018/11/guitendo-nes.jpg' title="Die Guitendo-E-Gitarre. (Foto: Guitendo)" data-rl_title="Die Guitendo-E-Gitarre. (Foto: Guitendo)" class="rl-gallery-link" data-rl_caption="" data-rel="lightbox-gallery-1"><img width="120" height="120" src="https://gaminggadgets.de/wp-content/uploads/2018/11/guitendo-nes-120x120.jpg" class="attachment-thumbnail size-thumbnail" alt="Die Guitendo-E-Gitarre. (Foto: Guitendo)" decoding="async" /></a>
+<a href='https://gaminggadgets.de/wp-content/uploads/2018/11/guitendo-nes-2.jpg' title="Die Guitendo-E-Gitarre. (Foto: Guitendo)" data-rl_title="Die Guitendo-E-Gitarre. (Foto: Guitendo)" class="rl-gallery-link" data-rl_caption="" data-rel="lightbox-gallery-1"><img width="120" height="120" src="https://gaminggadgets.de/wp-content/uploads/2018/11/guitendo-nes-2-120x120.jpg" class="attachment-thumbnail size-thumbnail" alt="Die Guitendo-E-Gitarre. (Foto: Guitendo)" decoding="async" /></a>
+
+<p>Guitendo widmet sich voll und ganz der NES-Konsole, aber auf Wunsch lassen sich auch E-Gitarren im Design eines SNES, einer PlayStation oder einer beliebigen SEGA-Konsole anfertigen. Nötig dafür ist die jeweilige Spielemaschine im Original. Und wer will, der bekommt auch noch LED-Spielereien oder handgemalte Kunstwerke.</p>
+<p>Neuerdings verbaut der Hersteller im Gehäuse der Gitarre ein <a href="http://gaminggadgets.de/nes-mini-mit-diesem-trick-installiert-ihr-weitere-spiele-auf-der-konsole">NES Classic Mini</a> oder ein Raspberry Pi. Gegen Auspreis erhaltet ihr also sowohl eine Retro-Konsole als auch ein Instrument in einem Gerät!</p>
+<h2>Super Mario auf der Guitendo-E-Gitarre</h2>
+<p>Dass Guitendo tatsächlich funktioniert, zeigt der Youtuber Rob Scallon. Der spielt ein originale „Super Mario Bros.“-Theme auf der Gitarre…</p>
+<p><iframe title="Mario on a NINTENDO guitar!" width="1170" height="658" src="https://www.youtube.com/embed/rLwK-4ESCNI?wmode=transparent&amp;rel=0&amp;feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p>Bei <a href="https://reverb.com/item/2260395-guitendo-nintendo-nes-electric-guitar-custom-built-for-you" target="_blank" rel="noopener">Reverb</a> könnt ihr ein NES Guitendo für etwas über 400 Euro plus Versandkosten erwerben. Nicht günstig, aber…dafür beistzt nicht jeder solch ein Teil!</p>
+</div><p>Der Beitrag <a rel="nofollow" href="https://gaminggadgets.de/guitendo-nes-als-e-gitarre">Guitendo</a> erschien zuerst auf <a rel="nofollow" href="https://gaminggadgets.de">GamingGadgets.de</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<enclosure url="https://gaminggadgets.de/wp-content/uploads/2018/11/guitendo-nes-4.jpg" length="242296" type="image/jpg" />
+<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://gaminggadgets.de/wp-content/uploads/2018/11/guitendo-nes-4.jpg" width="1600" height="821" medium="image" type="image/jpeg">
+	<media:copyright>GamingGadgets.de</media:copyright>
+	<media:title>NES-Konsolen als E-Gitarren. (Foto: Guitendo)</media:title>
+	<media:description type="html"><![CDATA[NES-Konsolen als E-Gitarren. (Foto: Guitendo)]]></media:description>
+</media:content>
+<media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://gaminggadgets.de/wp-content/uploads/2018/11/guitendo-nes-4.jpg" width="1600" height="821" />
+	</item>
+		<item>
+		<title>Soundbrace</title>
+		<link>https://gaminggadgets.de/soundbrace-nie-klang-die-luftgitarre-besser</link>
+					<comments>https://gaminggadgets.de/soundbrace-nie-klang-die-luftgitarre-besser#comments</comments>
+		
+		<dc:creator><![CDATA[Matthias]]></dc:creator>
+		<pubDate>Fri, 14 Jun 2013 11:35:58 +0000</pubDate>
+				<category><![CDATA[Undsonstso]]></category>
+		<category><![CDATA[Gitarre]]></category>
+		<category><![CDATA[Instrument]]></category>
+		<category><![CDATA[Luftgitarre]]></category>
+		<category><![CDATA[Soundbrace]]></category>
+		<guid isPermaLink="false">http://gaminggadgets.de/?p=7911</guid>
+
+					<description><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://gaminggadgets.de/wp-content/uploads/2013/06/soundbrace_02.jpg" width="383" height="334" title="Nie klang die Luftgitarre so gut! (Foto: Yanko Design)" alt="Nie klang die Luftgitarre so gut! (Foto: Yanko Design)" /></div>
+<div>
+<div style="margin-bottom:20px;"><img width="383" height="334" src="https://gaminggadgets.de/wp-content/uploads/2013/06/soundbrace_02.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Nie klang die Luftgitarre so gut! (Foto: Yanko Design)" decoding="async" loading="lazy" srcset="https://gaminggadgets.de/wp-content/uploads/2013/06/soundbrace_02.jpg 383w, https://gaminggadgets.de/wp-content/uploads/2013/06/soundbrace_02-300x261.jpg 300w" sizes="(max-width: 383px) 100vw, 383px" /></div>
+<p>Ganz ehrlich, wer hat bei den Klängen von AC/DC, Status Quo, Metallica oder sonst einer beliebigen Rockband noch nie an der Luftgitarre gezupft? Schließlich handelt es sich dabei auch um eine überaus sportliche Betätigung, zu der alljährlich Weltmeisterschaften ausgetragen werden.  Zugegeben, bei diesen Veranstaltungen zählen vor allem der Stil und der künstlerische Ausdruck des &#8222;Sportlers&#8220; [&#8230;]</p></div>
+<p>Der Beitrag <a rel="nofollow" href="https://gaminggadgets.de/soundbrace-nie-klang-die-luftgitarre-besser">Soundbrace</a> erschien zuerst auf <a rel="nofollow" href="https://gaminggadgets.de">GamingGadgets.de</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://gaminggadgets.de/wp-content/uploads/2013/06/soundbrace_02.jpg" width="383" height="334" title="Nie klang die Luftgitarre so gut! (Foto: Yanko Design)" alt="Nie klang die Luftgitarre so gut! (Foto: Yanko Design)" /></div><div><div style="margin-bottom:20px;"><img width="383" height="334" src="https://gaminggadgets.de/wp-content/uploads/2013/06/soundbrace_02.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Nie klang die Luftgitarre so gut! (Foto: Yanko Design)" decoding="async" loading="lazy" srcset="https://gaminggadgets.de/wp-content/uploads/2013/06/soundbrace_02.jpg 383w, https://gaminggadgets.de/wp-content/uploads/2013/06/soundbrace_02-300x261.jpg 300w" sizes="(max-width: 383px) 100vw, 383px" /></div><figure id="attachment_7914" aria-describedby="caption-attachment-7914" style="width: 300px" class="wp-caption alignleft"><a href="http://gaminggadgets.de/wp-content/uploads/2013/06/soundbrace_02.jpg" data-rel="lightbox-image-0" data-rl_title="Nie klang die Luftgitarre so gut! (Foto: Yanko Design)" data-rl_caption="" title="Nie klang die Luftgitarre so gut! (Foto: Yanko Design)"><img decoding="async" class="size-medium wp-image-7914" alt="Nie klang die Luftgitarre so gut! (Foto: Yanko Design)" src="http://gaminggadgets.de/wp-content/uploads/2013/06/soundbrace_02-300x261.jpg" width="300" height="261" srcset="https://gaminggadgets.de/wp-content/uploads/2013/06/soundbrace_02-300x261.jpg 300w, https://gaminggadgets.de/wp-content/uploads/2013/06/soundbrace_02.jpg 383w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-7914" class="wp-caption-text">Klingt gut!? (Foto: Yanko Design)</figcaption></figure>
+<p>Ganz ehrlich, wer hat bei den Klängen von AC/DC, Status Quo, Metallica oder sonst einer beliebigen Rockband noch nie an der Luftgitarre gezupft? Schließlich handelt es sich dabei auch um eine überaus sportliche Betätigung, zu der alljährlich <a href="http://www.airguitarworldchampionships.com/" target="_blank">Weltmeisterschaften </a>ausgetragen werden.  Zugegeben, bei diesen Veranstaltungen zählen vor allem der Stil und der künstlerische Ausdruck des &#8222;Sportlers&#8220; und weniger, welche vermeintlichen Töne er aus dem luftigen Instrument herausholen würde. Wer sich von euch eher genau dafür interessiert, für den ist Soundbrace genau das richtige Zubehör!</p>
+<p>Mit Soundbrace ist es tatsächlich möglich, der Luftgitarre Töne zu entlocken. <span id="more-7911"></span>Das System besteht aus zwei Armbändern, die mit jeweils zwei Sensoren zur Messung der Fingerbewegungen und Unterarm-Anspannung ausgestattet sind. Kalibriert werden die Sensoren zunächst mit einer echten Gitarre in der Hand. Haben die sich schließlich den persönlichen Stil des Musikers &#8222;eingeprägt&#8220;, berechnet eine Software die in der Luft gezupften Töne und macht diese Melodie dank eines  Kopfhörer-Anschlusses  für den Luftgitarren-Gott hörbar. Außerdem verfügt Soundbrace über einen Micro USB-Port, über den Daten mit einer dazugehörigen App synchronisiert werden können.</p>
+<figure id="attachment_7915" aria-describedby="caption-attachment-7915" style="width: 530px" class="wp-caption aligncenter"><a href="http://gaminggadgets.de/wp-content/uploads/2013/06/soundbrace_03.jpg" data-rel="lightbox-image-1" data-rl_title="Die klangvollen Armbänder (Foto: Yanko Design)" data-rl_caption="" title="Die klangvollen Armbänder (Foto: Yanko Design)"><img decoding="async" class="size-full wp-image-7915" style="vertical-align: middle;" alt="Die klangvollen Armbänder (Foto: Yanko Design)" src="http://gaminggadgets.de/wp-content/uploads/2013/06/soundbrace_03.jpg" width="530" height="453" srcset="https://gaminggadgets.de/wp-content/uploads/2013/06/soundbrace_03.jpg 600w, https://gaminggadgets.de/wp-content/uploads/2013/06/soundbrace_03-300x256.jpg 300w" sizes="(max-width: 530px) 100vw, 530px" /></a><figcaption id="caption-attachment-7915" class="wp-caption-text">Die klangvollen Armbänder (Foto: Yanko Design)</figcaption></figure>
+<p>Leider sieht es so aus, dass Soundbrace derzeit noch nicht käuflich erworben werden kann. Weitere Infos zu dem von Eugene Wang designten Produkt gibt es aber unter <a href="http://www.yankodesign.com/2013/06/12/air-guitar-anywhere/" target="_blank">yankodesign.com</a>.</p>
+</div><p>Der Beitrag <a rel="nofollow" href="https://gaminggadgets.de/soundbrace-nie-klang-die-luftgitarre-besser">Soundbrace</a> erschien zuerst auf <a rel="nofollow" href="https://gaminggadgets.de">GamingGadgets.de</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://gaminggadgets.de/soundbrace-nie-klang-die-luftgitarre-besser/feed</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<enclosure url="https://gaminggadgets.de/wp-content/uploads/2013/06/soundbrace_02.jpg" length="24313" type="image/jpg" />
+<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://gaminggadgets.de/wp-content/uploads/2013/06/soundbrace_02.jpg" width="383" height="334" medium="image" type="image/jpeg">
+	<media:copyright>GamingGadgets.de</media:copyright>
+	<media:title>Nie klang die Luftgitarre so gut! (Foto: Yanko Design)</media:title>
+	<media:description type="html"><![CDATA[Nie klang die Luftgitarre so gut! (Foto: Yanko Design)]]></media:description>
+</media:content>
+<media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://gaminggadgets.de/wp-content/uploads/2013/06/soundbrace_02.jpg" width="383" height="334" />
+	</item>
+		<item>
+		<title>Rocksmith</title>
+		<link>https://gaminggadgets.de/rocksmith-tipps</link>
+					<comments>https://gaminggadgets.de/rocksmith-tipps#comments</comments>
+		
+		<dc:creator><![CDATA[Sven]]></dc:creator>
+		<pubDate>Wed, 05 Dec 2012 08:51:39 +0000</pubDate>
+				<category><![CDATA[Games & Software]]></category>
+		<category><![CDATA[Gitarre]]></category>
+		<category><![CDATA[PC]]></category>
+		<category><![CDATA[PlayStation 3]]></category>
+		<category><![CDATA[Rocksmith]]></category>
+		<category><![CDATA[Ubisoft]]></category>
+		<category><![CDATA[Xbox 360]]></category>
+		<guid isPermaLink="false">http://gaminggadgets.de/?p=4286</guid>
+
+					<description><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://gaminggadgets.de/wp-content/uploads/2012/12/rocksmith_gross_2.jpg" width="720" height="480" title="Spielen wie die Profis? (Foto: Ubisoft)" alt="Spielen wie die Profis? (Foto: Ubisoft)" /></div>
+<div>
+<div style="margin-bottom:20px;"><img width="720" height="480" src="https://gaminggadgets.de/wp-content/uploads/2012/12/rocksmith_gross_2.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Spielen wie die Profis? (Foto: Ubisoft)" decoding="async" loading="lazy" srcset="https://gaminggadgets.de/wp-content/uploads/2012/12/rocksmith_gross_2.jpg 720w, https://gaminggadgets.de/wp-content/uploads/2012/12/rocksmith_gross_2-300x200.jpg 300w" sizes="(max-width: 720px) 100vw, 720px" /></div>
+<p>Seit ein paar Wochen ist „Rocksmith“ in hiesigen Gefilden erhältlich. Das unkonventionelle Musizierspiel unterscheidet sich gravierend von den ehemaligen Hits „Rock Band“ oder „Guitar Hero“, von denen mittlerweile kaum noch jemand spricht. Denn im Gegensatz zu diesen Titeln könnt ihr bei „Rocksmith“ echte Gitarren verwenden. Klingt spannend? Dann gibt&#8217;s an dieser Stelle einige Tipps, die [&#8230;]</p></div>
+<p>Der Beitrag <a rel="nofollow" href="https://gaminggadgets.de/rocksmith-tipps">Rocksmith</a> erschien zuerst auf <a rel="nofollow" href="https://gaminggadgets.de">GamingGadgets.de</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://gaminggadgets.de/wp-content/uploads/2012/12/rocksmith_gross_2.jpg" width="720" height="480" title="Spielen wie die Profis? (Foto: Ubisoft)" alt="Spielen wie die Profis? (Foto: Ubisoft)" /></div><div><div style="margin-bottom:20px;"><img width="720" height="480" src="https://gaminggadgets.de/wp-content/uploads/2012/12/rocksmith_gross_2.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Spielen wie die Profis? (Foto: Ubisoft)" decoding="async" loading="lazy" srcset="https://gaminggadgets.de/wp-content/uploads/2012/12/rocksmith_gross_2.jpg 720w, https://gaminggadgets.de/wp-content/uploads/2012/12/rocksmith_gross_2-300x200.jpg 300w" sizes="(max-width: 720px) 100vw, 720px" /></div><figure id="attachment_4287" aria-describedby="caption-attachment-4287" style="width: 530px" class="wp-caption aligncenter"><a href="http://gaminggadgets.de/wp-content/uploads/2012/12/rocksmith_gross.jpg" data-rel="lightbox-image-0" data-rl_title="Mit echten Gitarren spielen - Rocksmith macht es möglich. (Foto: Ubisoft)" data-rl_caption=""><img decoding="async" class=" wp-image-4287 " title="Mit echten Gitarren spielen - Rocksmith macht es möglich. (Foto: Ubisoft)" src="http://gaminggadgets.de/wp-content/uploads/2012/12/rocksmith_gross-1024x680.jpg" alt="Mit echten Gitarren spielen - Rocksmith macht es möglich. (Foto: Ubisoft)" width="530" height="300" /></a><figcaption id="caption-attachment-4287" class="wp-caption-text">Mit echten Gitarren spielen &#8211; Rocksmith macht es möglich. (Foto: Ubisoft)</figcaption></figure>
+<p>Seit ein paar Wochen ist „Rocksmith“ in hiesigen Gefilden erhältlich. Das unkonventionelle Musizierspiel unterscheidet sich gravierend von den ehemaligen Hits „Rock Band“ oder „Guitar Hero“, von denen mittlerweile kaum noch jemand spricht. Denn im Gegensatz zu diesen Titeln könnt ihr bei „Rocksmith“ echte Gitarren verwenden.</p>
+<p>Klingt spannend? Dann gibt&#8217;s an dieser Stelle einige Tipps, die ihr beim Kauf beachten solltet. Und besitzt ihr &#8222;Rocksmith&#8220; bereits und ärgert ihr euch mit der Latenz herum, dann haben wir auch noch ein paar Ratschläge im Angebot.</p>
+<p><span id="more-4286"></span></p>
+<h3>So funktioniert es</h3>
+<figure id="attachment_4289" aria-describedby="caption-attachment-4289" style="width: 300px" class="wp-caption alignright"><a href="http://gaminggadgets.de/wp-content/uploads/2012/12/rocksmith_gross_2.jpg" data-rel="lightbox-image-1" data-rl_title="Spielen wie die Profis? (Foto: Ubisoft)" data-rl_caption=""><img decoding="async" class="size-medium wp-image-4289" title="Spielen wie die Profis? (Foto: Ubisoft)" src="http://gaminggadgets.de/wp-content/uploads/2012/12/rocksmith_gross_2-300x200.jpg" alt="Spielen wie die Profis? (Foto: Ubisoft)" width="300" height="200" srcset="https://gaminggadgets.de/wp-content/uploads/2012/12/rocksmith_gross_2-300x200.jpg 300w, https://gaminggadgets.de/wp-content/uploads/2012/12/rocksmith_gross_2.jpg 720w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-4289" class="wp-caption-text">Spielen wie die Profis? (Foto: Ubisoft)</figcaption></figure>
+<p>Das Konzept hinter „Rocksmith“ ist gar nicht mal so komplex. Denn eure Gitarre verbindet ihr über einen 6,35mm-Klingenstecker mit eurem Rechner oder eurer Konsole (Xbox 360, PlayStation 3). Möglich macht dies ein spezielles Kabel, das der Standard-Version des Spiels beiliegt. Im Grunde müsst ihr nur darauf achten, dass eure Gitarre besagten Anschluss besitzt &#8211; der Rest ist irrelevant. Wolltet ihr dagegen schon immer einmal das Spielen des Instruments auf unterhaltsame Art und Weise erlernen, könnt ihr auch ein Komplettpaket erwerben, das eine echte Epiphone Les Paul Jr.-Gitarre enthält. Doch das Bundle, bestehend aus Klampfe, dem sogenannten Real Tone Cable und freilich dem Spiel, liegt bei 300 bis 400 Euro. Dumm nur, dass dieses vielerorts ausverkauft ist, was wohl an der doch sehr edlen Gitarre liegt.</p>
+<h3>Sparen</h3>
+<figure id="attachment_4288" aria-describedby="caption-attachment-4288" style="width: 300px" class="wp-caption alignleft"><a href="http://gaminggadgets.de/wp-content/uploads/2012/12/rocksmith_kabel.jpg" data-rel="lightbox-image-2" data-rl_title="Dieses Kabel benötigt ihr. (Foto: Ubisoft)" data-rl_caption=""><img decoding="async" class="size-medium wp-image-4288" title="Dieses Kabel benötigt ihr. (Foto: Ubisoft)" src="http://gaminggadgets.de/wp-content/uploads/2012/12/rocksmith_kabel-300x197.jpg" alt="Dieses Kabel benötigt ihr. (Foto: Ubisoft)" width="300" height="197" srcset="https://gaminggadgets.de/wp-content/uploads/2012/12/rocksmith_kabel-300x197.jpg 300w, https://gaminggadgets.de/wp-content/uploads/2012/12/rocksmith_kabel-1024x674.jpg 1024w, https://gaminggadgets.de/wp-content/uploads/2012/12/rocksmith_kabel.jpg 1496w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-4288" class="wp-caption-text">Dieses Kabel benötigt ihr. (Foto: Ubisoft)</figcaption></figure>
+<p>Günstiger kommt ihr fraglos mit dem normalen Spiel samt Kabel, für das ihr rund 70 Euro hinblättert. Eine ordentliche Gitarre bekommt ihr schon für 150 Euro &#8211; und könnt  frei entscheiden, welches Modell euch besonders reizt. Tipp: Verfügt ihr nur über eine Akustikgitarre, dann holt euch doch einen Tonabnehmer in einem Musikladen. Dadurch rüstet ihr den Anschluss sozusagen nach. Bassgitarren werden übrigens auch unterstützt &#8211; erstmals in der hierzulande erhältlichen Fassung des Spiels. Und ganz wichtig: Linkshänder dürfen ebenfalls loslegen. So oder so benötigt ihr keinen Verstärker mehr, denn das übernehmen der Rechner sowie die Konsolen beziehungsweise das TV-Gerät.</p>
+<p>„Rocksmith“ bietet diverse Spielmodi &#8211; ihr könnt regulär zahlreiche offizielle Songs nachspielen, einen Mehrspielermodus nutzen oder eben überhaupt erst in den Kontakt mit dem Gitarrenspiel treten. Da sich das Spiel dynamisch eurem Können anpasst, werdet ihr zu Beginn nicht überfordert. Erfahreneren Musikanten werden dagegen weniger Noten angezeigt, die es zu spielen gilt. Experten sollen dadurch genauso auf ihre Kosten kommen.</p>
+<h3>Kampf der Latenz</h3>
+<p>Da ihr „Rocksmith“ seit einigen Wochen käuflich erwerben könnt, gibt’s längst erste Kritiken zur europäischen Version. Diese sind in vielerlei Hinsicht interessant, denn sie bemängeln vor allem eines: Latenzprobleme. Das heißt, dass es zu Verzögerungen zwischen Spiel und Darstellung auf dem Fernseher kommt. Dies wiederum kann im schlimmsten Fall den Spaß verderben, wenn sie zu hoch ausfallen.</p>
+<p><center></p>
+<div class="ebuzzing_box"><script type="text/javascript" src="http://player.ebuzzing.com/player_blog/player.php?parametre=852840"></script><a href="http://www.ebuzzing.de" rel="nofollow" class="wikio-widget-ebmini" >Viral video by ebuzzing</a><script type="text/javascript" src="http://player.ebuzzing.com/player_blog/js/mini_share.php" charset="utf-8"></script></div>
+<p></center></p>
+<p>Doch es gibt einige praktische Hilfen, um die Latenz weitgehend in den Griff zu bekommen:</p>
+<ul>
+<li>Stellt an eurem TV-Gerät oder Monitor &#8211; sofern vorhanden &#8211; passende Modi wie „Spiel“ oder „PC“ ein. Diese sind in der Regel dazu optimiert, schnellstmöglich Bilder darzustellen.</li>
+<li>Schaltet ggf. am Fernseher Videobearbeitungsfilter aus. Wie das funktioniert, das erfahrt ihr am besten im Handbuch.</li>
+<li>Die native Bildauflösung der Konsole sollte mit der des Fernsehers übereinstimmen. Vergleicht, ob z.B. die Xbox 360 oder PS3 in den Optionen auf 720p/1080i/1080p eingestellt sind und sich dies mit dem TV deckt.</li>
+<li>Sollte es mit einer HDMI-Verbindung (PC/Konsole zu TV) Schwierigkeiten geben, kann die Latenzzeit durch Komponenten- oder VGA- Kabel gravierend verbessert werden</li>
+<li>Besitzt ihr externe Lautsprecher, zum Beispiel über eine Surround-Anlage, verkürzt ihr die Latenzzeit, indem ihr analoge Audio-Kabel verwendet. In den Spiel-Optionen könnt ihr die Wiedergabeverzögerungskorrektur verwenden, um die Audio-Ausgabe zu optimieren.</li>
+</ul>
+<p>Weitere Details zu „Rocksmith“ erhaltet ihr auf der <a href="http://rocksmith.ubi.com/rocksmith/de-DE/home/" rel="nofollow" target="_blank">offiziellen Webseite</a>.</p>
+</div><p>Der Beitrag <a rel="nofollow" href="https://gaminggadgets.de/rocksmith-tipps">Rocksmith</a> erschien zuerst auf <a rel="nofollow" href="https://gaminggadgets.de">GamingGadgets.de</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://gaminggadgets.de/rocksmith-tipps/feed</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<enclosure url="https://gaminggadgets.de/wp-content/uploads/2012/12/rocksmith_gross_2.jpg" length="101420" type="image/jpg" />
+<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://gaminggadgets.de/wp-content/uploads/2012/12/rocksmith_gross_2.jpg" width="720" height="480" medium="image" type="image/jpeg">
+	<media:copyright>GamingGadgets.de</media:copyright>
+	<media:title>Spielen wie die Profis? (Foto: Ubisoft)</media:title>
+	<media:description type="html"><![CDATA[Spielen wie die Profis? (Foto: Ubisoft)]]></media:description>
+</media:content>
+<media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://gaminggadgets.de/wp-content/uploads/2012/12/rocksmith_gross_2.jpg" width="720" height="480" />
+	</item>
+		<item>
+		<title>All-Star Guitar</title>
+		<link>https://gaminggadgets.de/all-star-guitar</link>
+					<comments>https://gaminggadgets.de/all-star-guitar#comments</comments>
+		
+		<dc:creator><![CDATA[Sven]]></dc:creator>
+		<pubDate>Sun, 07 Oct 2012 06:00:34 +0000</pubDate>
+				<category><![CDATA[Undsonstso]]></category>
+		<category><![CDATA[All-Star Guitar]]></category>
+		<category><![CDATA[Gitarre]]></category>
+		<category><![CDATA[Instrument]]></category>
+		<category><![CDATA[ION]]></category>
+		<category><![CDATA[iPad]]></category>
+		<guid isPermaLink="false">http://gaminggadgets.de/?p=3198</guid>
+
+					<description><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://gaminggadgets.de/wp-content/uploads/2012/10/ionguitar1.jpg" width="500" height="500" title="Das iPad in der Gitarre. (Foto: ION)" alt="Das iPad in der Gitarre. (Foto: ION)" /></div>
+<div>
+<div style="margin-bottom:20px;"><img width="500" height="500" src="https://gaminggadgets.de/wp-content/uploads/2012/10/ionguitar1.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Das iPad in der Gitarre. (Foto: ION)" decoding="async" loading="lazy" srcset="https://gaminggadgets.de/wp-content/uploads/2012/10/ionguitar1.jpg 500w, https://gaminggadgets.de/wp-content/uploads/2012/10/ionguitar1-120x120.jpg 120w, https://gaminggadgets.de/wp-content/uploads/2012/10/ionguitar1-300x300.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" /></div>
+<p>Anfang des Jahres auf der Consumer Electronics Show vorgestellt, ist die Gitarre fürs iPad jetzt auch in hiesigen Gefilden erhältlich. Das Gerät vom Zubehörhesteller ION hört auf den Namen All-Star Guitar und kostet bei MegaGadgets 129,95 Euro. Was es dafür gibt? Einen in meinen Augen echt seltsamen Controller zum Musizieren und Spielen. Denn ihr erhaltet [&#8230;]</p></div>
+<p>Der Beitrag <a rel="nofollow" href="https://gaminggadgets.de/all-star-guitar">All-Star Guitar</a> erschien zuerst auf <a rel="nofollow" href="https://gaminggadgets.de">GamingGadgets.de</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://gaminggadgets.de/wp-content/uploads/2012/10/ionguitar1.jpg" width="500" height="500" title="Das iPad in der Gitarre. (Foto: ION)" alt="Das iPad in der Gitarre. (Foto: ION)" /></div><div><div style="margin-bottom:20px;"><img width="500" height="500" src="https://gaminggadgets.de/wp-content/uploads/2012/10/ionguitar1.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Das iPad in der Gitarre. (Foto: ION)" decoding="async" loading="lazy" srcset="https://gaminggadgets.de/wp-content/uploads/2012/10/ionguitar1.jpg 500w, https://gaminggadgets.de/wp-content/uploads/2012/10/ionguitar1-120x120.jpg 120w, https://gaminggadgets.de/wp-content/uploads/2012/10/ionguitar1-300x300.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" /></div><figure id="attachment_3199" aria-describedby="caption-attachment-3199" style="width: 300px" class="wp-caption alignleft"><a href="http://gaminggadgets.de/wp-content/uploads/2012/10/ionguitar1.jpg" data-rel="lightbox-image-0" data-rl_title="Das iPad in der Gitarre. (Foto: ION)" data-rl_caption=""><img decoding="async" class="size-medium wp-image-3199" title="Das iPad in der Gitarre. (Foto: ION)" src="http://gaminggadgets.de/wp-content/uploads/2012/10/ionguitar1-300x300.jpg" alt="Das iPad in der Gitarre. (Foto: ION)" width="300" height="300" srcset="https://gaminggadgets.de/wp-content/uploads/2012/10/ionguitar1-300x300.jpg 300w, https://gaminggadgets.de/wp-content/uploads/2012/10/ionguitar1-120x120.jpg 120w, https://gaminggadgets.de/wp-content/uploads/2012/10/ionguitar1.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-3199" class="wp-caption-text">Das iPad in der Gitarre. (Foto: ION)</figcaption></figure>
+<p>Anfang des Jahres auf der Consumer Electronics Show vorgestellt, ist die Gitarre fürs iPad jetzt auch in hiesigen Gefilden erhältlich. Das Gerät vom Zubehörhesteller ION hört auf den Namen All-Star Guitar und kostet bei <a href="http://gaminggadgets.de/megagadgets-all-star-guitar" target="_blank">MegaGadgets</a> 129,95 Euro. Was es dafür gibt? Einen in meinen Augen echt seltsamen Controller zum Musizieren und Spielen.</p>
+<p>Denn ihr erhaltet für besagten Preis quasi nur den Korpus einer Gitarre. In das Holzgehäuse steckt ihr das iPad, entsprechende Anschlüsse sind vorhanden. Laut Erfinder dieser Peripherie ist die Klampfe nicht nur für das Apple-Tablet (alle Generationen) geeignet, sondern ebenfalls für das iPhone 4(S) und den iPod Touch (4G). Mit den kleinen Äpfeln dürfte die Gitarre allerdings nicht mehr stimmig aussehen. Aber wozu das alles gut ist?</p>
+
+<a href='https://gaminggadgets.de/wp-content/uploads/2012/10/ionguitar4.jpg' title="Die kostenlose App simuliert verschiedene Gitarren. (Foto: ION)" data-rl_title="Die kostenlose App simuliert verschiedene Gitarren. (Foto: ION)" class="rl-gallery-link" data-rl_caption="" data-rel="lightbox-gallery-2"><img width="120" height="120" src="https://gaminggadgets.de/wp-content/uploads/2012/10/ionguitar4-120x120.jpg" class="attachment-thumbnail size-thumbnail" alt="Die kostenlose App simuliert verschiedene Gitarren. (Foto: ION)" decoding="async" /></a>
+<a href='https://gaminggadgets.de/wp-content/uploads/2012/10/ionguitar3.jpg' title="Die Gitarre komplett. (Foto: ION)" data-rl_title="Die Gitarre komplett. (Foto: ION)" class="rl-gallery-link" data-rl_caption="" data-rel="lightbox-gallery-2"><img width="120" height="120" src="https://gaminggadgets.de/wp-content/uploads/2012/10/ionguitar3-120x120.jpg" class="attachment-thumbnail size-thumbnail" alt="Die Gitarre komplett. (Foto: ION)" decoding="async" /></a>
+<a href='https://gaminggadgets.de/wp-content/uploads/2012/10/ionguitar2.jpg' title="Auch das iPhone soll sicher sitzen. (Foto: ION)" data-rl_title="Auch das iPhone soll sicher sitzen. (Foto: ION)" class="rl-gallery-link" data-rl_caption="" data-rel="lightbox-gallery-2"><img width="120" height="120" src="https://gaminggadgets.de/wp-content/uploads/2012/10/ionguitar2-120x120.jpg" class="attachment-thumbnail size-thumbnail" alt="Auch das iPhone soll sicher sitzen. (Foto: ION)" decoding="async" /></a>
+
+<p><span id="more-3198"></span></p>
+<p>Nun, ihr sollt mit All-Star Guitar natürlich Musik produzieren. Auf echte Saiten wurde komplett verzichtet, stattdessen gibt’s leuchte LED-Knöpfe am Gitarrenhals und natürlich den Touchscreen des Tablets selbst. Der Display stellt virtuelle Saiten dar, ihr könnt diese anschlagen. Ein richtiges Feedback könnt ihr logischerweise nicht erwarten.</p>
+<p>Dafür besitzt All-Star Guitar einen eingebauten Lautsprecher, sodass ihr unterwegs Musik ohne zusätzlichen Verstärker machen könnt. 4 AA-Batterien sorgen für den nötigen Saft. Einen Kopfhörer-Eingang steht außerdem zur Verfügung.</p>
+<p>Die All-Star Guitar unterstützt den Core MIDI-Standard. Das bedeutet: Unterstützt eine App diesen, könnt ihr das Programm gut mit der Gitarre verwenden. Eine entsprechende Software hat ION auch parat. Diese ladet ihr euch kostenlos aus dem <a href="http://itunes.apple.com/us/app/all-star-guitar/id547387133?mt=8" target="_blank">AppStore</a>. Sie bietet die Option, eine Gitarre eurer Wahl (elektrische, akustische, Bass-Gitarre) zu simulieren sowie 10 Songs nachzuspielen bzw. überhaupt das Musikinstrument zu erlernen. &#8222;GarageBand&#8220; und &#8222;WI Guitar&#8220; werden außerdem unterstützt.</p>
+<p>http://www.youtube.com/watch?v=LlgAQ8Cjd3U</p>
+<p>Ein freakiges Teil, bei dem ich mich ernsthaft frage, ob es sinnvoll ist, Saiten auf einem Touchscreen abzubilden. Ich mein &#8211; das ist doch kein vollwertiger Ersatz, oder? Auf mich wirkt das eher wie ein „Guitar Hero“ ohne Spielkonsole. Das muss wiederum nichts Schlechtes sein&#8230;</p>
+<p><em>(via <a href="http://gaminggadgets.de/megagadgets-all-star-guitar" target="_blank">MegaGadgets</a></em> <em>&amp; <a href="http://www.ionaudio.com/products/details/allstarguitar" target="_blank">IONAudio</a>)</em></p>
+</div><p>Der Beitrag <a rel="nofollow" href="https://gaminggadgets.de/all-star-guitar">All-Star Guitar</a> erschien zuerst auf <a rel="nofollow" href="https://gaminggadgets.de">GamingGadgets.de</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://gaminggadgets.de/all-star-guitar/feed</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<enclosure url="https://gaminggadgets.de/wp-content/uploads/2012/10/ionguitar1.jpg" length="43107" type="image/jpg" />
+<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://gaminggadgets.de/wp-content/uploads/2012/10/ionguitar1.jpg" width="500" height="500" medium="image" type="image/jpeg">
+	<media:copyright>GamingGadgets.de</media:copyright>
+	<media:title>Das iPad in der Gitarre. (Foto: ION)</media:title>
+	<media:description type="html"><![CDATA[Das iPad in der Gitarre. (Foto: ION)]]></media:description>
+</media:content>
+<media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://gaminggadgets.de/wp-content/uploads/2012/10/ionguitar1.jpg" width="500" height="500" />
+	</item>
+		<item>
+		<title>Super Mario Guitar</title>
+		<link>https://gaminggadgets.de/super-mario-guitar</link>
+					<comments>https://gaminggadgets.de/super-mario-guitar#comments</comments>
+		
+		<dc:creator><![CDATA[Sven]]></dc:creator>
+		<pubDate>Mon, 10 Sep 2012 06:00:01 +0000</pubDate>
+				<category><![CDATA[Undsonstso]]></category>
+		<category><![CDATA[Gitarre]]></category>
+		<category><![CDATA[Instrument]]></category>
+		<category><![CDATA[Super Mario]]></category>
+		<category><![CDATA[Super Mario Guitar]]></category>
+		<guid isPermaLink="false">http://gaminggadgets.de/?p=2763</guid>
+
+					<description><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://gaminggadgets.de/wp-content/uploads/2012/09/mario-guitar-5.jpg" width="500" height="500" title="Nicht offiziell, trotzdem toll. (Foto: G33KeD)" alt="Nicht offiziell, trotzdem toll. (Foto: G33KeD)" /></div>
+<div>
+<div style="margin-bottom:20px;"><img width="500" height="500" src="https://gaminggadgets.de/wp-content/uploads/2012/09/mario-guitar-5.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Nicht offiziell, trotzdem toll. (Foto: G33KeD)" decoding="async" loading="lazy" srcset="https://gaminggadgets.de/wp-content/uploads/2012/09/mario-guitar-5.jpg 500w, https://gaminggadgets.de/wp-content/uploads/2012/09/mario-guitar-5-120x120.jpg 120w, https://gaminggadgets.de/wp-content/uploads/2012/09/mario-guitar-5-300x300.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" /></div>
+<p>Herrlich! Eine Profi-Gitarre mit “Super Mario”-Motiv? Ja, die gibt’s zu kaufen &#8211; für schmale 489 Australische Dollar (zirka 400 Euro). Sie basiert auf einer Gitarre des Herstellers Luthier, der laut eigenen Aussagen eine über 20-jährige Erfahrung im Bau von hochwertigen, individuellen Musikinstrumenten besitzt. Die Super Mario Guitar richtet sich nicht nur an Fans des Klempners, [&#8230;]</p></div>
+<p>Der Beitrag <a rel="nofollow" href="https://gaminggadgets.de/super-mario-guitar">Super Mario Guitar</a> erschien zuerst auf <a rel="nofollow" href="https://gaminggadgets.de">GamingGadgets.de</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://gaminggadgets.de/wp-content/uploads/2012/09/mario-guitar-5.jpg" width="500" height="500" title="Nicht offiziell, trotzdem toll. (Foto: G33KeD)" alt="Nicht offiziell, trotzdem toll. (Foto: G33KeD)" /></div><div><div style="margin-bottom:20px;"><img width="500" height="500" src="https://gaminggadgets.de/wp-content/uploads/2012/09/mario-guitar-5.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Nicht offiziell, trotzdem toll. (Foto: G33KeD)" decoding="async" loading="lazy" srcset="https://gaminggadgets.de/wp-content/uploads/2012/09/mario-guitar-5.jpg 500w, https://gaminggadgets.de/wp-content/uploads/2012/09/mario-guitar-5-120x120.jpg 120w, https://gaminggadgets.de/wp-content/uploads/2012/09/mario-guitar-5-300x300.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" /></div><figure id="attachment_2768" aria-describedby="caption-attachment-2768" style="width: 300px" class="wp-caption alignleft"><a href="http://gaminggadgets.de/wp-content/uploads/2012/09/mario-guitar-5.jpg" data-rel="lightbox-image-0" data-rl_title="Nicht offiziell, trotzdem toll. (Foto: G33KeD)" data-rl_caption=""><img decoding="async" class="size-medium wp-image-2768" title="Nicht offiziell, trotzdem toll. (Foto: G33KeD)" src="http://gaminggadgets.de/wp-content/uploads/2012/09/mario-guitar-5-300x300.jpg" alt="Nicht offiziell, trotzdem toll. (Foto: G33KeD)" width="300" height="300" srcset="https://gaminggadgets.de/wp-content/uploads/2012/09/mario-guitar-5-300x300.jpg 300w, https://gaminggadgets.de/wp-content/uploads/2012/09/mario-guitar-5-120x120.jpg 120w, https://gaminggadgets.de/wp-content/uploads/2012/09/mario-guitar-5.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-2768" class="wp-caption-text">Nicht offiziell, trotzdem toll. (Foto: G33KeD)</figcaption></figure>
+<p>Herrlich! Eine Profi-Gitarre mit “Super Mario”-Motiv? Ja, die gibt’s zu kaufen &#8211; für schmale 489 Australische Dollar (zirka 400 Euro). Sie basiert auf einer Gitarre des Herstellers Luthier, der laut eigenen Aussagen eine über 20-jährige Erfahrung im Bau von hochwertigen, individuellen Musikinstrumenten besitzt.</p>
+<p>Die Super Mario Guitar richtet sich nicht nur an Fans des Klempners, sondern auch an echte Musikanten. Sie besitzt eine normale Größe, einen leichten Zugang zum Gitarrenhals, 24 Bünde und ein „Full Floating“-Tremolo. Das Highlight ist natürlich ganz klar das Design: Der komplette Mario ergibt die Form des Instruments, offensichtlich wurde das gute Stück  lackiert. Und das sieht entsprechend hochwertig aus. Ein paar Pilze hier und da sowie ein Schriftzug dürfen natürlich nicht fehlen.</p>
+
+<a href='https://gaminggadgets.de/wp-content/uploads/2012/09/mario-guitar-4.jpg' title="Mario! MARIO! (Foto: G33KeD)" data-rl_title="Mario! MARIO! (Foto: G33KeD)" class="rl-gallery-link" data-rl_caption="" data-rel="lightbox-gallery-3"><img width="120" height="120" src="https://gaminggadgets.de/wp-content/uploads/2012/09/mario-guitar-4-120x120.jpg" class="attachment-thumbnail size-thumbnail" alt="Mario! MARIO! (Foto: G33KeD)" decoding="async" srcset="https://gaminggadgets.de/wp-content/uploads/2012/09/mario-guitar-4-120x120.jpg 120w, https://gaminggadgets.de/wp-content/uploads/2012/09/mario-guitar-4-300x300.jpg 300w, https://gaminggadgets.de/wp-content/uploads/2012/09/mario-guitar-4.jpg 500w" sizes="(max-width: 120px) 100vw, 120px" /></a>
+<a href='https://gaminggadgets.de/wp-content/uploads/2012/09/mario-guitar-2.jpg' title="Edel, oder? (Foto: G33KeD)" data-rl_title="Edel, oder? (Foto: G33KeD)" class="rl-gallery-link" data-rl_caption="" data-rel="lightbox-gallery-3"><img width="120" height="120" src="https://gaminggadgets.de/wp-content/uploads/2012/09/mario-guitar-2-120x120.jpg" class="attachment-thumbnail size-thumbnail" alt="Edel, oder? (Foto: G33KeD)" decoding="async" /></a>
+<a href='https://gaminggadgets.de/wp-content/uploads/2012/09/mario-guitar-3.jpg' title="Und total knuffig. Aber eine Profi-Gitarre ist es trotzdem! (Foto: G33KeD)" data-rl_title="Und total knuffig. Aber eine Profi-Gitarre ist es trotzdem! (Foto: G33KeD)" class="rl-gallery-link" data-rl_caption="" data-rel="lightbox-gallery-3"><img width="120" height="120" src="https://gaminggadgets.de/wp-content/uploads/2012/09/mario-guitar-3-120x120.jpg" class="attachment-thumbnail size-thumbnail" alt="Und total knuffig. Aber eine Profi-Gitarre ist es trotzdem! (Foto: G33KeD)" decoding="async" /></a>
+<a href='https://gaminggadgets.de/wp-content/uploads/2012/09/mario-guitar.jpg' title="Da! Pilze! (Foto: G33KeD)" data-rl_title="Da! Pilze! (Foto: G33KeD)" class="rl-gallery-link" data-rl_caption="" data-rel="lightbox-gallery-3"><img width="120" height="120" src="https://gaminggadgets.de/wp-content/uploads/2012/09/mario-guitar-120x120.jpg" class="attachment-thumbnail size-thumbnail" alt="Da! Pilze! (Foto: G33KeD)" decoding="async" /></a>
+
+<p><span id="more-2763"></span></p>
+<p>Dennoch: Die Mario Guitar ist kein offizielles Nintendo-Produkt, das sollte euch schon bewusst sein. Aber es ist schon eine edle Gitarre, wie auch ein Video verdeutlicht.</p>
+<p><iframe title="Custom Super Mario Guitar" width="1170" height="658" src="https://www.youtube.com/embed/lYfzS2ISN70?wmode=transparent&amp;rel=0&amp;feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p>Weitere Details könnt ihr der <a href="http://www.g33kd.com/index.php?route=product/product&amp;path=62&amp;product_id=184" target="_blank">Shop-Seite von G33KeD</a> entnehmen. Dort ist auch eine Bestellung möglich.</p>
+<p><em>via <a href="http://www.obviouswinner.com/obvwin/2012/8/31/mamma-mia-its-a-custom-super-mario-bros-electric-guitar.html" target="_blank">ObiviousWinner</a>)</em></p>
+<p>&nbsp;</p>
+</div><p>Der Beitrag <a rel="nofollow" href="https://gaminggadgets.de/super-mario-guitar">Super Mario Guitar</a> erschien zuerst auf <a rel="nofollow" href="https://gaminggadgets.de">GamingGadgets.de</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://gaminggadgets.de/super-mario-guitar/feed</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<enclosure url="https://gaminggadgets.de/wp-content/uploads/2012/09/mario-guitar-5.jpg" length="242812" type="image/jpg" />
+<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://gaminggadgets.de/wp-content/uploads/2012/09/mario-guitar-5.jpg" width="500" height="500" medium="image" type="image/jpeg">
+	<media:copyright>GamingGadgets.de</media:copyright>
+	<media:title>Nicht offiziell, trotzdem toll. (Foto: G33KeD)</media:title>
+	<media:description type="html"><![CDATA[Nicht offiziell, trotzdem toll. (Foto: G33KeD)]]></media:description>
+</media:content>
+<media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://gaminggadgets.de/wp-content/uploads/2012/09/mario-guitar-5.jpg" width="500" height="500" />
+	</item>
+		<item>
+		<title>gTar</title>
+		<link>https://gaminggadgets.de/gtar</link>
+					<comments>https://gaminggadgets.de/gtar#comments</comments>
+		
+		<dc:creator><![CDATA[Sven]]></dc:creator>
+		<pubDate>Wed, 23 May 2012 22:10:25 +0000</pubDate>
+				<category><![CDATA[Undsonstso]]></category>
+		<category><![CDATA[Crowdfunding]]></category>
+		<category><![CDATA[Gitarre]]></category>
+		<category><![CDATA[gTar]]></category>
+		<category><![CDATA[Kickstarter]]></category>
+		<guid isPermaLink="false">http://gaminggadgets.de/?p=1323</guid>
+
+					<description><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://gaminggadgets.de/wp-content/uploads/2012/05/gtar.jpg" width="600" height="440" title="gTar: Fast wie eine echte Gitarre. (Foto: Kickstarter)" alt="gTar: Fast wie eine echte Gitarre. (Foto: Kickstarter)" /></div>
+<div>
+<div style="margin-bottom:20px;"><img width="600" height="440" src="https://gaminggadgets.de/wp-content/uploads/2012/05/gtar.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="gTar: Fast wie eine echte Gitarre. (Foto: Kickstarter)" decoding="async" loading="lazy" srcset="https://gaminggadgets.de/wp-content/uploads/2012/05/gtar.jpg 600w, https://gaminggadgets.de/wp-content/uploads/2012/05/gtar-300x220.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></div>
+<p>Auf unterhaltsame Weise mit echten Gitarren das Spielen erlernen? Moment, das gibt’s doch schon! Richtig, die Software/Hardware-Kombination namens Rocksmith erscheint hierzulande in diesem Herbst. Und vielleicht schafft es sogar die nicht minder spannende Alternative gTar dieses Jahr auch noch in den Handel? Gegenüber Rocksmith, bei dem ihr eine normale Gitarre benötigt, handelt es sich bei [&#8230;]</p></div>
+<p>Der Beitrag <a rel="nofollow" href="https://gaminggadgets.de/gtar">gTar</a> erschien zuerst auf <a rel="nofollow" href="https://gaminggadgets.de">GamingGadgets.de</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://gaminggadgets.de/wp-content/uploads/2012/05/gtar.jpg" width="600" height="440" title="gTar: Fast wie eine echte Gitarre. (Foto: Kickstarter)" alt="gTar: Fast wie eine echte Gitarre. (Foto: Kickstarter)" /></div><div><div style="margin-bottom:20px;"><img width="600" height="440" src="https://gaminggadgets.de/wp-content/uploads/2012/05/gtar.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="gTar: Fast wie eine echte Gitarre. (Foto: Kickstarter)" decoding="async" loading="lazy" srcset="https://gaminggadgets.de/wp-content/uploads/2012/05/gtar.jpg 600w, https://gaminggadgets.de/wp-content/uploads/2012/05/gtar-300x220.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></div><figure id="attachment_1324" aria-describedby="caption-attachment-1324" style="width: 300px" class="wp-caption alignleft"><a href="http://gaminggadgets.de/wp-content/uploads/2012/05/gtar.jpg" data-rel="lightbox-image-0" data-rl_title="gTar: Fast wie eine echte Gitarre. (Foto: Kickstarter)" data-rl_caption=""><img decoding="async" class="size-medium wp-image-1324" title="gTar: Fast wie eine echte Gitarre. (Foto: Kickstarter)" src="http://gaminggadgets.de/wp-content/uploads/2012/05/gtar-300x220.jpg" alt="gTar: Fast wie eine echte Gitarre. (Foto: Kickstarter)" width="300" height="220" srcset="https://gaminggadgets.de/wp-content/uploads/2012/05/gtar-300x220.jpg 300w, https://gaminggadgets.de/wp-content/uploads/2012/05/gtar.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-1324" class="wp-caption-text">gTar: Fast wie eine echte Gitarre. (Foto: Kickstarter)</figcaption></figure>
+<p>Auf unterhaltsame Weise mit echten Gitarren das Spielen erlernen? Moment, das gibt’s doch schon! Richtig, die Software/Hardware-Kombination namens <a href="http://gaminggadgets.de/rocksmith">Rocksmith</a> erscheint hierzulande in diesem Herbst. Und vielleicht schafft es sogar die nicht minder spannende Alternative gTar dieses Jahr auch noch in den Handel?</p>
+<p>Gegenüber Rocksmith, bei dem ihr eine normale Gitarre benötigt, handelt es sich bei gTar um ein eigenständiges Musikinstrument, das der Vorlage detailgetreu nachempfunden wurde. Ja, ihr könnt mit gTar auch ganz normal Songs spielen. Oder eben Stücke nachempfinden beziehungsweise überhaupt die Grundlagen erlernen. Der „Witz“ an der Sache: Ihr steckt in die gTar ein iPhone (4/4S), welches fortan die Steuerung übernimmt.</p>
+<p><span id="more-1323"></span></p>
+<p>Ihr wählt auf dem Touchscreen Musik aus, die ihr nachspielen wollt &#8211; schon kann der Spaß. LEDs unterhalb der Saiten zeigen euch, wohin ihr die Finger bewegen sollt. Ähnlich wie bei der <a href="http://gaminggadgets.de/tabber-led-guitar-light-sleeve" target="_blank">Tapper LED Guitar</a> übrigens. Und dank integrierter Sensoren wertet gTar in Zusammenarbeit mit dem iPhone eure Leistungen in Echtzeit aus. All das wird durch die kostenlose App möglich.</p>
+<p>Den Erfindern von gTar war es wichtig, dass ihr quasi sofort loslegen und spielen könnt. Diesen Ansatz bezeichnen sie als SmartPlay. Vorher ausführlich üben, probieren und lernen? Das soll nicht mehr nötig sein. Mehrere Schwierigkeitsgrade sind übrigens auch vorgesehen, auf „Hard“ spielt ihr fast ohne Hilfen. Praktisch ist außerdem, dass ein Akku integriert ist, der gTar mit Strom (z.B. für die LEDs und ggf. für das iPhone) versorgt.</p>
+<p><iframe title="Introducing the gTar" width="1170" height="658" src="https://www.youtube.com/embed/G0x8gqtDa-g?wmode=transparent&amp;rel=0&amp;feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p>So spannend gTar auch in dem offiziellen Video klingt, einen Haken hat die ganze Sache noch: Das Produkt ist bisher nicht in Serienproduktion gegangen. Stattdessen haben die Schöpfer ihr Projekt bei dem Crowdfunding-Portal Kickstarter vorgestellt, um dort Geld zu sammeln. Die gute Nachricht: Die anvisierten 100.000 Dollar sind bereits beisammen. Aber ist das ein Wunder? Die ersten gTar-Versionen werden preislich bei 350 Dollar liegen.</p>
+<p>Weitere Details entnehmt ihr der <a href="http://www.kickstarter.com/projects/incident/gtar-the-first-guitar-that-anybody-can-play" target="_blank">Kickstarter-Seite</a>. Dort könnt ihr durch eure Investition im Grunde eine gTar vorbestellen.</p>
+</div><p>Der Beitrag <a rel="nofollow" href="https://gaminggadgets.de/gtar">gTar</a> erschien zuerst auf <a rel="nofollow" href="https://gaminggadgets.de">GamingGadgets.de</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://gaminggadgets.de/gtar/feed</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+		<enclosure url="https://gaminggadgets.de/wp-content/uploads/2012/05/gtar.jpg" length="102157" type="image/jpg" />
+<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://gaminggadgets.de/wp-content/uploads/2012/05/gtar.jpg" width="600" height="440" medium="image" type="image/jpeg">
+	<media:copyright>GamingGadgets.de</media:copyright>
+	<media:title>gTar: Fast wie eine echte Gitarre. (Foto: Kickstarter)</media:title>
+	<media:description type="html"><![CDATA[gTar: Fast wie eine echte Gitarre. (Foto: Kickstarter)]]></media:description>
+</media:content>
+<media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://gaminggadgets.de/wp-content/uploads/2012/05/gtar.jpg" width="600" height="440" />
+	</item>
+		<item>
+		<title>Tabber LED Guitar Light Sleeve</title>
+		<link>https://gaminggadgets.de/tabber-led-guitar-light-sleeve</link>
+		
+		<dc:creator><![CDATA[Sven]]></dc:creator>
+		<pubDate>Sun, 01 Apr 2012 10:05:37 +0000</pubDate>
+				<category><![CDATA[Undsonstso]]></category>
+		<category><![CDATA[Gitarre]]></category>
+		<category><![CDATA[Tabber LED Guitar Light Sleeve]]></category>
+		<guid isPermaLink="false">http://gaminggadgets.de/?p=493</guid>
+
+					<description><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://gaminggadgets.de/wp-content/uploads/2012/04/tabber_guitar.jpg" width="600" height="332" title="So sehen die LEDs aus. (Foto: Kickstarter.com)" alt="So sehen die LEDs aus. (Foto: Kickstarter.com)" /></div>
+<div>
+<div style="margin-bottom:20px;"><img width="600" height="332" src="https://gaminggadgets.de/wp-content/uploads/2012/04/tabber_guitar.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="So sehen die LEDs aus. (Foto: Kickstarter.com)" decoding="async" loading="lazy" srcset="https://gaminggadgets.de/wp-content/uploads/2012/04/tabber_guitar.jpg 600w, https://gaminggadgets.de/wp-content/uploads/2012/04/tabber_guitar-300x166.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></div>
+<p>Wenn ihr das Spielen einer Gitarre erlernen wollt, könnt ihr euch an teuren Kursen versuchen oder ab Herbst hierzulande das interessante Spielkonzept von Rocksmith erwerben. Oder ihr unterstützt die Erfinder des Tabber LED Guitar Light Sleeve. Bisher existiert von diesem Projekt nur ein Prototyp, über die Crowdfunding-Plattform Kickstarter könnt ihr den Erfindern aber im Vorfeld [&#8230;]</p></div>
+<p>Der Beitrag <a rel="nofollow" href="https://gaminggadgets.de/tabber-led-guitar-light-sleeve">Tabber LED Guitar Light Sleeve</a> erschien zuerst auf <a rel="nofollow" href="https://gaminggadgets.de">GamingGadgets.de</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://gaminggadgets.de/wp-content/uploads/2012/04/tabber_guitar.jpg" width="600" height="332" title="So sehen die LEDs aus. (Foto: Kickstarter.com)" alt="So sehen die LEDs aus. (Foto: Kickstarter.com)" /></div><div><div style="margin-bottom:20px;"><img width="600" height="332" src="https://gaminggadgets.de/wp-content/uploads/2012/04/tabber_guitar.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="So sehen die LEDs aus. (Foto: Kickstarter.com)" decoding="async" loading="lazy" srcset="https://gaminggadgets.de/wp-content/uploads/2012/04/tabber_guitar.jpg 600w, https://gaminggadgets.de/wp-content/uploads/2012/04/tabber_guitar-300x166.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></div><figure id="attachment_494" aria-describedby="caption-attachment-494" style="width: 300px" class="wp-caption alignleft"><a href="http://gaminggadgets.de/wp-content/uploads/2012/04/tabber_guitar.jpg" data-rel="lightbox-image-0" data-rl_title="So sehen die LEDs aus. (Foto: Kickstarter.com)" data-rl_caption=""><img decoding="async" class="size-medium wp-image-494" title="So sehen die LEDs aus. (Foto: Kickstarter.com)" alt="So sehen die LEDs aus. (Foto: Kickstarter.com)" src="http://gaminggadgets.de/wp-content/uploads/2012/04/tabber_guitar-300x166.jpg" width="300" height="166" srcset="https://gaminggadgets.de/wp-content/uploads/2012/04/tabber_guitar-300x166.jpg 300w, https://gaminggadgets.de/wp-content/uploads/2012/04/tabber_guitar.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-494" class="wp-caption-text">So sehen die LEDs aus. (Foto: Kickstarter.com)</figcaption></figure>
+<p>Wenn ihr das Spielen einer Gitarre erlernen wollt, könnt ihr euch an teuren Kursen versuchen oder ab Herbst hierzulande das interessante Spielkonzept von <a href="http://gaminggadgets.de/rocksmith">Rocksmith</a> erwerben. Oder ihr unterstützt die Erfinder des Tabber LED Guitar Light Sleeve.</p>
+<p>Bisher existiert von diesem Projekt nur ein Prototyp, über die Crowdfunding-Plattform <a href="http://www.kickstarter.com/projects/conversationmedia/tabber-led-guitar-light-sleeve" target="_blank">Kickstarter</a> könnt ihr den Erfindern aber im Vorfeld Geld zur Verfügung stellen, mit dem aus der Idee ein vollwertiges Produkt wird. Auch hier sollt ihr spielerisch das Gitarrespielen erlernen – mittels leuchtenden LEDs, die an einer akustischen oder elektrischen Gitarre befestigt werden.</p>
+<p><span id="more-493"></span></p>
+<p>Die Lämpchen leuchten immer dann auf, wenn ihr mit euren Fingern einen vorgegebenen Ton ausführen sollt – eben um eine Melodie zu spielen. Dank einer geplanten Anbindung zu einem Smartphone dürft ihr Akkorde abrufen, selbst programmieren oder Musikstücke auswählen, die ihr dann nachspielt. Recht schnell sollt ihr durch diese Idee erste Erfolge feiern können, da ihr quasi visuell an die Bedienung einer (beliebigen) Gitarre herangeführt werdet.</p>
+<p>http://www.youtube.com/watch?v=iRm9s2HPbLc</p>
+<p>Besagter Prototyp ist noch etwas sperrig und nicht ganz so einfach an eine Klampfe anzubringen. Durch Crowdfunding soll aber genügend Mammon zusammen kommen, um eine finale Version des Taber LED Guitar Light Sleeve zu entwickeln. Das fertige Resultat wird wohl an die 200 Dollar kosten, ein Bastelkit zirka 150 Dollar. Details zu dem Kickstarter-Projekt findet ihr unter <a href="http://www.kickstarter.com/projects/conversationmedia/tabber-led-guitar-light-sleeve" target="_blank">diesem Link</a>.</p>
+</div><p>Der Beitrag <a rel="nofollow" href="https://gaminggadgets.de/tabber-led-guitar-light-sleeve">Tabber LED Guitar Light Sleeve</a> erschien zuerst auf <a rel="nofollow" href="https://gaminggadgets.de">GamingGadgets.de</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<enclosure url="https://gaminggadgets.de/wp-content/uploads/2012/04/tabber_guitar.jpg" length="50536" type="image/jpg" />
+<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://gaminggadgets.de/wp-content/uploads/2012/04/tabber_guitar.jpg" width="600" height="332" medium="image" type="image/jpeg">
+	<media:copyright>GamingGadgets.de</media:copyright>
+	<media:title>So sehen die LEDs aus. (Foto: Kickstarter.com)</media:title>
+	<media:description type="html"><![CDATA[So sehen die LEDs aus. (Foto: Kickstarter.com)]]></media:description>
+</media:content>
+<media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://gaminggadgets.de/wp-content/uploads/2012/04/tabber_guitar.jpg" width="600" height="332" />
+	</item>
+		<item>
+		<title>Rocksmith</title>
+		<link>https://gaminggadgets.de/rocksmith</link>
+					<comments>https://gaminggadgets.de/rocksmith#comments</comments>
+		
+		<dc:creator><![CDATA[Sven]]></dc:creator>
+		<pubDate>Fri, 16 Mar 2012 17:17:36 +0000</pubDate>
+				<category><![CDATA[Games & Software]]></category>
+		<category><![CDATA[Gitarre]]></category>
+		<category><![CDATA[PC]]></category>
+		<category><![CDATA[PlayStation 3]]></category>
+		<category><![CDATA[Rocksmith]]></category>
+		<category><![CDATA[Spiel]]></category>
+		<category><![CDATA[Ubisoft]]></category>
+		<category><![CDATA[Xbox 360]]></category>
+		<guid isPermaLink="false">http://gaminggadgets.de/?p=234</guid>
+
+					<description><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://gaminggadgets.de/wp-content/uploads/2012/03/Plug_ANYRealGuitar_into_console_PS3b_small.jpg" width="1200" height="1800" title="Gitarre an Konsole - das funktioniert. (Foto: Ubisoft)" alt="Gitarre an Konsole - das funktioniert. (Foto: Ubisoft)" /></div>
+<div>
+<div style="margin-bottom:20px;"><img width="1200" height="1800" src="https://gaminggadgets.de/wp-content/uploads/2012/03/Plug_ANYRealGuitar_into_console_PS3b_small.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Gitarre an Konsole - das funktioniert. (Foto: Ubisoft)" decoding="async" loading="lazy" srcset="https://gaminggadgets.de/wp-content/uploads/2012/03/Plug_ANYRealGuitar_into_console_PS3b_small.jpg 1200w, https://gaminggadgets.de/wp-content/uploads/2012/03/Plug_ANYRealGuitar_into_console_PS3b_small-200x300.jpg 200w, https://gaminggadgets.de/wp-content/uploads/2012/03/Plug_ANYRealGuitar_into_console_PS3b_small-682x1024.jpg 682w" sizes="(max-width: 1200px) 100vw, 1200px" /></div>
+<p>„Guitar Hero“ und „Rock Band“ werden zwar noch immer von vielen Spielern genutzt, doch der große Hype ist längst vorbei. Die Plastikgitarren und Schlagzeugnachbildungen stehen vielleicht schon im Keller. Da können sie bleiben, denn bei „Rocksmith“ kommen echte Gitarren zum Einsatz! Im Oktober 2011 erschien das Spiel bereits in den USA, am 19. September kommt [&#8230;]</p></div>
+<p>Der Beitrag <a rel="nofollow" href="https://gaminggadgets.de/rocksmith">Rocksmith</a> erschien zuerst auf <a rel="nofollow" href="https://gaminggadgets.de">GamingGadgets.de</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://gaminggadgets.de/wp-content/uploads/2012/03/Plug_ANYRealGuitar_into_console_PS3b_small.jpg" width="1200" height="1800" title="Gitarre an Konsole - das funktioniert. (Foto: Ubisoft)" alt="Gitarre an Konsole - das funktioniert. (Foto: Ubisoft)" /></div><div><div style="margin-bottom:20px;"><img width="1200" height="1800" src="https://gaminggadgets.de/wp-content/uploads/2012/03/Plug_ANYRealGuitar_into_console_PS3b_small.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Gitarre an Konsole - das funktioniert. (Foto: Ubisoft)" decoding="async" loading="lazy" srcset="https://gaminggadgets.de/wp-content/uploads/2012/03/Plug_ANYRealGuitar_into_console_PS3b_small.jpg 1200w, https://gaminggadgets.de/wp-content/uploads/2012/03/Plug_ANYRealGuitar_into_console_PS3b_small-200x300.jpg 200w, https://gaminggadgets.de/wp-content/uploads/2012/03/Plug_ANYRealGuitar_into_console_PS3b_small-682x1024.jpg 682w" sizes="(max-width: 1200px) 100vw, 1200px" /></div><figure id="attachment_235" aria-describedby="caption-attachment-235" style="width: 300px" class="wp-caption alignleft"><a href="http://gaminggadgets.de/rocksmith/plug_anyrealguitar_into_console_ps3b_small" rel="attachment wp-att-235"><img decoding="async" class=" wp-image-235 " title="Plug_ANYRealGuitar_into_console_PS3b_small" alt="Gitarre an Konsole - das funktioniert. (Foto: Ubisoft)" src="http://gaminggadgets.de/wp-content/uploads/2012/03/Plug_ANYRealGuitar_into_console_PS3b_small-200x300.jpg" width="300" height="400" /></a><figcaption id="caption-attachment-235" class="wp-caption-text">Gitarre an Konsole &#8211; das funktioniert. (Foto: Ubisoft)</figcaption></figure>
+<p>„Guitar Hero“ und „Rock Band“ werden zwar noch immer von vielen Spielern genutzt, doch der große Hype ist längst vorbei. Die Plastikgitarren und Schlagzeugnachbildungen stehen vielleicht schon im Keller. Da können sie bleiben, denn bei „Rocksmith“ kommen echte Gitarren zum Einsatz!</p>
+<p>Im Oktober 2011 erschien das Spiel bereits in den USA, am 19. September kommt das unkonventionelle Produkt dank Ubisoft auch in hiesige Gefilde &#8211; für PC, Mac, Xbox 360 und PlayStation 3. Und die Besonderheit? Die nennt sich Real Tone Cable und verbindet eine handelsübliche E-Gitarre über einen 6,35mm Klinkenstecker mit dem USB-Anschluss des Rechners oder der Konsole. Die analogen Signale werden digitalisiert und ausgewertet sowie in das eigentliche Spiel übertragen. Weitere Peripherie benötigt ihr nicht.</p>
+<p>Interessant: „Rocksmith“ eignet sich durchaus für diejenigen, die das Spielen mit einer E-Gitarre erlernen wollen. Anfänger bestimmen das Tempo selbst, versuchen sich an ersten Akkorden oder üben in Form von Minispielen die Grundlagen, beispielsweise das Verwenden von Harmonien oder das Wechseln zwischen Bünden. Erfahrene Musikanten spielen die über 50 Songs nach.</p>
+<p><span id="more-234"></span></p>
+<p><iframe title="Rocksmith - Debüt-Trailer [DE]" width="1170" height="658" src="https://www.youtube.com/embed/3GAML9iuUU8?wmode=transparent&amp;rel=0&amp;feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p>&nbsp;</p>
+<p><strong>Mit dabei sind viele bekannte Tracks, darunter:</strong></p>
+<ul>
+<li>Blur – Song 2</li>
+<li>David Bowie – Rebel Rebel</li>
+<li>Eric Clapton – Run Back To Your Side</li>
+<li>Franz Ferdinand – Take Me Out</li>
+<li>Incubus – I Miss You</li>
+<li>Interpol – Slow Hands</li>
+<li>Lenny Kravitz – Are You Gonna Go My Way</li>
+<li>Lynyrd Skynyrd – Sweet Home Alabama</li>
+<li>Muse – Unnatural Selection</li>
+<li>Nirvana – In Bloom</li>
+<li>Pixies – Where Is My Mind?</li>
+<li>Queens Of The Stone Age – Go With The Flow</li>
+<li>Radiohead – High And Dry</li>
+<li>The Rolling Stones – (I Can’t Get No) Satisfaction</li>
+<li>The White Stripes – Icky Thump</li>
+<li>Velvet Revolver – Slither</li>
+</ul>
+<figure id="attachment_236" aria-describedby="caption-attachment-236" style="width: 300px" class="wp-caption alignright"><a href="http://gaminggadgets.de/rocksmith/rs_muse_unnatural" rel="attachment wp-att-236"><img decoding="async" class="size-medium wp-image-236" title="RS_MUSE_UNNATURAL" alt="Optisch sieht es Guitar Hero sehr ähnlich. (Foto: Ubisoft)" src="http://gaminggadgets.de/wp-content/uploads/2012/03/RS_MUSE_UNNATURAL-300x168.jpg" width="300" height="168" srcset="https://gaminggadgets.de/wp-content/uploads/2012/03/RS_MUSE_UNNATURAL-300x168.jpg 300w, https://gaminggadgets.de/wp-content/uploads/2012/03/RS_MUSE_UNNATURAL-1024x576.jpg 1024w, https://gaminggadgets.de/wp-content/uploads/2012/03/RS_MUSE_UNNATURAL.jpg 1920w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption id="caption-attachment-236" class="wp-caption-text">Optisch sieht es Guitar Hero sehr ähnlich. (Foto: Ubisoft)</figcaption></figure>
+<p>Habt ihr noch keine Gitarre zur Hand, könnt ihr auch das rund 180 Euro teure Bundle erwerben. Dieses enthält nicht nur das Spiel und das zwingend notwendige Verbindungskabel, sondern auch die Les Paul Junior-Gitarre. Das Original stammt aus dem Jahr 1954, auf ihr spielten unter anderem John Lennon oder Mick Joney von der Kultband The Clash. Besitzt ihr bereits eine Klampfe, dann kostet euch „Rocksmith“ mit Adapter 59,99 (PC, Mac) beziehungsweise 79,99 Euro (Xbox 360, PlayStation 3). Das sind unverbindliche Preisempfehlungen, logo.</p>
+</div><p>Der Beitrag <a rel="nofollow" href="https://gaminggadgets.de/rocksmith">Rocksmith</a> erschien zuerst auf <a rel="nofollow" href="https://gaminggadgets.de">GamingGadgets.de</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://gaminggadgets.de/rocksmith/feed</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+		<enclosure url="https://gaminggadgets.de/wp-content/uploads/2012/03/Plug_ANYRealGuitar_into_console_PS3b_small.jpg" length="532238" type="image/jpg" />
+<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://gaminggadgets.de/wp-content/uploads/2012/03/Plug_ANYRealGuitar_into_console_PS3b_small.jpg" width="1200" height="1800" medium="image" type="image/jpeg">
+	<media:copyright>GamingGadgets.de</media:copyright>
+	<media:title>Gitarre an Konsole - das funktioniert. (Foto: Ubisoft)</media:title>
+	<media:description type="html"><![CDATA[Gitarre an Konsole - das funktioniert. (Foto: Ubisoft)]]></media:description>
+</media:content>
+<media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://gaminggadgets.de/wp-content/uploads/2012/03/Plug_ANYRealGuitar_into_console_PS3b_small.jpg" width="1200" height="1800" />
+	</item>
+	</channel>
+</rss>

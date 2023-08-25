@@ -1,0 +1,474 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Bastelei Archive - GamingGadgets.de</title>
+	<atom:link href="https://gaminggadgets.de/tag/bastelei/feed" rel="self" type="application/rss+xml" />
+	<link>https://gaminggadgets.de/tag/bastelei</link>
+	<description>Gaming &#38; Gadgets &#124; Verrücktes, Verspieltes, Spaßiges und Gebasteltes</description>
+	<lastBuildDate>Tue, 22 Dec 2020 10:51:28 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.3</generator>
+
+<image>
+	<url>https://gaminggadgets.de/wp-content/uploads/2022/11/cropped-favicon-gg-logo-new-100x100-1-32x32.jpg</url>
+	<title>Bastelei Archive - GamingGadgets.de</title>
+	<link>https://gaminggadgets.de/tag/bastelei</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>TinyTV DIY Kit</title>
+		<link>https://gaminggadgets.de/tinytv-diy-kit-baut-euch-einen-winzigen-fernseher</link>
+		
+		<dc:creator><![CDATA[Sven]]></dc:creator>
+		<pubDate>Wed, 30 Dec 2020 11:36:15 +0000</pubDate>
+				<category><![CDATA[Undsonstso]]></category>
+		<category><![CDATA[Arduino]]></category>
+		<category><![CDATA[Bastelei]]></category>
+		<category><![CDATA[DIY]]></category>
+		<category><![CDATA[TinyTV DIY Kit]]></category>
+		<guid isPermaLink="false">http://gaminggadgets.de/?p=42253</guid>
+
+					<description><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://gaminggadgets.de/wp-content/uploads/2020/12/tinytv-diy-kit.jpg" width="1440" height="1080" title="Das TinyTV DIY Kit sieht nach Spaß aus. (Foto: TinyCircuits)" alt="Das TinyTV DIY Kit sieht nach Spaß aus. (Foto: TinyCircuits)" /></div>
+<div>
+<div style="margin-bottom:20px;"><img width="1440" height="1080" src="https://gaminggadgets.de/wp-content/uploads/2020/12/tinytv-diy-kit.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Das TinyTV DIY Kit sieht nach Spaß aus. (Foto: TinyCircuits)" decoding="async" srcset="https://gaminggadgets.de/wp-content/uploads/2020/12/tinytv-diy-kit.jpg 1440w, https://gaminggadgets.de/wp-content/uploads/2020/12/tinytv-diy-kit-300x225.jpg 300w, https://gaminggadgets.de/wp-content/uploads/2020/12/tinytv-diy-kit-1024x768.jpg 1024w, https://gaminggadgets.de/wp-content/uploads/2020/12/tinytv-diy-kit-768x576.jpg 768w" sizes="(max-width: 1440px) 100vw, 1440px" /></div>
+<p>Ihr habt keinen Fernseher zu Hause? Wie wäre es mit dem TinyTV DIY Kit? Mit diesem baut ihr euch eure eigene, ganz individuelle Glotze. Klar, dieses TinyTV DIY Kit ist ein Spaß für Bastelfreunde, aber sie erhalten mit diesem Baukasten tatsächlich einen Fernseher zum Benutzen. Das Gehäuse stammt aus einem professionellen 3D-Drucker, besonders interessant ist [&#8230;]</p></div>
+<p>Der Beitrag <a rel="nofollow" href="https://gaminggadgets.de/tinytv-diy-kit-baut-euch-einen-winzigen-fernseher">TinyTV DIY Kit</a> erschien zuerst auf <a rel="nofollow" href="https://gaminggadgets.de">GamingGadgets.de</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://gaminggadgets.de/wp-content/uploads/2020/12/tinytv-diy-kit.jpg" width="1440" height="1080" title="Das TinyTV DIY Kit sieht nach Spaß aus. (Foto: TinyCircuits)" alt="Das TinyTV DIY Kit sieht nach Spaß aus. (Foto: TinyCircuits)" /></div><div><div style="margin-bottom:20px;"><img width="1440" height="1080" src="https://gaminggadgets.de/wp-content/uploads/2020/12/tinytv-diy-kit.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Das TinyTV DIY Kit sieht nach Spaß aus. (Foto: TinyCircuits)" decoding="async" loading="lazy" srcset="https://gaminggadgets.de/wp-content/uploads/2020/12/tinytv-diy-kit.jpg 1440w, https://gaminggadgets.de/wp-content/uploads/2020/12/tinytv-diy-kit-300x225.jpg 300w, https://gaminggadgets.de/wp-content/uploads/2020/12/tinytv-diy-kit-1024x768.jpg 1024w, https://gaminggadgets.de/wp-content/uploads/2020/12/tinytv-diy-kit-768x576.jpg 768w" sizes="(max-width: 1440px) 100vw, 1440px" /></div><p>Ihr habt keinen Fernseher zu Hause? Wie wäre es mit dem TinyTV DIY Kit? Mit diesem baut ihr euch eure eigene, ganz individuelle Glotze.</p>
+<p>Klar, dieses TinyTV DIY Kit ist ein Spaß für Bastelfreunde, aber sie erhalten mit diesem Baukasten tatsächlich einen Fernseher zum Benutzen. Das Gehäuse stammt aus einem professionellen 3D-Drucker, besonders interessant ist aber das Innenleben.</p>
+<h2>Filme und Serien auf dem TinyTV DIY Kit gucken</h2>
+<p>Der TinyTV verfügt über einen 32-bit ARM-Prozessor, der nötige Berechnungen durchführt und beispielsweise die Inhalte zum OLED-Bildschirm bringt. Vier Tasten gibt’s am TV, was ein Umschalten ermöglicht. Und einen Lautsprecher sowie einen Akku bekommt ihr auch – und das alles auf kleinstem Raum.</p>
+<p><iframe title="Meet the TinyTV DIY Kit from TinyCircuits" width="1170" height="658" src="https://www.youtube.com/embed/H753VxClAEY?wmode=transparent&amp;rel=0&amp;feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p>Inhalte spielt der TinyTV nach dem Zusammenbau von einer microSD-Karte ab. Allerlei Medien bekommt ihr schon von Haus aus mitgeliefert. Für bis zu fünf Stunden Entertainment ist der Akku ausgelegt – das ist ein solider Wert, würde ich sagen. Dank <a href="http://gaminggadgets.de/tag/arduino">Arduino-Plattform</a> können Entwickler und Bastler auch selbst loslegen, um beispielsweise Spiele auf den TinyTV zu bringen. Das wäre doch lustig. Ein USB-Port ist auf jeden Fall vorhanden – den nutzt ihr zum Aufladen und für eine Verbindung zum Rechner.</p>
+<h2>Relativ günstiger Mini-Fernseher</h2>
+<p>Der winzige Fernsteher für den Hausgebrauch ist bei TinyCircuits <a href="https://tinycircuits.com/products/tinytv-diy-kit" target="_blank" rel="noopener">für etwas über 50 US-Dollar</a> erhältlich. Ihr müsst natürlich alles zusammensetzen, ausführliche Hilfen bekommt ihr aber direkt beim Anbieter.</p>
+<figure id="attachment_42255" aria-describedby="caption-attachment-42255" style="width: 1440px" class="wp-caption alignnone"><img decoding="async" class="size-full wp-image-42255" src="http://gaminggadgets.de/wp-content/uploads/2020/12/tinytv-diy-kit-inhalt.jpg" alt="Das ist beim TinyTV DIY Kit alles dabei. (Foto: TinyCircuits)" width="1440" height="1080" srcset="https://gaminggadgets.de/wp-content/uploads/2020/12/tinytv-diy-kit-inhalt.jpg 1440w, https://gaminggadgets.de/wp-content/uploads/2020/12/tinytv-diy-kit-inhalt-300x225.jpg 300w, https://gaminggadgets.de/wp-content/uploads/2020/12/tinytv-diy-kit-inhalt-1024x768.jpg 1024w, https://gaminggadgets.de/wp-content/uploads/2020/12/tinytv-diy-kit-inhalt-768x576.jpg 768w" sizes="(max-width: 1440px) 100vw, 1440px" /><figcaption id="caption-attachment-42255" class="wp-caption-text">Das ist beim TinyTV DIY Kit alles dabei. (Foto: TinyCircuits)</figcaption></figure>
+<p>Bei Bedarf könnt ihr den ja fragen, ob auf dem TinyTV auch Netflix läuft…</p>
+</div><p>Der Beitrag <a rel="nofollow" href="https://gaminggadgets.de/tinytv-diy-kit-baut-euch-einen-winzigen-fernseher">TinyTV DIY Kit</a> erschien zuerst auf <a rel="nofollow" href="https://gaminggadgets.de">GamingGadgets.de</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<enclosure url="https://gaminggadgets.de/wp-content/uploads/2020/12/tinytv-diy-kit.jpg" length="29502" type="image/jpg" />
+<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://gaminggadgets.de/wp-content/uploads/2020/12/tinytv-diy-kit.jpg" width="1440" height="1080" medium="image" type="image/jpeg">
+	<media:copyright>GamingGadgets.de</media:copyright>
+	<media:title>Das TinyTV DIY Kit sieht nach Spaß aus. (Foto: TinyCircuits)</media:title>
+	<media:description type="html"><![CDATA[Das TinyTV DIY Kit sieht nach Spaß aus. (Foto: TinyCircuits)]]></media:description>
+</media:content>
+<media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://gaminggadgets.de/wp-content/uploads/2020/12/tinytv-diy-kit.jpg" width="1440" height="1080" />
+	</item>
+		<item>
+		<title>Lunchbox Arcade</title>
+		<link>https://gaminggadgets.de/lunchbox-arcade-spielkonsole-in-einer-brotdose</link>
+		
+		<dc:creator><![CDATA[Sven]]></dc:creator>
+		<pubDate>Mon, 30 Nov 2020 11:25:27 +0000</pubDate>
+				<category><![CDATA[Spielgeräte]]></category>
+		<category><![CDATA[Bastelei]]></category>
+		<category><![CDATA[DIY]]></category>
+		<category><![CDATA[Handheld]]></category>
+		<category><![CDATA[Lunchbox Arcade]]></category>
+		<category><![CDATA[Raspberry Pi]]></category>
+		<category><![CDATA[Raspberry Pi 4]]></category>
+		<category><![CDATA[Spielkonsole]]></category>
+		<guid isPermaLink="false">http://gaminggadgets.de/?p=42103</guid>
+
+					<description><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://gaminggadgets.de/wp-content/uploads/2020/11/lunchbox-arcade.jpg" width="1050" height="750" title="Das ist Lunchbox Arcade. (Foto: Screenshot)" alt="Das ist Lunchbox Arcade. (Foto: Screenshot)" /></div>
+<div>
+<div style="margin-bottom:20px;"><img width="1050" height="750" src="https://gaminggadgets.de/wp-content/uploads/2020/11/lunchbox-arcade.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Das ist Lunchbox Arcade. (Foto: Screenshot)" decoding="async" loading="lazy" srcset="https://gaminggadgets.de/wp-content/uploads/2020/11/lunchbox-arcade.jpg 1050w, https://gaminggadgets.de/wp-content/uploads/2020/11/lunchbox-arcade-300x214.jpg 300w, https://gaminggadgets.de/wp-content/uploads/2020/11/lunchbox-arcade-1024x731.jpg 1024w, https://gaminggadgets.de/wp-content/uploads/2020/11/lunchbox-arcade-768x549.jpg 768w" sizes="(max-width: 1050px) 100vw, 1050px" /></div>
+<p>Tolle Retro-Optik, mobil und leistungsstark: Diese Brotdose lässt euch unterwegs allerlei Spieleklassiker zocken. Der Tüftler Rich Jones ließ sich offenbar von dem Bastel-Kollegen Daniel Davis mit seiner Mini Lunchbox Arcade inspirieren. Doch seine tragbare Arcade-Konsole in einer Brotdose ist doch eine Ecke stylischer und vor allem technisch besser geworden. Das bietet Lunchbox Arcade Rich Jones, [&#8230;]</p></div>
+<p>Der Beitrag <a rel="nofollow" href="https://gaminggadgets.de/lunchbox-arcade-spielkonsole-in-einer-brotdose">Lunchbox Arcade</a> erschien zuerst auf <a rel="nofollow" href="https://gaminggadgets.de">GamingGadgets.de</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://gaminggadgets.de/wp-content/uploads/2020/11/lunchbox-arcade.jpg" width="1050" height="750" title="Das ist Lunchbox Arcade. (Foto: Screenshot)" alt="Das ist Lunchbox Arcade. (Foto: Screenshot)" /></div><div><div style="margin-bottom:20px;"><img width="1050" height="750" src="https://gaminggadgets.de/wp-content/uploads/2020/11/lunchbox-arcade.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Das ist Lunchbox Arcade. (Foto: Screenshot)" decoding="async" loading="lazy" srcset="https://gaminggadgets.de/wp-content/uploads/2020/11/lunchbox-arcade.jpg 1050w, https://gaminggadgets.de/wp-content/uploads/2020/11/lunchbox-arcade-300x214.jpg 300w, https://gaminggadgets.de/wp-content/uploads/2020/11/lunchbox-arcade-1024x731.jpg 1024w, https://gaminggadgets.de/wp-content/uploads/2020/11/lunchbox-arcade-768x549.jpg 768w" sizes="(max-width: 1050px) 100vw, 1050px" /></div><p>Tolle Retro-Optik, mobil und leistungsstark: Diese Brotdose lässt euch unterwegs allerlei Spieleklassiker zocken.</p>
+<p>Der Tüftler Rich Jones ließ sich offenbar von dem Bastel-Kollegen Daniel Davis mit seiner <a href="http://gaminggadgets.de/mini-lunchbox-arcade-mit-dieser-brotdose-koennt-ihr-zocken">Mini Lunchbox Arcade</a> inspirieren. Doch seine tragbare Arcade-Konsole in einer Brotdose ist doch eine Ecke stylischer und vor allem technisch besser geworden.</p>
+<h2>Das bietet Lunchbox Arcade</h2>
+<p>Rich Jones, der sich selbst <a href="https://www.youtube.com/channel/UCg1DBS_m31liyo4ZEVxuh_w" target="_blank" rel="noopener noreferrer">Arcade Dad</a> nennt, tüftelt schon seit einigen Monaten an der Lunchbox Arcade, die bereits in nostalgischen Dosen mit „Pac-Man“- oder „Gauntlet“-Optik steckte. Zweitgenannte Variante stammt aus den 1980er Jahren und kostet ihn über 60 Euro.</p>
+<p><iframe title="Lunchbox Arcade" width="1170" height="658" src="https://www.youtube.com/embed/vF9-hDQ2iT4?wmode=transparent&amp;rel=0&amp;feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p>Interessant ist aber auch das Innenleben: Verwendung findet ein Raspberry Pi 4, der am besten mit einer externen Stromversorgung betrieben wird. Lautsprecher, Arcade-Stick, Buttons – alles ist dabei. Gerade die Speaker sollen wohl aufgrund des Gehäuses besonders gut klingen. Und der Stick lässt sich für den Transport abschrauben. Schick, schick!</p>
+<h2>Nicht zum Verkauf</h2>
+<p>Ich finde: Das ist eine schöne „Handheld“-Konsole, die dank Raspberry Pi 4 wohl für sehr viele Emulatoren hervorragend geeignet ist. Aber: Ein kommerzielles Produkt ist Lunchbox Arcade nicht.</p>
+<p><iframe title="Lunchbox Arcades" width="1170" height="658" src="https://www.youtube.com/embed/cZosSnL2BTI?wmode=transparent&amp;rel=0&amp;feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p>Doch der Schöpfer beantwortet sicher gerne Fragen, solltet ihr selbst so ein Gerät bauen wollen…</p>
+</div><p>Der Beitrag <a rel="nofollow" href="https://gaminggadgets.de/lunchbox-arcade-spielkonsole-in-einer-brotdose">Lunchbox Arcade</a> erschien zuerst auf <a rel="nofollow" href="https://gaminggadgets.de">GamingGadgets.de</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<enclosure url="https://gaminggadgets.de/wp-content/uploads/2020/11/lunchbox-arcade.jpg" length="72491" type="image/jpg" />
+<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://gaminggadgets.de/wp-content/uploads/2020/11/lunchbox-arcade.jpg" width="1050" height="750" medium="image" type="image/jpeg">
+	<media:copyright>GamingGadgets.de</media:copyright>
+	<media:title>Das ist Lunchbox Arcade. (Foto: Screenshot)</media:title>
+	<media:description type="html"><![CDATA[Das ist Lunchbox Arcade. (Foto: Screenshot)]]></media:description>
+</media:content>
+<media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://gaminggadgets.de/wp-content/uploads/2020/11/lunchbox-arcade.jpg" width="1050" height="750" />
+	</item>
+		<item>
+		<title>Zurück in die Zukunft</title>
+		<link>https://gaminggadgets.de/zurueck-in-die-zukunft-diese-genialen-schuhe-binden-sich-selbst</link>
+					<comments>https://gaminggadgets.de/zurueck-in-die-zukunft-diese-genialen-schuhe-binden-sich-selbst#comments</comments>
+		
+		<dc:creator><![CDATA[Sven]]></dc:creator>
+		<pubDate>Fri, 27 Nov 2020 11:30:22 +0000</pubDate>
+				<category><![CDATA[Lifestyle]]></category>
+		<category><![CDATA[Bastelei]]></category>
+		<category><![CDATA[DIY]]></category>
+		<category><![CDATA[Schuhe]]></category>
+		<category><![CDATA[Sneakers]]></category>
+		<category><![CDATA[Zurück in die Zukunft]]></category>
+		<guid isPermaLink="false">http://gaminggadgets.de/?p=42115</guid>
+
+					<description><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://gaminggadgets.de/wp-content/uploads/2020/11/selbstbindende-schuhe.jpg" width="1280" height="768" title="Unscheinbar, aber mit Technik vollgestopft. (Foto: Hacksmith Industries)" alt="Unscheinbar, aber mit Technik vollgestopft. (Foto: Hacksmith Industries)" /></div>
+<div>
+<div style="margin-bottom:20px;"><img width="1280" height="768" src="https://gaminggadgets.de/wp-content/uploads/2020/11/selbstbindende-schuhe.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Unscheinbar, aber mit Technik vollgestopft. (Foto: Hacksmith Industries)" decoding="async" loading="lazy" srcset="https://gaminggadgets.de/wp-content/uploads/2020/11/selbstbindende-schuhe.jpg 1280w, https://gaminggadgets.de/wp-content/uploads/2020/11/selbstbindende-schuhe-300x180.jpg 300w, https://gaminggadgets.de/wp-content/uploads/2020/11/selbstbindende-schuhe-1024x614.jpg 1024w, https://gaminggadgets.de/wp-content/uploads/2020/11/selbstbindende-schuhe-768x461.jpg 768w" sizes="(max-width: 1280px) 100vw, 1280px" /></div>
+<p>Wer kennt sie nicht – die selbstbindenden Schuhe aus „Zurück in die Zukunft II“. Tüftler bastelten sich jetzt stylische Sneakers, die das auch können. Seit „Zurück in die Zukunft II“ dürfte es der Wunsch vieler sein, solch coole Schuhe wie Marty McFly besitzen zu wollen. Die Nike MAGs gab’s vor einigen Jahren sogar in einer [&#8230;]</p></div>
+<p>Der Beitrag <a rel="nofollow" href="https://gaminggadgets.de/zurueck-in-die-zukunft-diese-genialen-schuhe-binden-sich-selbst">Zurück in die Zukunft</a> erschien zuerst auf <a rel="nofollow" href="https://gaminggadgets.de">GamingGadgets.de</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://gaminggadgets.de/wp-content/uploads/2020/11/selbstbindende-schuhe.jpg" width="1280" height="768" title="Unscheinbar, aber mit Technik vollgestopft. (Foto: Hacksmith Industries)" alt="Unscheinbar, aber mit Technik vollgestopft. (Foto: Hacksmith Industries)" /></div><div><div style="margin-bottom:20px;"><img width="1280" height="768" src="https://gaminggadgets.de/wp-content/uploads/2020/11/selbstbindende-schuhe.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Unscheinbar, aber mit Technik vollgestopft. (Foto: Hacksmith Industries)" decoding="async" loading="lazy" srcset="https://gaminggadgets.de/wp-content/uploads/2020/11/selbstbindende-schuhe.jpg 1280w, https://gaminggadgets.de/wp-content/uploads/2020/11/selbstbindende-schuhe-300x180.jpg 300w, https://gaminggadgets.de/wp-content/uploads/2020/11/selbstbindende-schuhe-1024x614.jpg 1024w, https://gaminggadgets.de/wp-content/uploads/2020/11/selbstbindende-schuhe-768x461.jpg 768w" sizes="(max-width: 1280px) 100vw, 1280px" /></div><p>Wer kennt sie nicht – die selbstbindenden Schuhe aus „Zurück in die Zukunft II“. Tüftler bastelten sich jetzt stylische Sneakers, die das auch können.</p>
+<p>Seit „Zurück in die Zukunft II“ dürfte es der Wunsch vieler sein, solch coole Schuhe wie Marty McFly besitzen zu wollen. Die Nike MAGs gab’s vor einigen Jahren sogar in einer limitierten Stückzahl, sie wurden für gute Zwecke versteigert. Und es erschienen auch schon ein paar ähnliche Erfindungen, darunter <a href="http://gaminggadgets.de/selbstbindende-schuhe-aus-lego-macht-es-wie-marty-mcfly">selbstbindende Schuhe aus LEGO</a> und <a href="http://gaminggadgets.de/zurueck-in-die-zukunft-diese-jacke-passt-sich-eurem-koerper-an">eine Jacke, die sich eurem Körper anpasst</a>. Das Team von Hacksmith Industries schnappte sich nun ein Paar Sneakers und baute eine Menge Technik ein…</p>
+<figure id="attachment_42117" aria-describedby="caption-attachment-42117" style="width: 1280px" class="wp-caption aligncenter"><a href="http://gaminggadgets.de/wp-content/uploads/2020/11/selbstbindende-schuhe-2.jpg" data-rel="lightbox-image-0" data-rl_title="Im Inneren wurden unter anderem Motoren eingebaut. (Foto: Hacksmith Industries)" data-rl_caption="" title="Im Inneren wurden unter anderem Motoren eingebaut. (Foto: Hacksmith Industries)"><img decoding="async" class="size-full wp-image-42117" src="http://gaminggadgets.de/wp-content/uploads/2020/11/selbstbindende-schuhe-2.jpg" alt="Im Inneren wurden unter anderem Motoren eingebaut. (Foto: Hacksmith Industries)" width="1280" height="748" srcset="https://gaminggadgets.de/wp-content/uploads/2020/11/selbstbindende-schuhe-2.jpg 1280w, https://gaminggadgets.de/wp-content/uploads/2020/11/selbstbindende-schuhe-2-300x175.jpg 300w, https://gaminggadgets.de/wp-content/uploads/2020/11/selbstbindende-schuhe-2-1024x598.jpg 1024w, https://gaminggadgets.de/wp-content/uploads/2020/11/selbstbindende-schuhe-2-768x449.jpg 768w" sizes="(max-width: 1280px) 100vw, 1280px" /></a><figcaption id="caption-attachment-42117" class="wp-caption-text">Im Inneren wurden unter anderem Motoren eingebaut. (Foto: Hacksmith Industries)</figcaption></figure>
+<h2>Sneakers binden sich selbst zu</h2>
+<p>Die Idee ist also nicht neu. Auch bei den Schuhen, die Hacksmith verwendet, ziehen sich die Schnürsenkel auf Knopfdruck zusammen – so, dass ihr sie selbst nicht binden müsst und auch noch vernünftig laufen könnt. Dass dahinter durchaus ein größerer Aufwand steckt, verrät das Team in einem interessanten Video. <strong>Tipp:</strong> Ab Minute 10 wird’s aufschlussreich.</p>
+<p><iframe title="We Made SELF-LACING SHOES from BACK TO THE FUTURE!" width="1170" height="658" src="https://www.youtube.com/embed/1kj5N67J2aE?wmode=transparent&amp;rel=0&amp;feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p>Spannend ist zweifelsohne das Innenleben: Sneakers haben offenbar genügend Platz für Motoren und einen Mechanismus zum Festziehen und Lockern der Schnürsenkel. Aber aufpassen sollte man sicherlich trotzdem, den drückt man den Button zu lange, schadet man vermutlich dem gesamten Schuh.</p>
+<p>Persönlich glaube ich ja, dass es für solche Gadgets einen Markt gäbe. Aber bekannte Hersteller haben sich bisher nicht an eine Massenproduktion herangewagt. Dass es geht, beweisen dagegen Tüftler wie Hacksmith…</p>
+</div><p>Der Beitrag <a rel="nofollow" href="https://gaminggadgets.de/zurueck-in-die-zukunft-diese-genialen-schuhe-binden-sich-selbst">Zurück in die Zukunft</a> erschien zuerst auf <a rel="nofollow" href="https://gaminggadgets.de">GamingGadgets.de</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://gaminggadgets.de/zurueck-in-die-zukunft-diese-genialen-schuhe-binden-sich-selbst/feed</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<enclosure url="https://gaminggadgets.de/wp-content/uploads/2020/11/selbstbindende-schuhe.jpg" length="97877" type="image/jpg" />
+<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://gaminggadgets.de/wp-content/uploads/2020/11/selbstbindende-schuhe.jpg" width="1280" height="768" medium="image" type="image/jpeg">
+	<media:copyright>GamingGadgets.de</media:copyright>
+	<media:title>Unscheinbar, aber mit Technik vollgestopft. (Foto: Hacksmith Industries)</media:title>
+	<media:description type="html"><![CDATA[Unscheinbar, aber mit Technik vollgestopft. (Foto: Hacksmith Industries)]]></media:description>
+</media:content>
+<media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://gaminggadgets.de/wp-content/uploads/2020/11/selbstbindende-schuhe.jpg" width="1280" height="768" />
+	</item>
+		<item>
+		<title>Dark Souls 3</title>
+		<link>https://gaminggadgets.de/dark-souls-3-diese-kanone-bespritzt-euch-beim-spielen-mit-blut</link>
+		
+		<dc:creator><![CDATA[Sven]]></dc:creator>
+		<pubDate>Sat, 31 Oct 2020 11:55:14 +0000</pubDate>
+				<category><![CDATA[Undsonstso]]></category>
+		<category><![CDATA[Bastelei]]></category>
+		<category><![CDATA[Blut]]></category>
+		<category><![CDATA[Dark Souls 3]]></category>
+		<category><![CDATA[DIY]]></category>
+		<category><![CDATA[Raspberry Pi]]></category>
+		<guid isPermaLink="false">http://gaminggadgets.de/?p=42057</guid>
+
+					<description><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://gaminggadgets.de/wp-content/uploads/2020/10/dark-souls-3-scaled.jpg" width="2560" height="1366" title="Ob das Spaß macht? (Foto: Screenshot)" alt="Ob das Spaß macht? (Foto: Screenshot)" /></div>
+<div>
+<div style="margin-bottom:20px;"><img width="2560" height="1366" src="https://gaminggadgets.de/wp-content/uploads/2020/10/dark-souls-3-scaled.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Ob das Spaß macht? (Foto: Screenshot)" decoding="async" loading="lazy" srcset="https://gaminggadgets.de/wp-content/uploads/2020/10/dark-souls-3-scaled.jpg 2560w, https://gaminggadgets.de/wp-content/uploads/2020/10/dark-souls-3-300x160.jpg 300w, https://gaminggadgets.de/wp-content/uploads/2020/10/dark-souls-3-1024x546.jpg 1024w, https://gaminggadgets.de/wp-content/uploads/2020/10/dark-souls-3-768x410.jpg 768w, https://gaminggadgets.de/wp-content/uploads/2020/10/dark-souls-3-1536x819.jpg 1536w, https://gaminggadgets.de/wp-content/uploads/2020/10/dark-souls-3-2048x1093.jpg 2048w" sizes="(max-width: 2560px) 100vw, 2560px" /></div>
+<p>„Dark Souls 3“ ist euch nicht hart genug? Diese Maschine spritzt euch Blut ins Gesicht, wenn ihr im Spiel versagt. Der YouTuber Big Secret bastelte in der Vergangenheit schon ein paar seltsame Konstruktionen. Seine aktuelle Maschine widmet sich „Dark Souls 3“. Oder anders gesagt: Wenn Spieler bei diesem ohnehin schon schweren Brocken scheitern, wird ihnen [&#8230;]</p></div>
+<p>Der Beitrag <a rel="nofollow" href="https://gaminggadgets.de/dark-souls-3-diese-kanone-bespritzt-euch-beim-spielen-mit-blut">Dark Souls 3</a> erschien zuerst auf <a rel="nofollow" href="https://gaminggadgets.de">GamingGadgets.de</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://gaminggadgets.de/wp-content/uploads/2020/10/dark-souls-3-scaled.jpg" width="2560" height="1366" title="Ob das Spaß macht? (Foto: Screenshot)" alt="Ob das Spaß macht? (Foto: Screenshot)" /></div><div><div style="margin-bottom:20px;"><img width="2560" height="1366" src="https://gaminggadgets.de/wp-content/uploads/2020/10/dark-souls-3-scaled.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Ob das Spaß macht? (Foto: Screenshot)" decoding="async" loading="lazy" srcset="https://gaminggadgets.de/wp-content/uploads/2020/10/dark-souls-3-scaled.jpg 2560w, https://gaminggadgets.de/wp-content/uploads/2020/10/dark-souls-3-300x160.jpg 300w, https://gaminggadgets.de/wp-content/uploads/2020/10/dark-souls-3-1024x546.jpg 1024w, https://gaminggadgets.de/wp-content/uploads/2020/10/dark-souls-3-768x410.jpg 768w, https://gaminggadgets.de/wp-content/uploads/2020/10/dark-souls-3-1536x819.jpg 1536w, https://gaminggadgets.de/wp-content/uploads/2020/10/dark-souls-3-2048x1093.jpg 2048w" sizes="(max-width: 2560px) 100vw, 2560px" /></div><p>„Dark Souls 3“ ist euch nicht hart genug? Diese Maschine spritzt euch Blut ins Gesicht, wenn ihr im Spiel versagt.</p>
+<p>Der YouTuber Big Secret bastelte in der Vergangenheit schon ein paar seltsame Konstruktionen. Seine aktuelle Maschine widmet sich „Dark Souls 3“. Oder anders gesagt: Wenn Spieler bei diesem ohnehin schon schweren Brocken scheitern, wird ihnen Blut ins Gesicht geschossen. Ob das noch Spaß macht?</p>
+<h2>Dark Souls 3 trifft auf Raspberry Pi</h2>
+<p>Alex, der bei YouTube und auf Streamingplattformen besser als Big Secret bekannt ist, erschuf eine ganz besondere Kanone. Ein Kompressor schießt über einen Schlauch mittels Luftdruck Blutspritzer direkt ins Gesicht der Spieler. Natürlich kommt nur Lebensmittelfarbe zum Einsatz – echter Lebenssaft wäre doch etwas zu viel des Guten.</p>
+<p><iframe title="Sprayed with Blood Every Time I Get Hit in Dark Souls" width="1170" height="658" src="https://www.youtube.com/embed/JE99BZkRnYk?wmode=transparent&amp;rel=0&amp;feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p>Sein Gerät nutzt einen <a href="http://gaminggadgets.de/tag/raspberry-pi">Raspberry Pi</a>, der nötige Berechnungen durchführt und Aktionen erlaubt. Denn die Blut-Kanone reagiert auf Situationen im Spiel: Sterbt ihr, gibt’s einen kleinen Spritzer Blut im „Easy Mode“. Das dürfte gerade bei „Dark Souls 3“ ohnehin recht häufig sein.</p>
+<h2>Noch mehr Blut in Dark Souls 3</h2>
+<p>Sollte das nicht genügen, kann die Kanone im „Hard Mode“ auch dann Blut um sich feuern, wenn die Spielfigur von einem Gegner getroffen wird. Puh, wie lecker!</p>
+<p>Bei <a href="https://www.youtube.com/watch?v=JE99BZkRnYk" target="_blank" rel="noopener noreferrer">YouTube</a> fand sogar Namco Bandai, Hersteller von „Dark Souls 3“ die Idee herrlich. Aber ich denke, solch ein „Gaming Gadget“ wird wohl auch in Zukunft nicht in den Handel kommen. Wenn ihr so etwas braucht, müsst ihr euch die Kanone selbst bauen…</p>
+</div><p>Der Beitrag <a rel="nofollow" href="https://gaminggadgets.de/dark-souls-3-diese-kanone-bespritzt-euch-beim-spielen-mit-blut">Dark Souls 3</a> erschien zuerst auf <a rel="nofollow" href="https://gaminggadgets.de">GamingGadgets.de</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<enclosure url="https://gaminggadgets.de/wp-content/uploads/2020/10/dark-souls-3-scaled.jpg" length="181527" type="image/jpg" />
+<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://gaminggadgets.de/wp-content/uploads/2020/10/dark-souls-3-scaled.jpg" width="2560" height="1366" medium="image" type="image/jpeg">
+	<media:copyright>GamingGadgets.de</media:copyright>
+	<media:title>Ob das Spaß macht? (Foto: Screenshot)</media:title>
+	<media:description type="html"><![CDATA[Ob das Spaß macht? (Foto: Screenshot)]]></media:description>
+</media:content>
+<media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://gaminggadgets.de/wp-content/uploads/2020/10/dark-souls-3-scaled.jpg" width="2560" height="1366" />
+	</item>
+		<item>
+		<title>Doom</title>
+		<link>https://gaminggadgets.de/doom-klassiker-mit-kartoffeln-gespielt</link>
+		
+		<dc:creator><![CDATA[Sven]]></dc:creator>
+		<pubDate>Fri, 23 Oct 2020 10:25:33 +0000</pubDate>
+				<category><![CDATA[Undsonstso]]></category>
+		<category><![CDATA[Bastelei]]></category>
+		<category><![CDATA[DIY]]></category>
+		<category><![CDATA[Doom]]></category>
+		<category><![CDATA[Kartoffel]]></category>
+		<category><![CDATA[TI-84]]></category>
+		<guid isPermaLink="false">http://gaminggadgets.de/?p=42001</guid>
+
+					<description><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://gaminggadgets.de/wp-content/uploads/2020/10/doom-kartoffel.jpg" width="1050" height="750" title="Doom trifft auf Kartoffel. (Foto: Screenshot)" alt="Doom trifft auf Kartoffel. (Foto: Screenshot)" /></div>
+<div>
+<div style="margin-bottom:20px;"><img width="1050" height="750" src="https://gaminggadgets.de/wp-content/uploads/2020/10/doom-kartoffel.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Doom trifft auf Kartoffel. (Foto: Screenshot)" decoding="async" loading="lazy" srcset="https://gaminggadgets.de/wp-content/uploads/2020/10/doom-kartoffel.jpg 1050w, https://gaminggadgets.de/wp-content/uploads/2020/10/doom-kartoffel-300x214.jpg 300w, https://gaminggadgets.de/wp-content/uploads/2020/10/doom-kartoffel-1024x731.jpg 1024w, https://gaminggadgets.de/wp-content/uploads/2020/10/doom-kartoffel-768x549.jpg 768w" sizes="(max-width: 1050px) 100vw, 1050px" /></div>
+<p>Ihr braucht eine Steckdose oder eine Powerbank, um „Doom“ zu zocken? Ach, was! Es genügen offenbar auch ein paar Kilo Kartoffeln… Der YouTuber Equalo hatte eine abgefahrene Idee: Er wollte „Doom“ spielen, ohne dabei von einer Steckdose abhängig zu sein. Herausgekommen ist ein skurriles, aber witziges Experiment. Kartoffelbatterie treibt Taschenrechner an Bereits Kinder kennen die [&#8230;]</p></div>
+<p>Der Beitrag <a rel="nofollow" href="https://gaminggadgets.de/doom-klassiker-mit-kartoffeln-gespielt">Doom</a> erschien zuerst auf <a rel="nofollow" href="https://gaminggadgets.de">GamingGadgets.de</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://gaminggadgets.de/wp-content/uploads/2020/10/doom-kartoffel.jpg" width="1050" height="750" title="Doom trifft auf Kartoffel. (Foto: Screenshot)" alt="Doom trifft auf Kartoffel. (Foto: Screenshot)" /></div><div><div style="margin-bottom:20px;"><img width="1050" height="750" src="https://gaminggadgets.de/wp-content/uploads/2020/10/doom-kartoffel.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Doom trifft auf Kartoffel. (Foto: Screenshot)" decoding="async" loading="lazy" srcset="https://gaminggadgets.de/wp-content/uploads/2020/10/doom-kartoffel.jpg 1050w, https://gaminggadgets.de/wp-content/uploads/2020/10/doom-kartoffel-300x214.jpg 300w, https://gaminggadgets.de/wp-content/uploads/2020/10/doom-kartoffel-1024x731.jpg 1024w, https://gaminggadgets.de/wp-content/uploads/2020/10/doom-kartoffel-768x549.jpg 768w" sizes="(max-width: 1050px) 100vw, 1050px" /></div><p>Ihr braucht eine Steckdose oder eine Powerbank, um „Doom“ zu zocken? Ach, was! Es genügen offenbar auch ein paar Kilo Kartoffeln…</p>
+<p>Der YouTuber Equalo hatte eine abgefahrene Idee: Er wollte „Doom“ spielen, ohne dabei von einer Steckdose abhängig zu sein. Herausgekommen ist ein skurriles, aber witziges Experiment.</p>
+<h2>Kartoffelbatterie treibt Taschenrechner an</h2>
+<p>Bereits Kinder kennen die sogenannte <a href="https://www.kids-and-science.de/experimente-fuer-kinder/detailansicht/datum/2010/03/01/die-kartoffelbatterie.html">Kartoffelbatterie</a>: Es ist möglich, Energie aus dem Gemüse zu gewinnen – wenig, aber ausreichend, um zum Beispiel eine LED zum Leuchten zu bringen. Für eine Spielkonsole oder einen Raspberry Pi bräuchte man entsprechend mehr Kartoffeln. Das stellte Equalo bei seinen Versuchen ebenfalls fest. Spannung und Stromstärke erhöhen sich erst, wenn man genügend „Material“ parat hat.</p>
+<p><iframe title="How Many Potatoes Does It Take To Run DOOM?" width="1170" height="658" src="https://www.youtube.com/embed/KFDlVgBMomQ?wmode=transparent&amp;rel=0&amp;feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p>Und so kaufte der Tüftler 50 Kilogramm Kartoffeln, kochte diese und schnitt sie in Stücke. Sie wurden alle miteinander verbunden und die Energie gemessen. Dummerweise genügte diese große Kartoffelbatterie nicht aus, um ein großes Spielgerät zu betreiben, dafür aber den bei Bastelfreunden beliebten grafischen Taschenrechner TI-84. Und auf dem konnte Equalo sogar eine Version von „Doom“ installieren sowie zocken – mit der Kraft der Kartoffel.</p>
+<p>Ein schräges, aber auch spannendes Experiment. Schon erstaunlich, was in Kartoffeln steckt. Mehr, als nur Stärke.</p>
+</div><p>Der Beitrag <a rel="nofollow" href="https://gaminggadgets.de/doom-klassiker-mit-kartoffeln-gespielt">Doom</a> erschien zuerst auf <a rel="nofollow" href="https://gaminggadgets.de">GamingGadgets.de</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<enclosure url="https://gaminggadgets.de/wp-content/uploads/2020/10/doom-kartoffel.jpg" length="96936" type="image/jpg" />
+<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://gaminggadgets.de/wp-content/uploads/2020/10/doom-kartoffel.jpg" width="1050" height="750" medium="image" type="image/jpeg">
+	<media:copyright>GamingGadgets.de</media:copyright>
+	<media:title>Doom trifft auf Kartoffel. (Foto: Screenshot)</media:title>
+	<media:description type="html"><![CDATA[Doom trifft auf Kartoffel. (Foto: Screenshot)]]></media:description>
+</media:content>
+<media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://gaminggadgets.de/wp-content/uploads/2020/10/doom-kartoffel.jpg" width="1050" height="750" />
+	</item>
+		<item>
+		<title>uSVC</title>
+		<link>https://gaminggadgets.de/usvc-simple-vga-spielkonsole-fuer-puristen</link>
+		
+		<dc:creator><![CDATA[Sven]]></dc:creator>
+		<pubDate>Wed, 14 Oct 2020 10:25:14 +0000</pubDate>
+				<category><![CDATA[Spielgeräte]]></category>
+		<category><![CDATA[Bastelei]]></category>
+		<category><![CDATA[Crowdfunding]]></category>
+		<category><![CDATA[Crowdsupply]]></category>
+		<category><![CDATA[DIY]]></category>
+		<category><![CDATA[Retro]]></category>
+		<category><![CDATA[Spielkonsole]]></category>
+		<category><![CDATA[uChip Simple VGA Console]]></category>
+		<guid isPermaLink="false">http://gaminggadgets.de/?p=41973</guid>
+
+					<description><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://gaminggadgets.de/wp-content/uploads/2020/10/microchip-uscv-hero-edit-1_jpg_project-main.jpg" width="1050" height="450" title="Das ist die Konsole für Puristen. (Foto: Crowdsupply)" alt="Das ist die Konsole für Puristen. (Foto: Crowdsupply)" /></div>
+<div>
+<div style="margin-bottom:20px;"><img width="1050" height="450" src="https://gaminggadgets.de/wp-content/uploads/2020/10/microchip-uscv-hero-edit-1_jpg_project-main.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Das ist die Konsole für Puristen. (Foto: Crowdsupply)" decoding="async" loading="lazy" srcset="https://gaminggadgets.de/wp-content/uploads/2020/10/microchip-uscv-hero-edit-1_jpg_project-main.jpg 1050w, https://gaminggadgets.de/wp-content/uploads/2020/10/microchip-uscv-hero-edit-1_jpg_project-main-300x129.jpg 300w, https://gaminggadgets.de/wp-content/uploads/2020/10/microchip-uscv-hero-edit-1_jpg_project-main-1024x439.jpg 1024w, https://gaminggadgets.de/wp-content/uploads/2020/10/microchip-uscv-hero-edit-1_jpg_project-main-768x329.jpg 768w" sizes="(max-width: 1050px) 100vw, 1050px" /></div>
+<p>Ihr könnt mit HD- und 4K-Auflösungen nichts anfangen? Baut euch mit der uChip Simple VGA Console eine perfekte Nostalgie-Spielkonsole. Die uSVC ist schon eine eigenwillige Spielkonsole, die auf ungewöhnliche Weise Retro mit Moderne verbindet. Denn sie bietet einerseits niedrige Auflösungen, wie wir es aus den 1980ern und 1990ern kennen. Andererseits steckt zeitgemäße Hardware auf der [&#8230;]</p></div>
+<p>Der Beitrag <a rel="nofollow" href="https://gaminggadgets.de/usvc-simple-vga-spielkonsole-fuer-puristen">uSVC</a> erschien zuerst auf <a rel="nofollow" href="https://gaminggadgets.de">GamingGadgets.de</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://gaminggadgets.de/wp-content/uploads/2020/10/microchip-uscv-hero-edit-1_jpg_project-main.jpg" width="1050" height="450" title="Das ist die Konsole für Puristen. (Foto: Crowdsupply)" alt="Das ist die Konsole für Puristen. (Foto: Crowdsupply)" /></div><div><div style="margin-bottom:20px;"><img width="1050" height="450" src="https://gaminggadgets.de/wp-content/uploads/2020/10/microchip-uscv-hero-edit-1_jpg_project-main.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Das ist die Konsole für Puristen. (Foto: Crowdsupply)" decoding="async" loading="lazy" srcset="https://gaminggadgets.de/wp-content/uploads/2020/10/microchip-uscv-hero-edit-1_jpg_project-main.jpg 1050w, https://gaminggadgets.de/wp-content/uploads/2020/10/microchip-uscv-hero-edit-1_jpg_project-main-300x129.jpg 300w, https://gaminggadgets.de/wp-content/uploads/2020/10/microchip-uscv-hero-edit-1_jpg_project-main-1024x439.jpg 1024w, https://gaminggadgets.de/wp-content/uploads/2020/10/microchip-uscv-hero-edit-1_jpg_project-main-768x329.jpg 768w" sizes="(max-width: 1050px) 100vw, 1050px" /></div><p>Ihr könnt mit HD- und 4K-Auflösungen nichts anfangen? Baut euch mit der uChip Simple VGA Console eine perfekte Nostalgie-Spielkonsole.</p>
+<p>Die uSVC ist schon eine eigenwillige Spielkonsole, die auf ungewöhnliche Weise Retro mit Moderne verbindet. Denn sie bietet einerseits niedrige Auflösungen, wie wir es aus den 1980ern und 1990ern kennen. Andererseits steckt zeitgemäße Hardware auf der Platine.</p>
+<h2>Das bietet die uChip Simple VGA Console</h2>
+<p>Ein Blick auf die technischen Daten lässt ältere Semester aufhorchen: Die Standard-Auflösung der uSVC ist 320 x 200 Pixel bei 57Hz. Maximal 256 Farben können auf dem Bildschirm dargestellt werden, Sprites dürfen maximal 128 Pixel groß sein. Den Erfindern der Hardware war es wichtig, dass hier die gute, alte VGA-Grafik nachgebildet wird, die auf dem PC viele Jahre Standard war – noch bevor überhaupt an 3D-Grafikkarten zu denken war.</p>
+
+<a href='https://gaminggadgets.de/wp-content/uploads/2020/10/uchip-3.jpg' title="Spiel von der uChip Simple VGA Console. (Foto: CrowdSupply)" data-rl_title="Spiel von der uChip Simple VGA Console. (Foto: CrowdSupply)" class="rl-gallery-link" data-rl_caption="" data-rel="lightbox-gallery-1"><img width="120" height="120" src="https://gaminggadgets.de/wp-content/uploads/2020/10/uchip-3-120x120.jpg" class="attachment-thumbnail size-thumbnail" alt="Spiel von der uChip Simple VGA Console. (Foto: CrowdSupply)" decoding="async" /></a>
+<a href='https://gaminggadgets.de/wp-content/uploads/2020/10/uchip-2.jpg' title="Spiel von der uChip Simple VGA Console. (Foto: CrowdSupply)" data-rl_title="Spiel von der uChip Simple VGA Console. (Foto: CrowdSupply)" class="rl-gallery-link" data-rl_caption="" data-rel="lightbox-gallery-1"><img width="120" height="120" src="https://gaminggadgets.de/wp-content/uploads/2020/10/uchip-2-120x120.jpg" class="attachment-thumbnail size-thumbnail" alt="Spiel von der uChip Simple VGA Console. (Foto: CrowdSupply)" decoding="async" /></a>
+<a href='https://gaminggadgets.de/wp-content/uploads/2020/10/uchip.jpg' title="Spiel von der uChip Simple VGA Console. (Foto: CrowdSupply)" data-rl_title="Spiel von der uChip Simple VGA Console. (Foto: CrowdSupply)" class="rl-gallery-link" data-rl_caption="" data-rel="lightbox-gallery-1"><img width="120" height="120" src="https://gaminggadgets.de/wp-content/uploads/2020/10/uchip-120x120.jpg" class="attachment-thumbnail size-thumbnail" alt="Spiel von der uChip Simple VGA Console. (Foto: CrowdSupply)" decoding="async" /></a>
+
+<p>Gegenüber dem originalen Standard VGA ist die Technik aber doch etwas fortgeschrittener. So sind weiche Animationen und auch richtige Sounds möglich. Vier 8bit-PCM-Kanäle erlauben immerhin einen 10-bit-Mono-Kanal. Inhalte generiert der namensgebende uChip mit 48 MHz, 256kb Flash-Speicher und 32kb RAM gibt&#8217;s dazu. Spiele werden auf einer microSD-Karte untergebracht.</p>
+<p>Die uChip Simple VGA Console erlaubt zwar USB-Controller und reguläre Tastaturen, aber als Videoausgang bekommt ihr nur einen VGA-Port. Ihr bräuchtet also einen entsprechend alten Monitor oder Fernseher.</p>
+<h2>Konsole für Bastler</h2>
+<p>Sowieso richtet sich die uChip Simple VGA Console an Tüftler, Hobby-Programmierer und erfahrenere Anwender. So verfügt das Gerät selbst über kein Gehäuse – das müsstet ihr euch bauen. Ähnliches gilt für die Software, die ihr am besten selbst programmiert. Drei Games bekommt ihr geschenkt, genauer die OpenSource-Demos „Fair Play Race“, „Redballs“ und „Tetris“, die die Möglichkeiten der Konsole verdeutlichen.</p>
+<figure id="attachment_41977" aria-describedby="caption-attachment-41977" style="width: 400px" class="wp-caption aligncenter"><a href="http://gaminggadgets.de/wp-content/uploads/2020/10/uchip-diy.jpg" data-rel="lightbox-image-3" data-rl_title="Viel Spaß beim Löten. (Foto: CrowdSupply)" data-rl_caption="" title="Viel Spaß beim Löten. (Foto: CrowdSupply)"><img decoding="async" class="size-full wp-image-41977" src="http://gaminggadgets.de/wp-content/uploads/2020/10/uchip-diy.jpg" alt="Viel Spaß beim Löten. (Foto: CrowdSupply)" width="400" height="300" srcset="https://gaminggadgets.de/wp-content/uploads/2020/10/uchip-diy.jpg 400w, https://gaminggadgets.de/wp-content/uploads/2020/10/uchip-diy-300x225.jpg 300w" sizes="(max-width: 400px) 100vw, 400px" /></a><figcaption id="caption-attachment-41977" class="wp-caption-text">Viel Spaß beim Löten. (Foto: CrowdSupply)</figcaption></figure>
+<p>Und: Ihr müsst löten können, um die uChip Simple VGA Console einsatzbereit zu machen. Das soll nicht allzu komplex sein, aber etwas Fingerspitzengefühl wird euch abverlangt. Bei <a href="https://www.crowdsupply.com/itaca-innovation/usvc" target="_blank" rel="noopener noreferrer">Crowdsupply</a> startet bald die Finanzierungsphase, aber eines ist schon jetzt sicher: Teuer wird die Konsole nicht. Doch sie ist natürlich sehr speziell…</p>
+</div><p>Der Beitrag <a rel="nofollow" href="https://gaminggadgets.de/usvc-simple-vga-spielkonsole-fuer-puristen">uSVC</a> erschien zuerst auf <a rel="nofollow" href="https://gaminggadgets.de">GamingGadgets.de</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<enclosure url="https://gaminggadgets.de/wp-content/uploads/2020/10/microchip-uscv-hero-edit-1_jpg_project-main.jpg" length="52162" type="image/jpg" />
+<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://gaminggadgets.de/wp-content/uploads/2020/10/microchip-uscv-hero-edit-1_jpg_project-main.jpg" width="1050" height="450" medium="image" type="image/jpeg">
+	<media:copyright>GamingGadgets.de</media:copyright>
+	<media:title>Das ist die Konsole für Puristen. (Foto: Crowdsupply)</media:title>
+	<media:description type="html"><![CDATA[Das ist die Konsole für Puristen. (Foto: Crowdsupply)]]></media:description>
+</media:content>
+<media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://gaminggadgets.de/wp-content/uploads/2020/10/microchip-uscv-hero-edit-1_jpg_project-main.jpg" width="1050" height="450" />
+	</item>
+		<item>
+		<title>DIY Micro Car</title>
+		<link>https://gaminggadgets.de/diy-micro-car-das-wohl-kleinste-ferngesteuerte-auto</link>
+		
+		<dc:creator><![CDATA[Sven]]></dc:creator>
+		<pubDate>Fri, 02 Oct 2020 10:25:41 +0000</pubDate>
+				<category><![CDATA[Spielzeug]]></category>
+		<category><![CDATA[Bastelei]]></category>
+		<category><![CDATA[DIY]]></category>
+		<category><![CDATA[DIY Micro Car]]></category>
+		<category><![CDATA[Ferngesteuert]]></category>
+		<guid isPermaLink="false">http://gaminggadgets.de/?p=41819</guid>
+
+					<description><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://gaminggadgets.de/wp-content/uploads/2020/08/rc-micro-car.jpg" width="1050" height="750" title="Wow, ist dieses ferngesteuerte Auto klein. (Foto: Screenshot / YouTube)" alt="Wow, ist dieses ferngesteuerte Auto klein. (Foto: Screenshot / YouTube)" /></div>
+<div>
+<div style="margin-bottom:20px;"><img width="1050" height="750" src="https://gaminggadgets.de/wp-content/uploads/2020/08/rc-micro-car.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Wow, ist dieses ferngesteuerte Auto klein. (Foto: Screenshot / YouTube)" decoding="async" loading="lazy" srcset="https://gaminggadgets.de/wp-content/uploads/2020/08/rc-micro-car.jpg 1050w, https://gaminggadgets.de/wp-content/uploads/2020/08/rc-micro-car-300x214.jpg 300w, https://gaminggadgets.de/wp-content/uploads/2020/08/rc-micro-car-1024x731.jpg 1024w, https://gaminggadgets.de/wp-content/uploads/2020/08/rc-micro-car-768x549.jpg 768w" sizes="(max-width: 1050px) 100vw, 1050px" /></div>
+<p>Es ist so klein, es passt auf den Zeigefinger. Dieses Mikro-Vehikel lässt sich sogar fernsteuern. Der YouTuber Diorama111 hat da etwas gebastelt, das ihr auf den ersten Blick fast übersehen könntet. Denn er verwandelte das winzige Modell eines Toyota Crown im Maßstab von 1:150 in ein Auto mit Fernsteuerung. Das bietet der DIY Micro Car [&#8230;]</p></div>
+<p>Der Beitrag <a rel="nofollow" href="https://gaminggadgets.de/diy-micro-car-das-wohl-kleinste-ferngesteuerte-auto">DIY Micro Car</a> erschien zuerst auf <a rel="nofollow" href="https://gaminggadgets.de">GamingGadgets.de</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://gaminggadgets.de/wp-content/uploads/2020/08/rc-micro-car.jpg" width="1050" height="750" title="Wow, ist dieses ferngesteuerte Auto klein. (Foto: Screenshot / YouTube)" alt="Wow, ist dieses ferngesteuerte Auto klein. (Foto: Screenshot / YouTube)" /></div><div><div style="margin-bottom:20px;"><img width="1050" height="750" src="https://gaminggadgets.de/wp-content/uploads/2020/08/rc-micro-car.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Wow, ist dieses ferngesteuerte Auto klein. (Foto: Screenshot / YouTube)" decoding="async" loading="lazy" srcset="https://gaminggadgets.de/wp-content/uploads/2020/08/rc-micro-car.jpg 1050w, https://gaminggadgets.de/wp-content/uploads/2020/08/rc-micro-car-300x214.jpg 300w, https://gaminggadgets.de/wp-content/uploads/2020/08/rc-micro-car-1024x731.jpg 1024w, https://gaminggadgets.de/wp-content/uploads/2020/08/rc-micro-car-768x549.jpg 768w" sizes="(max-width: 1050px) 100vw, 1050px" /></div><p>Es ist so klein, es passt auf den Zeigefinger. Dieses Mikro-Vehikel lässt sich sogar fernsteuern.</p>
+<p>Der YouTuber Diorama111 hat da etwas gebastelt, das ihr auf den ersten Blick fast übersehen könntet. Denn er verwandelte das winzige Modell eines Toyota Crown im Maßstab von 1:150 in ein Auto mit Fernsteuerung.</p>
+<h2>Das bietet der DIY Micro Car</h2>
+<p>Klingt eigentlich ganz simpel, oder? Doch schaut euch dieses Video an – so einfach war das gar nicht.</p>
+<p><iframe title="【DIY】How to make 1:150 micro RC Car" width="1170" height="658" src="https://www.youtube.com/embed/bG3rvkpDsdg?wmode=transparent&amp;rel=0&amp;feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p>Das Hauptproblem war freilich die Größe. Denn im Inneren mussten ein Akku mit 40 mAh, ein Microcontroller und ein Motor untergebracht werden. Und für eine vernünftige Steuerung war es nötig, dass sich die Vorderachse bewegen lässt.</p>
+<p>Das Resultat ist schon beeindruckend. Den Toyota kontrolliert der Tüftler mit einer einfachen, selbstgebauten Infrarot-Remote. Kaufen könnt ihr das ferngesteuerte Auto allerdings nicht – es ist eine erstaunliche Bastelei. Nicht weniger, nicht mehr.</p>
+</div><p>Der Beitrag <a rel="nofollow" href="https://gaminggadgets.de/diy-micro-car-das-wohl-kleinste-ferngesteuerte-auto">DIY Micro Car</a> erschien zuerst auf <a rel="nofollow" href="https://gaminggadgets.de">GamingGadgets.de</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<enclosure url="https://gaminggadgets.de/wp-content/uploads/2020/08/rc-micro-car.jpg" length="22927" type="image/jpg" />
+<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://gaminggadgets.de/wp-content/uploads/2020/08/rc-micro-car.jpg" width="1050" height="750" medium="image" type="image/jpeg">
+	<media:copyright>GamingGadgets.de</media:copyright>
+	<media:title>Wow, ist dieses ferngesteuerte Auto klein. (Foto: Screenshot / YouTube)</media:title>
+	<media:description type="html"><![CDATA[Wow, ist dieses ferngesteuerte Auto klein. (Foto: Screenshot / YouTube)]]></media:description>
+</media:content>
+<media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://gaminggadgets.de/wp-content/uploads/2020/08/rc-micro-car.jpg" width="1050" height="750" />
+	</item>
+		<item>
+		<title>Retro Sprühfarbe</title>
+		<link>https://gaminggadgets.de/retro-spruehfarbe-macht-eure-alten-computer-wieder-schick</link>
+		
+		<dc:creator><![CDATA[Sven]]></dc:creator>
+		<pubDate>Tue, 29 Sep 2020 10:35:35 +0000</pubDate>
+				<category><![CDATA[Undsonstso]]></category>
+		<category><![CDATA[Amiga 500]]></category>
+		<category><![CDATA[Atari ST]]></category>
+		<category><![CDATA[Bastelei]]></category>
+		<category><![CDATA[C64]]></category>
+		<category><![CDATA[Commodore]]></category>
+		<category><![CDATA[Commodore 64]]></category>
+		<category><![CDATA[DIY]]></category>
+		<category><![CDATA[Retro Sprühfarbe]]></category>
+		<guid isPermaLink="false">http://gaminggadgets.de/?p=41947</guid>
+
+					<description><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://gaminggadgets.de/wp-content/uploads/2020/09/c64-farbspray.jpg" width="1582" height="1212" title="Die Farbe bringt Beige zu euch nach Hause - oder auf euren alten C64. (Foto: Retrohax)" alt="Die Farbe bringt Beige zu euch nach Hause - oder auf euren alten C64. (Foto: Retrohax)" /></div>
+<div>
+<div style="margin-bottom:20px;"><img width="1582" height="1212" src="https://gaminggadgets.de/wp-content/uploads/2020/09/c64-farbspray.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Die Farbe bringt Beige zu euch nach Hause - oder auf euren alten C64. (Foto: Retrohax)" decoding="async" loading="lazy" srcset="https://gaminggadgets.de/wp-content/uploads/2020/09/c64-farbspray.jpg 1582w, https://gaminggadgets.de/wp-content/uploads/2020/09/c64-farbspray-300x230.jpg 300w, https://gaminggadgets.de/wp-content/uploads/2020/09/c64-farbspray-1002x768.jpg 1002w, https://gaminggadgets.de/wp-content/uploads/2020/09/c64-farbspray-768x588.jpg 768w, https://gaminggadgets.de/wp-content/uploads/2020/09/c64-farbspray-1536x1177.jpg 1536w" sizes="(max-width: 1582px) 100vw, 1582px" /></div>
+<p>Euer geliebter Amiga 500 und der Commodore 64 vom Dachboden sind schon vergilbt und könnten eine Frischzellenkur vertragen? Ihr braucht diese Retro Sprühfarbe! Wenn ihr stets die neuesten Konsolen und die aktuellste PC-Hardware besitzt, ist diese Retro-Sprühfarbe vom polnischen Unternehmen Retrohax vielleicht nicht ganz so spannend. Doch Nostalgiker und Fans alter Heimcomputer kennen das Problem: [&#8230;]</p></div>
+<p>Der Beitrag <a rel="nofollow" href="https://gaminggadgets.de/retro-spruehfarbe-macht-eure-alten-computer-wieder-schick">Retro Sprühfarbe</a> erschien zuerst auf <a rel="nofollow" href="https://gaminggadgets.de">GamingGadgets.de</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://gaminggadgets.de/wp-content/uploads/2020/09/c64-farbspray.jpg" width="1582" height="1212" title="Die Farbe bringt Beige zu euch nach Hause - oder auf euren alten C64. (Foto: Retrohax)" alt="Die Farbe bringt Beige zu euch nach Hause - oder auf euren alten C64. (Foto: Retrohax)" /></div><div><div style="margin-bottom:20px;"><img width="1582" height="1212" src="https://gaminggadgets.de/wp-content/uploads/2020/09/c64-farbspray.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Die Farbe bringt Beige zu euch nach Hause - oder auf euren alten C64. (Foto: Retrohax)" decoding="async" loading="lazy" srcset="https://gaminggadgets.de/wp-content/uploads/2020/09/c64-farbspray.jpg 1582w, https://gaminggadgets.de/wp-content/uploads/2020/09/c64-farbspray-300x230.jpg 300w, https://gaminggadgets.de/wp-content/uploads/2020/09/c64-farbspray-1002x768.jpg 1002w, https://gaminggadgets.de/wp-content/uploads/2020/09/c64-farbspray-768x588.jpg 768w, https://gaminggadgets.de/wp-content/uploads/2020/09/c64-farbspray-1536x1177.jpg 1536w" sizes="(max-width: 1582px) 100vw, 1582px" /></div><p>Euer geliebter Amiga 500 und der Commodore 64 vom Dachboden sind schon vergilbt und könnten eine Frischzellenkur vertragen? Ihr braucht diese Retro Sprühfarbe!</p>
+<p>Wenn ihr stets die neuesten Konsolen und die aktuellste PC-Hardware besitzt, ist diese Retro-Sprühfarbe vom polnischen Unternehmen Retrohax vielleicht nicht ganz so spannend. Doch Nostalgiker und Fans alter Heimcomputer kennen das Problem: Was tun, bei vergilbten oder gar zerkratzen Gehäuseteilen? Hier kommt die Retro Sprühfarbe ins Spiel.</p>
+<h2>Sprühfarbe für alte Computer-Gehäuse</h2>
+<p>Ein wenig witzig finde ich es schon, die typischen Farben eines C64, eines Amiga 500 oder eines Atari XE/ST zu versprühen. Passende Dosen bietet Retrohax bisher nur in Polen an, doch an sich ist die Idee gut. Denn das Reinigen alter Gehäuse ist nicht immer möglich oder eine große Herausforderung. Und eine Gelbfärbung durch Nikotin bekommt man langfristig wirklich kaum in den Griff. Abhilfe schafft das Besprühen mit passender Farbe, doch die typischen Beige-Töne von Computern der 1980er Jahre finden sich nicht einfach im Baumarkt.</p>
+
+<a href='https://gaminggadgets.de/wp-content/uploads/2020/09/c64-retro-farbspray.jpg' title="C64 Retro Farbspray. (Foto: Retrohax)" data-rl_title="C64 Retro Farbspray. (Foto: Retrohax)" class="rl-gallery-link" data-rl_caption="" data-rel="lightbox-gallery-2"><img width="120" height="120" src="https://gaminggadgets.de/wp-content/uploads/2020/09/c64-retro-farbspray-120x120.jpg" class="attachment-thumbnail size-thumbnail" alt="C64 Retro Farbspray. (Foto: Retrohax)" decoding="async" /></a>
+<a href='https://gaminggadgets.de/wp-content/uploads/2020/09/amiga-500-beige-retro-farbspray.jpg' title="Amiga 500 Retro Farbspray. (Foto: Retrohax)" data-rl_title="Amiga 500 Retro Farbspray. (Foto: Retrohax)" class="rl-gallery-link" data-rl_caption="" data-rel="lightbox-gallery-2"><img width="120" height="120" src="https://gaminggadgets.de/wp-content/uploads/2020/09/amiga-500-beige-retro-farbspray-120x120.jpg" class="attachment-thumbnail size-thumbnail" alt="Amiga 500 Retro Farbspray. (Foto: Retrohax)" decoding="async" /></a>
+
+<p>Retrohax besetzt also eine Nische: Ihr bekommt eine quasi authentische Farbe für eure antiquierten Rechner. Auf der <a href="https://retrohax.net/spray-painting-a-computer-case-a-short-how-to/">Webseite</a> des Anbieters findet ihr sogar ein ausführliches Tutorial mit Tipps und Tricks. Günstig ist die Retro Sprühfarbe nicht. Eine Dose liegt bei umgerechnet <a href="https://retrohax.net/" target="_blank" rel="noopener noreferrer">22 Euro</a>. Aber die Kosten können sich lohnen – bei sachgemäßer Anwendung, versteht sich. Die Retro Sprühfarbe reicht für ein vollständiges Gehäuse. Oder mehrere mit nur kleinen Makeln, die ihr kaschieren wollt.</p>
+</div><p>Der Beitrag <a rel="nofollow" href="https://gaminggadgets.de/retro-spruehfarbe-macht-eure-alten-computer-wieder-schick">Retro Sprühfarbe</a> erschien zuerst auf <a rel="nofollow" href="https://gaminggadgets.de">GamingGadgets.de</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<enclosure url="https://gaminggadgets.de/wp-content/uploads/2020/09/c64-farbspray.jpg" length="182400" type="image/jpg" />
+<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://gaminggadgets.de/wp-content/uploads/2020/09/c64-farbspray.jpg" width="1582" height="1212" medium="image" type="image/jpeg">
+	<media:copyright>GamingGadgets.de</media:copyright>
+	<media:title>Die Farbe bringt Beige zu euch nach Hause - oder auf euren alten C64. (Foto: Retrohax)</media:title>
+	<media:description type="html"><![CDATA[Die Farbe bringt Beige zu euch nach Hause - oder auf euren alten C64. (Foto: Retrohax)]]></media:description>
+</media:content>
+<media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://gaminggadgets.de/wp-content/uploads/2020/09/c64-farbspray.jpg" width="1582" height="1212" />
+	</item>
+		<item>
+		<title>Engage</title>
+		<link>https://gaminggadgets.de/engage-dieser-gameboy-benoetigt-keinen-strom</link>
+		
+		<dc:creator><![CDATA[Sven]]></dc:creator>
+		<pubDate>Tue, 08 Sep 2020 06:30:00 +0000</pubDate>
+				<category><![CDATA[Spielgeräte]]></category>
+		<category><![CDATA[Bastelei]]></category>
+		<category><![CDATA[DIY]]></category>
+		<category><![CDATA[Engage]]></category>
+		<category><![CDATA[Gameboy]]></category>
+		<category><![CDATA[Handheld]]></category>
+		<category><![CDATA[Solar]]></category>
+		<guid isPermaLink="false">http://gaminggadgets.de/?p=41923</guid>
+
+					<description><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://gaminggadgets.de/wp-content/uploads/2020/09/engage-3-scaled.jpg" width="2560" height="1438" title="Nicht schön, aber diese Gameboys benötigen keine Batterien. (Foto: Northwestern University)" alt="Nicht schön, aber diese Gameboys benötigen keine Batterien. (Foto: Northwestern University)" /></div>
+<div>
+<div style="margin-bottom:20px;"><img width="2560" height="1438" src="https://gaminggadgets.de/wp-content/uploads/2020/09/engage-3-scaled.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Nicht schön, aber diese Gameboys benötigen keine Batterien. (Foto: Northwestern University)" decoding="async" loading="lazy" srcset="https://gaminggadgets.de/wp-content/uploads/2020/09/engage-3-scaled.jpg 2560w, https://gaminggadgets.de/wp-content/uploads/2020/09/engage-3-300x169.jpg 300w, https://gaminggadgets.de/wp-content/uploads/2020/09/engage-3-1024x575.jpg 1024w, https://gaminggadgets.de/wp-content/uploads/2020/09/engage-3-768x431.jpg 768w, https://gaminggadgets.de/wp-content/uploads/2020/09/engage-3-1536x863.jpg 1536w, https://gaminggadgets.de/wp-content/uploads/2020/09/engage-3-2048x1151.jpg 2048w" sizes="(max-width: 2560px) 100vw, 2560px" /></div>
+<p>Vor 30 Jahren brauchte ein Nintendo Gameboy regelmäßig neuen „Saft“ in Form von vier AA-Batterien. Der Engage benötigt zum Spielen gar keine mehr. Aber wie geht das? Auf den ersten Blick erinnert der Engage tatsächlich an einen guten, alten Gameboy. Auch diese Handheld-Konsole schluckt die originalen Cartridges der legendären 8bit-Maschine von Nintendo. Der Unterschied: Batterien [&#8230;]</p></div>
+<p>Der Beitrag <a rel="nofollow" href="https://gaminggadgets.de/engage-dieser-gameboy-benoetigt-keinen-strom">Engage</a> erschien zuerst auf <a rel="nofollow" href="https://gaminggadgets.de">GamingGadgets.de</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://gaminggadgets.de/wp-content/uploads/2020/09/engage-3-scaled.jpg" width="2560" height="1438" title="Nicht schön, aber diese Gameboys benötigen keine Batterien. (Foto: Northwestern University)" alt="Nicht schön, aber diese Gameboys benötigen keine Batterien. (Foto: Northwestern University)" /></div><div><div style="margin-bottom:20px;"><img width="2560" height="1438" src="https://gaminggadgets.de/wp-content/uploads/2020/09/engage-3-scaled.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Nicht schön, aber diese Gameboys benötigen keine Batterien. (Foto: Northwestern University)" decoding="async" loading="lazy" srcset="https://gaminggadgets.de/wp-content/uploads/2020/09/engage-3-scaled.jpg 2560w, https://gaminggadgets.de/wp-content/uploads/2020/09/engage-3-300x169.jpg 300w, https://gaminggadgets.de/wp-content/uploads/2020/09/engage-3-1024x575.jpg 1024w, https://gaminggadgets.de/wp-content/uploads/2020/09/engage-3-768x431.jpg 768w, https://gaminggadgets.de/wp-content/uploads/2020/09/engage-3-1536x863.jpg 1536w, https://gaminggadgets.de/wp-content/uploads/2020/09/engage-3-2048x1151.jpg 2048w" sizes="(max-width: 2560px) 100vw, 2560px" /></div><p>Vor 30 Jahren brauchte ein Nintendo Gameboy regelmäßig neuen „Saft“ in Form von vier AA-Batterien. Der Engage benötigt zum Spielen gar keine mehr. Aber wie geht das?</p>
+<p>Auf den ersten Blick erinnert der Engage tatsächlich an einen guten, alten Gameboy. Auch diese Handheld-Konsole schluckt die originalen Cartridges der legendären 8bit-Maschine von Nintendo. Der Unterschied: Batterien braucht das Gerät nicht. Stattdessen bezieht der Engage seine Energie über Solarzellen und durch die Energie-Rückgewinnung beim Drücken der Buttons.</p>
+<h2>Das steckt im Engage</h2>
+<p>Indem ihr Tasten am Engage betätigt, erzeugt ihr Energie. Ein solches System kommt häufiger zum Einsatz, ein bekanntes Beispiel ist der Philips Hue Tap Schalter. Hinzu gesellen sich Solarflächen auf dem Gehäuse der Konsole.</p>
+<p><iframe title="Battery-free Game Boy runs forever" width="1170" height="658" src="https://www.youtube.com/embed/-RhCrdu7kDg?wmode=transparent&amp;rel=0&amp;feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p>Die Erfinder von der Technischen Universität Delft (Niederlande) und der <a href="https://news.northwestern.edu/stories/2020/09/battery-free-game-boy-runs-forever/">Northwestern University</a> (USA) schafften es bisher allerdings nicht, ausreichend Energie zu produzieren, um ein Spielerlebnis ohne Unterbrechungen zu ermöglichen. Das führt dazu, dass sich der Engage nach zehn Sekunden für rund eine Sekunde ausschaltet, um „aufzuladen“. Glücklicherweise wird stets der Spielstand gesichert.</p>
+<h2>Eher eine Machbarkeitsstudie</h2>
+<p>Zugegeben: Das Problem der Stromversorgung ist nicht gerade optimal, denn es dürfte dem Spielfluss alle andere als förderlich sein. Daher ist der Gameboy-Klon eher für ruhige Spiele wie Puzzles und weniger für Actiongames geeignet. Andererseits wollten die Forscher der beiden Universitäten zeigen, wie eine alternative Energiegewinnung aussehen und funktionieren könnte. Und: Wir reden hier über einen technischen Entwurf, der vielleicht in Zukunft noch verbessert werden könnte.</p>
+<figure id="attachment_41925" aria-describedby="caption-attachment-41925" style="width: 2560px" class="wp-caption aligncenter"><a href="http://gaminggadgets.de/wp-content/uploads/2020/09/engage-2-scaled.jpg" data-rel="lightbox-image-0" data-rl_title="Ärgerlich sind die Zwangspausen. (Foto: Northwestern University)" data-rl_caption="" title="Ärgerlich sind die Zwangspausen. (Foto: Northwestern University)"><img decoding="async" class="size-full wp-image-41925" src="http://gaminggadgets.de/wp-content/uploads/2020/09/engage-2-scaled.jpg" alt="Ärgerlich sind die Zwangspausen. (Foto: Northwestern University)" width="2560" height="1439" srcset="https://gaminggadgets.de/wp-content/uploads/2020/09/engage-2-scaled.jpg 2560w, https://gaminggadgets.de/wp-content/uploads/2020/09/engage-2-300x169.jpg 300w, https://gaminggadgets.de/wp-content/uploads/2020/09/engage-2-1024x575.jpg 1024w, https://gaminggadgets.de/wp-content/uploads/2020/09/engage-2-768x432.jpg 768w, https://gaminggadgets.de/wp-content/uploads/2020/09/engage-2-1536x863.jpg 1536w, https://gaminggadgets.de/wp-content/uploads/2020/09/engage-2-2048x1151.jpg 2048w" sizes="(max-width: 2560px) 100vw, 2560px" /></a><figcaption id="caption-attachment-41925" class="wp-caption-text">Ärgerlich sind die Zwangspausen. (Foto: Northwestern University)</figcaption></figure>
+<p>Mitte September 2020 soll der Engage auf der Ubicomp 2020 präsentiert werden. So oder so: Ein reizvolles Konzept, das gerne noch optimiert werden könnte. In dieser Form aber würde zumindest ich nicht allzu lange Spaß mit der Hardware haben. Dann doch lieber zum Original greifen…</p>
+</div><p>Der Beitrag <a rel="nofollow" href="https://gaminggadgets.de/engage-dieser-gameboy-benoetigt-keinen-strom">Engage</a> erschien zuerst auf <a rel="nofollow" href="https://gaminggadgets.de">GamingGadgets.de</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<enclosure url="https://gaminggadgets.de/wp-content/uploads/2020/09/engage-3-scaled.jpg" length="339026" type="image/jpg" />
+<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://gaminggadgets.de/wp-content/uploads/2020/09/engage-3-scaled.jpg" width="2560" height="1438" medium="image" type="image/jpeg">
+	<media:copyright>GamingGadgets.de</media:copyright>
+	<media:title>Nicht schön, aber diese Gameboys benötigen keine Batterien. (Foto: Northwestern University)</media:title>
+	<media:description type="html"><![CDATA[Nicht schön, aber diese Gameboys benötigen keine Batterien. (Foto: Northwestern University)]]></media:description>
+</media:content>
+<media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://gaminggadgets.de/wp-content/uploads/2020/09/engage-3-scaled.jpg" width="2560" height="1438" />
+	</item>
+		<item>
+		<title>WiiBoy Color</title>
+		<link>https://gaminggadgets.de/wiiboy-color-schicke-nintendo-wii-als-handheld</link>
+		
+		<dc:creator><![CDATA[Sven]]></dc:creator>
+		<pubDate>Sun, 06 Sep 2020 11:37:09 +0000</pubDate>
+				<category><![CDATA[Spielgeräte]]></category>
+		<category><![CDATA[3D-Drucker]]></category>
+		<category><![CDATA[Bastelei]]></category>
+		<category><![CDATA[DIY]]></category>
+		<category><![CDATA[GingerOfMods]]></category>
+		<category><![CDATA[Handheld]]></category>
+		<category><![CDATA[Nintendo]]></category>
+		<category><![CDATA[Nintendo Wii]]></category>
+		<category><![CDATA[WiiBoy Color]]></category>
+		<guid isPermaLink="false">http://gaminggadgets.de/?p=41900</guid>
+
+					<description><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://gaminggadgets.de/wp-content/uploads/2020/09/wiiboy-color-4.jpg" width="1920" height="1080" title="Eine wirklich toller Handheld-Konsole - der WiiBoy Color. (Foto: GingerOfMods)" alt="Eine wirklich toller Handheld-Konsole - der WiiBoy Color. (Foto: GingerOfMods)" /></div>
+<div>
+<div style="margin-bottom:20px;"><img width="1920" height="1080" src="https://gaminggadgets.de/wp-content/uploads/2020/09/wiiboy-color-4.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Eine wirklich toller Handheld-Konsole - der WiiBoy Color. (Foto: GingerOfMods)" decoding="async" loading="lazy" srcset="https://gaminggadgets.de/wp-content/uploads/2020/09/wiiboy-color-4.jpg 1920w, https://gaminggadgets.de/wp-content/uploads/2020/09/wiiboy-color-4-300x169.jpg 300w, https://gaminggadgets.de/wp-content/uploads/2020/09/wiiboy-color-4-1024x576.jpg 1024w, https://gaminggadgets.de/wp-content/uploads/2020/09/wiiboy-color-4-768x432.jpg 768w, https://gaminggadgets.de/wp-content/uploads/2020/09/wiiboy-color-4-1536x864.jpg 1536w" sizes="(max-width: 1920px) 100vw, 1920px" /></div>
+<p>Sieht wie ein edler Gameboy aus, ist aber eine tragbare Nintendo Wii. Der WiiBoy Color ist ein echtes Schmuckstück. Es ist echt erstaunlich, was clevere Tüftler heutzutage erschaffen können. Der Bastelfreak GingerOfMods baute sich den sogenannten WiiBoy Color, bei dem im Inneren tatsächlich die wichtigsten und originalen Komponenten einer Nintendo Wii stecken – freilich ohne [&#8230;]</p></div>
+<p>Der Beitrag <a rel="nofollow" href="https://gaminggadgets.de/wiiboy-color-schicke-nintendo-wii-als-handheld">WiiBoy Color</a> erschien zuerst auf <a rel="nofollow" href="https://gaminggadgets.de">GamingGadgets.de</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://gaminggadgets.de/wp-content/uploads/2020/09/wiiboy-color-4.jpg" width="1920" height="1080" title="Eine wirklich toller Handheld-Konsole - der WiiBoy Color. (Foto: GingerOfMods)" alt="Eine wirklich toller Handheld-Konsole - der WiiBoy Color. (Foto: GingerOfMods)" /></div><div><div style="margin-bottom:20px;"><img width="1920" height="1080" src="https://gaminggadgets.de/wp-content/uploads/2020/09/wiiboy-color-4.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Eine wirklich toller Handheld-Konsole - der WiiBoy Color. (Foto: GingerOfMods)" decoding="async" loading="lazy" srcset="https://gaminggadgets.de/wp-content/uploads/2020/09/wiiboy-color-4.jpg 1920w, https://gaminggadgets.de/wp-content/uploads/2020/09/wiiboy-color-4-300x169.jpg 300w, https://gaminggadgets.de/wp-content/uploads/2020/09/wiiboy-color-4-1024x576.jpg 1024w, https://gaminggadgets.de/wp-content/uploads/2020/09/wiiboy-color-4-768x432.jpg 768w, https://gaminggadgets.de/wp-content/uploads/2020/09/wiiboy-color-4-1536x864.jpg 1536w" sizes="(max-width: 1920px) 100vw, 1920px" /></div><p>Sieht wie ein edler Gameboy aus, ist aber eine tragbare Nintendo Wii. Der WiiBoy Color ist ein echtes Schmuckstück.</p>
+<p>Es ist echt erstaunlich, was clevere Tüftler heutzutage erschaffen können. Der Bastelfreak GingerOfMods baute sich den sogenannten WiiBoy Color, bei dem im Inneren tatsächlich die wichtigsten und originalen Komponenten einer Nintendo Wii stecken – freilich ohne Disk-Laufwerk.</p>
+<h2>Das bietet der WiiBoy Color</h2>
+<p>Das Gehäuse entstand im 3D-Drucker, es wurde also zuvor am Rechner erstellt. Das IPS-Display ist mit einer Größe von 3,5 Zoll und einer Auflösung von 480p ausreichend für längere Zocksessions. Dafür sorgt auch ein 18650 mAh starker Akku. Auf einem USB-Stick befinden sich die Spiele, über USB-C transferiert ihr Inhalte oder ladet die Handheld-Konsole auf. Übrigens hält die Batterie rund 2-3 Stunden. Immerhin. Eine Powerbank lässt sich anschließen.</p>
+<p><iframe title="I Made A Portable Wii The Size Of A Gameboy Color - The Wiiboy Color" width="1170" height="658" src="https://www.youtube.com/embed/nh1vNDcXZbA?wmode=transparent&amp;rel=0&amp;feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p>Zum Spielen kommen beim WiiBoy Color die Joy-Con-Joysticks einer Nintendo Switch zum Einsatz, die Buttons stammen von einem Nintendo DS Lite. Auch verwendete der Tüftler Komponenten von einem Gamecube-Controller.</p>
+<h2>Leider nicht zum Kaufen</h2>
+<p>Für GingerOfMods war der WiiBoy Color ein kreatives Projekt, aber eine Massenproduktion ist freilich nicht geplant. Andererseits könnte sich Nintendo mal eine Scheibe abschneiden – solch ein Gerät mit Wii- und Gamecube-Kompatibilität würden sicherlich viele Retro-Liebhaber kaufen, oder?</p>
+
+<a href='https://gaminggadgets.de/wp-content/uploads/2020/09/wiiboy-color-5.jpg' title="WiiBoy Color. (Foto: GingerOfMods)" data-rl_title="WiiBoy Color. (Foto: GingerOfMods)" class="rl-gallery-link" data-rl_caption="" data-rel="lightbox-gallery-3"><img width="120" height="120" src="https://gaminggadgets.de/wp-content/uploads/2020/09/wiiboy-color-5-120x120.jpg" class="attachment-thumbnail size-thumbnail" alt="WiiBoy Color. (Foto: GingerOfMods)" decoding="async" /></a>
+<a href='https://gaminggadgets.de/wp-content/uploads/2020/09/wiiboy-color-3.jpg' title="WiiBoy Color. (Foto: GingerOfMods)" data-rl_title="WiiBoy Color. (Foto: GingerOfMods)" class="rl-gallery-link" data-rl_caption="" data-rel="lightbox-gallery-3"><img width="120" height="120" src="https://gaminggadgets.de/wp-content/uploads/2020/09/wiiboy-color-3-120x120.jpg" class="attachment-thumbnail size-thumbnail" alt="WiiBoy Color. (Foto: GingerOfMods)" decoding="async" /></a>
+<a href='https://gaminggadgets.de/wp-content/uploads/2020/09/wiiboy-color-2.jpg' title="WiiBoy Color. (Foto: GingerOfMods)" data-rl_title="WiiBoy Color. (Foto: GingerOfMods)" class="rl-gallery-link" data-rl_caption="" data-rel="lightbox-gallery-3"><img width="120" height="120" src="https://gaminggadgets.de/wp-content/uploads/2020/09/wiiboy-color-2-120x120.jpg" class="attachment-thumbnail size-thumbnail" alt="WiiBoy Color. (Foto: GingerOfMods)" decoding="async" /></a>
+<a href='https://gaminggadgets.de/wp-content/uploads/2020/09/wiiboy-color.jpg' title="WiiBoy Color. (Foto: GingerOfMods)" data-rl_title="WiiBoy Color. (Foto: GingerOfMods)" class="rl-gallery-link" data-rl_caption="" data-rel="lightbox-gallery-3"><img width="120" height="120" src="https://gaminggadgets.de/wp-content/uploads/2020/09/wiiboy-color-120x120.jpg" class="attachment-thumbnail size-thumbnail" alt="WiiBoy Color. (Foto: GingerOfMods)" decoding="async" /></a>
+
+<p>Bei Interesse: GingerOfMods könnt ihr unter anderem via <a href="https://twitter.com/GingerOfMods/status/1299075906221137920">Twitter</a> oder <a href="https://www.youtube.com/watch?v=nh1vNDcXZbA&amp;feature=emb_title" target="_blank" rel="noopener noreferrer">YouTube</a> kontaktieren.</p>
+<p>Übrigens ist die Idee nicht völlig neu. Aber mal ehrlich: Im Vergleich zur WiiBoy Color macht die <a href="http://gaminggadgets.de/wiivision-nintendo-wii-als-handheld-konsole">WiiVision</a> nicht ganz so viel her, oder?</p>
+</div><p>Der Beitrag <a rel="nofollow" href="https://gaminggadgets.de/wiiboy-color-schicke-nintendo-wii-als-handheld">WiiBoy Color</a> erschien zuerst auf <a rel="nofollow" href="https://gaminggadgets.de">GamingGadgets.de</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<enclosure url="https://gaminggadgets.de/wp-content/uploads/2020/09/wiiboy-color-4.jpg" length="160952" type="image/jpg" />
+<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://gaminggadgets.de/wp-content/uploads/2020/09/wiiboy-color-4.jpg" width="1920" height="1080" medium="image" type="image/jpeg">
+	<media:copyright>GamingGadgets.de</media:copyright>
+	<media:title>Eine wirklich toller Handheld-Konsole - der WiiBoy Color. (Foto: GingerOfMods)</media:title>
+	<media:description type="html"><![CDATA[Eine wirklich toller Handheld-Konsole - der WiiBoy Color. (Foto: GingerOfMods)]]></media:description>
+</media:content>
+<media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://gaminggadgets.de/wp-content/uploads/2020/09/wiiboy-color-4.jpg" width="1920" height="1080" />
+	</item>
+	</channel>
+</rss>

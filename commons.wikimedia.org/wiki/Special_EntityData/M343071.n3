@@ -1,0 +1,333 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix wikibase: <http://wikiba.se/ontology#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix schema: <http://schema.org/> .
+@prefix cc: <http://creativecommons.org/ns#> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix wd: <http://www.wikidata.org/entity/> .
+@prefix data: <https://www.wikidata.org/wiki/Special:EntityData/> .
+@prefix s: <http://www.wikidata.org/entity/statement/> .
+@prefix ref: <http://www.wikidata.org/reference/> .
+@prefix v: <http://www.wikidata.org/value/> .
+@prefix wdt: <http://www.wikidata.org/prop/direct/> .
+@prefix wdtn: <http://www.wikidata.org/prop/direct-normalized/> .
+@prefix p: <http://www.wikidata.org/prop/> .
+@prefix ps: <http://www.wikidata.org/prop/statement/> .
+@prefix psv: <http://www.wikidata.org/prop/statement/value/> .
+@prefix psn: <http://www.wikidata.org/prop/statement/value-normalized/> .
+@prefix pq: <http://www.wikidata.org/prop/qualifier/> .
+@prefix pqv: <http://www.wikidata.org/prop/qualifier/value/> .
+@prefix pqn: <http://www.wikidata.org/prop/qualifier/value-normalized/> .
+@prefix pr: <http://www.wikidata.org/prop/reference/> .
+@prefix prv: <http://www.wikidata.org/prop/reference/value/> .
+@prefix prn: <http://www.wikidata.org/prop/reference/value-normalized/> .
+@prefix wdno: <http://www.wikidata.org/prop/novalue/> .
+@prefix sdc: <https://commons.wikimedia.org/entity/> .
+@prefix sdcdata: <https://commons.wikimedia.org/wiki/Special:EntityData/> .
+@prefix sdcs: <https://commons.wikimedia.org/entity/statement/> .
+@prefix sdcref: <https://commons.wikimedia.org/reference/> .
+@prefix sdcv: <https://commons.wikimedia.org/value/> .
+@prefix sdct: <https://commons.wikimedia.org/prop/direct/> .
+@prefix sdctn: <https://commons.wikimedia.org/prop/direct-normalized/> .
+@prefix sdcp: <https://commons.wikimedia.org/prop/> .
+@prefix sdcps: <https://commons.wikimedia.org/prop/statement/> .
+@prefix sdcpsv: <https://commons.wikimedia.org/prop/statement/value/> .
+@prefix sdcpsn: <https://commons.wikimedia.org/prop/statement/value-normalized/> .
+@prefix sdcpq: <https://commons.wikimedia.org/prop/qualifier/> .
+@prefix sdcpqv: <https://commons.wikimedia.org/prop/qualifier/value/> .
+@prefix sdcpqn: <https://commons.wikimedia.org/prop/qualifier/value-normalized/> .
+@prefix sdcpr: <https://commons.wikimedia.org/prop/reference/> .
+@prefix sdcprv: <https://commons.wikimedia.org/prop/reference/value/> .
+@prefix sdcprn: <https://commons.wikimedia.org/prop/reference/value-normalized/> .
+@prefix sdcno: <https://commons.wikimedia.org/prop/novalue/> .
+
+sdcdata:M343071 a schema:Dataset ;
+	schema:about sdc:M343071 ;
+	cc:license <http://creativecommons.org/publicdomain/zero/1.0/> ;
+	schema:softwareVersion "1.0.0" ;
+	schema:version "789298582"^^xsd:integer ;
+	schema:dateModified "2023-08-02T12:14:39Z"^^xsd:dateTime .
+
+sdc:M343071 a wikibase:Mediainfo ;
+	wdt:P8058 wd:Q183 ;
+	wdt:P7482 wd:Q66458942 ;
+	wdt:P180 wd:Q48160 ;
+	wdt:P1163 "image/svg+xml" ;
+	p:P8058 sdcs:M343071-97daf7b9-4f15-7559-44ec-daac13da867d .
+
+sdcs:M343071-97daf7b9-4f15-7559-44ec-daac13da867d a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P8058 wd:Q183 .
+
+sdc:M343071 p:P7482 sdcs:M343071-926B18BD-66A2-449C-8E49-1634E21C0FEB .
+
+sdcs:M343071-926B18BD-66A2-449C-8E49-1634E21C0FEB a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P7482 wd:Q66458942 .
+
+sdc:M343071 p:P180 sdcs:M343071-094da699-46fa-bc00-6e6b-7b3dbb7f6f64 .
+
+sdcs:M343071-094da699-46fa-bc00-6e6b-7b3dbb7f6f64 a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:PreferredRank ;
+	ps:P180 wd:Q48160 .
+
+sdc:M343071 p:P1163 sdcs:M343071-161EBD1C-30F8-4312-94B6-EF20BEBD2300 .
+
+sdcs:M343071-161EBD1C-30F8-4312-94B6-EF20BEBD2300 a wikibase:Statement,
+		wikibase:BestRank ;
+	wikibase:rank wikibase:NormalRank ;
+	ps:P1163 "image/svg+xml" .
+
+sdc:M343071 schema:caption "Bandeira da Alemanha"@pt ;
+	rdfs:label "Bandeira da Alemanha"@pt ;
+	schema:caption "Flaga Niemiec"@pl ;
+	rdfs:label "Flaga Niemiec"@pl ;
+	schema:caption "Flag of the Federal Republic of Germany"@en ;
+	rdfs:label "Flag of the Federal Republic of Germany"@en ;
+	schema:caption "西德国旗"@zh-hans ;
+	rdfs:label "西德国旗"@zh-hans ;
+	schema:caption "জার্মানির পতাকা"@bn ;
+	rdfs:label "জার্মানির পতাকা"@bn ;
+	schema:caption "ဂျာမနီနိုင်ငံအလံတော်"@my ;
+	rdfs:label "ဂျာမနီနိုင်ငံအလံတော်"@my ;
+	schema:caption "علم ألمانيا"@ar ;
+	rdfs:label "علم ألمانيا"@ar ;
+	schema:caption "Hissflagge der Bundesrepublik Deutschland"@de ;
+	rdfs:label "Hissflagge der Bundesrepublik Deutschland"@de ;
+	schema:caption "Флаг Германии"@ru ;
+	rdfs:label "Флаг Германии"@ru ;
+	schema:caption "德国国旗"@zh-hant ;
+	rdfs:label "德国国旗"@zh-hant ;
+	schema:caption "Almanya bayrağı"@tr ;
+	rdfs:label "Almanya bayrağı"@tr ;
+	schema:caption "Almanya bayraq"@az ;
+	rdfs:label "Almanya bayraq"@az ;
+	schema:caption "پرچم آلمان"@fa ;
+	rdfs:label "پرچم آلمان"@fa ;
+	schema:caption "Tysklands flagga"@sv ;
+	rdfs:label "Tysklands flagga"@sv ;
+	schema:caption "Flago de Germanio"@eo ;
+	rdfs:label "Flago de Germanio"@eo ;
+	schema:caption "Bandera de la República Federal de Alemania"@es ;
+	rdfs:label "Bandera de la República Federal de Alemania"@es ;
+	schema:caption "Bandeira de Alemaña"@gl ;
+	rdfs:label "Bandeira de Alemaña"@gl ;
+	schema:caption "Bandiera della Repubblica Federale di Germania"@it ;
+	rdfs:label "Bandiera della Repubblica Federale di Germania"@it ;
+	schema:caption "Drapeau de la République fédérale d'Allemagne"@fr ;
+	rdfs:label "Drapeau de la République fédérale d'Allemagne"@fr ;
+	schema:caption "Saksan lippu"@fi ;
+	rdfs:label "Saksan lippu"@fi ;
+	schema:caption "ਜਰਮਨੀ ਦਾ ਝੰਡਾ"@pa ;
+	rdfs:label "ਜਰਮਨੀ ਦਾ ਝੰਡਾ"@pa ;
+	schema:caption "פאן דייטשלאנד"@yi ;
+	rdfs:label "פאן דייטשלאנד"@yi ;
+	schema:caption "გერმანიის დროშა"@ka ;
+	rdfs:label "გერმანიის დროშა"@ka ;
+	a schema:MediaObject,
+		schema:ImageObject ;
+	schema:encodingFormat "image/svg+xml" ;
+	schema:contentUrl <https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg> ;
+	schema:url <http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Germany.svg> ;
+	schema:contentSize "502"^^xsd:integer ;
+	schema:height "600"^^xsd:integer ;
+	schema:width "1000"^^xsd:integer .
+
+wd:Q183 a wikibase:Item ;
+	rdfs:label "Germany"@en ;
+	skos:prefLabel "Germany"@en ;
+	schema:name "Germany"@en ;
+	schema:description "country in Central Europe"@en .
+
+wd:P8058 a wikibase:Property ;
+	rdfs:label "symbol of"@en ;
+	skos:prefLabel "symbol of"@en ;
+	schema:name "symbol of"@en ;
+	schema:description "item of which the image is a symbol"@en ;
+	wikibase:propertyType <http://wikiba.se/ontology#WikibaseItem> ;
+	wikibase:directClaim wdt:P8058 ;
+	wikibase:claim p:P8058 ;
+	wikibase:statementProperty ps:P8058 ;
+	wikibase:statementValue psv:P8058 ;
+	wikibase:qualifier pq:P8058 ;
+	wikibase:qualifierValue pqv:P8058 ;
+	wikibase:reference pr:P8058 ;
+	wikibase:referenceValue prv:P8058 ;
+	wikibase:novalue wdno:P8058 .
+
+p:P8058 a owl:ObjectProperty .
+
+psv:P8058 a owl:ObjectProperty .
+
+pqv:P8058 a owl:ObjectProperty .
+
+prv:P8058 a owl:ObjectProperty .
+
+wdt:P8058 a owl:ObjectProperty .
+
+ps:P8058 a owl:ObjectProperty .
+
+pq:P8058 a owl:ObjectProperty .
+
+pr:P8058 a owl:ObjectProperty .
+
+wdno:P8058 a owl:Class ;
+	owl:complementOf _:796d08ffa521e6ab5b31b99c37c08ebc .
+
+_:796d08ffa521e6ab5b31b99c37c08ebc a owl:Restriction ;
+	owl:onProperty wdt:P8058 ;
+	owl:someValuesFrom owl:Thing .
+
+wd:Q66458942 a wikibase:Item ;
+	rdfs:label "original creation by uploader"@en ;
+	skos:prefLabel "original creation by uploader"@en ;
+	schema:name "original creation by uploader"@en ;
+	schema:description "value to indicate source of an image on Wikimedia Commons"@en .
+
+wd:P7482 a wikibase:Property ;
+	rdfs:label "source of file"@en ;
+	skos:prefLabel "source of file"@en ;
+	schema:name "source of file"@en ;
+	schema:description "broad nature of the origin of the file"@en ;
+	wikibase:propertyType <http://wikiba.se/ontology#WikibaseItem> ;
+	wikibase:directClaim wdt:P7482 ;
+	wikibase:claim p:P7482 ;
+	wikibase:statementProperty ps:P7482 ;
+	wikibase:statementValue psv:P7482 ;
+	wikibase:qualifier pq:P7482 ;
+	wikibase:qualifierValue pqv:P7482 ;
+	wikibase:reference pr:P7482 ;
+	wikibase:referenceValue prv:P7482 ;
+	wikibase:novalue wdno:P7482 .
+
+p:P7482 a owl:ObjectProperty .
+
+psv:P7482 a owl:ObjectProperty .
+
+pqv:P7482 a owl:ObjectProperty .
+
+prv:P7482 a owl:ObjectProperty .
+
+wdt:P7482 a owl:ObjectProperty .
+
+ps:P7482 a owl:ObjectProperty .
+
+pq:P7482 a owl:ObjectProperty .
+
+pr:P7482 a owl:ObjectProperty .
+
+wdno:P7482 a owl:Class ;
+	owl:complementOf _:acc493f3ae8de4cf9c16f9963879aa6e .
+
+_:acc493f3ae8de4cf9c16f9963879aa6e a owl:Restriction ;
+	owl:onProperty wdt:P7482 ;
+	owl:someValuesFrom owl:Thing .
+
+wd:Q48160 a wikibase:Item ;
+	rdfs:label "flag of Germany"@en ;
+	skos:prefLabel "flag of Germany"@en ;
+	schema:name "flag of Germany"@en ;
+	schema:description "national flag"@en .
+
+wd:P180 a wikibase:Property ;
+	rdfs:label "depicts"@en ;
+	skos:prefLabel "depicts"@en ;
+	schema:name "depicts"@en ;
+	schema:description "entity visually depicted in an image, literarily described in a work, or otherwise incorporated into an audiovisual or other medium; see also P921,  'main subject'"@en ;
+	wikibase:propertyType <http://wikiba.se/ontology#WikibaseItem> ;
+	wikibase:directClaim wdt:P180 ;
+	wikibase:claim p:P180 ;
+	wikibase:statementProperty ps:P180 ;
+	wikibase:statementValue psv:P180 ;
+	wikibase:qualifier pq:P180 ;
+	wikibase:qualifierValue pqv:P180 ;
+	wikibase:reference pr:P180 ;
+	wikibase:referenceValue prv:P180 ;
+	wikibase:novalue wdno:P180 .
+
+p:P180 a owl:ObjectProperty .
+
+psv:P180 a owl:ObjectProperty .
+
+pqv:P180 a owl:ObjectProperty .
+
+prv:P180 a owl:ObjectProperty .
+
+wdt:P180 a owl:ObjectProperty .
+
+ps:P180 a owl:ObjectProperty .
+
+pq:P180 a owl:ObjectProperty .
+
+pr:P180 a owl:ObjectProperty .
+
+wdno:P180 a owl:Class ;
+	owl:complementOf _:20c681d1555b7d642c63c655f8ceb64a .
+
+_:20c681d1555b7d642c63c655f8ceb64a a owl:Restriction ;
+	owl:onProperty wdt:P180 ;
+	owl:someValuesFrom owl:Thing .
+
+wd:P1163 a wikibase:Property ;
+	rdfs:label "MIME type"@en ;
+	skos:prefLabel "MIME type"@en ;
+	schema:name "MIME type"@en ;
+	schema:description "IANA-registered identifier for a file type (MIME)"@en ;
+	wikibase:propertyType <http://wikiba.se/ontology#String> ;
+	wikibase:directClaim wdt:P1163 ;
+	wikibase:claim p:P1163 ;
+	wikibase:statementProperty ps:P1163 ;
+	wikibase:statementValue psv:P1163 ;
+	wikibase:qualifier pq:P1163 ;
+	wikibase:qualifierValue pqv:P1163 ;
+	wikibase:reference pr:P1163 ;
+	wikibase:referenceValue prv:P1163 ;
+	wikibase:novalue wdno:P1163 .
+
+p:P1163 a owl:ObjectProperty .
+
+psv:P1163 a owl:ObjectProperty .
+
+pqv:P1163 a owl:ObjectProperty .
+
+prv:P1163 a owl:ObjectProperty .
+
+wdt:P1163 a owl:DatatypeProperty .
+
+ps:P1163 a owl:DatatypeProperty .
+
+pq:P1163 a owl:DatatypeProperty .
+
+pr:P1163 a owl:DatatypeProperty .
+
+wdno:P1163 a owl:Class ;
+	owl:complementOf _:704e62989d8eb9df732666f92fa84714 .
+
+_:704e62989d8eb9df732666f92fa84714 a owl:Restriction ;
+	owl:onProperty wdt:P1163 ;
+	owl:someValuesFrom owl:Thing .
+
+sdc:M15847977 owl:sameAs sdc:M343071 .
+
+sdc:M21307529 owl:sameAs sdc:M343071 .
+
+sdc:M45962783 owl:sameAs sdc:M343071 .
+
+sdc:M74867398 owl:sameAs sdc:M343071 .
+
+sdc:M88638343 owl:sameAs sdc:M343071 .
+
+sdc:M88638375 owl:sameAs sdc:M343071 .
+
+sdc:M89195361 owl:sameAs sdc:M343071 .
+
+sdc:M89195393 owl:sameAs sdc:M343071 .
+
+sdc:M119982008 owl:sameAs sdc:M343071 .

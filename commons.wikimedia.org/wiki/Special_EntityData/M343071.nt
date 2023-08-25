@@ -1,0 +1,221 @@
+<https://commons.wikimedia.org/wiki/Special:EntityData/M343071> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Dataset> .
+<https://commons.wikimedia.org/wiki/Special:EntityData/M343071> <http://schema.org/about> <https://commons.wikimedia.org/entity/M343071> .
+<https://commons.wikimedia.org/wiki/Special:EntityData/M343071> <http://creativecommons.org/ns#license> <http://creativecommons.org/publicdomain/zero/1.0/> .
+<https://commons.wikimedia.org/wiki/Special:EntityData/M343071> <http://schema.org/softwareVersion> "1.0.0" .
+<https://commons.wikimedia.org/wiki/Special:EntityData/M343071> <http://schema.org/version> "789298582"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://commons.wikimedia.org/wiki/Special:EntityData/M343071> <http://schema.org/dateModified> "2023-08-02T12:14:39Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<https://commons.wikimedia.org/entity/M343071> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://wikiba.se/ontology#Mediainfo> .
+<https://commons.wikimedia.org/entity/M343071> <http://www.wikidata.org/prop/direct/P8058> <http://www.wikidata.org/entity/Q183> .
+<https://commons.wikimedia.org/entity/M343071> <http://www.wikidata.org/prop/direct/P7482> <http://www.wikidata.org/entity/Q66458942> .
+<https://commons.wikimedia.org/entity/M343071> <http://www.wikidata.org/prop/direct/P180> <http://www.wikidata.org/entity/Q48160> .
+<https://commons.wikimedia.org/entity/M343071> <http://www.wikidata.org/prop/direct/P1163> "image/svg+xml" .
+<https://commons.wikimedia.org/entity/M343071> <http://www.wikidata.org/prop/P8058> <https://commons.wikimedia.org/entity/statement/M343071-97daf7b9-4f15-7559-44ec-daac13da867d> .
+<https://commons.wikimedia.org/entity/statement/M343071-97daf7b9-4f15-7559-44ec-daac13da867d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://wikiba.se/ontology#Statement> .
+<https://commons.wikimedia.org/entity/statement/M343071-97daf7b9-4f15-7559-44ec-daac13da867d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://wikiba.se/ontology#BestRank> .
+<https://commons.wikimedia.org/entity/statement/M343071-97daf7b9-4f15-7559-44ec-daac13da867d> <http://wikiba.se/ontology#rank> <http://wikiba.se/ontology#NormalRank> .
+<https://commons.wikimedia.org/entity/statement/M343071-97daf7b9-4f15-7559-44ec-daac13da867d> <http://www.wikidata.org/prop/statement/P8058> <http://www.wikidata.org/entity/Q183> .
+<https://commons.wikimedia.org/entity/M343071> <http://www.wikidata.org/prop/P7482> <https://commons.wikimedia.org/entity/statement/M343071-926B18BD-66A2-449C-8E49-1634E21C0FEB> .
+<https://commons.wikimedia.org/entity/statement/M343071-926B18BD-66A2-449C-8E49-1634E21C0FEB> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://wikiba.se/ontology#Statement> .
+<https://commons.wikimedia.org/entity/statement/M343071-926B18BD-66A2-449C-8E49-1634E21C0FEB> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://wikiba.se/ontology#BestRank> .
+<https://commons.wikimedia.org/entity/statement/M343071-926B18BD-66A2-449C-8E49-1634E21C0FEB> <http://wikiba.se/ontology#rank> <http://wikiba.se/ontology#NormalRank> .
+<https://commons.wikimedia.org/entity/statement/M343071-926B18BD-66A2-449C-8E49-1634E21C0FEB> <http://www.wikidata.org/prop/statement/P7482> <http://www.wikidata.org/entity/Q66458942> .
+<https://commons.wikimedia.org/entity/M343071> <http://www.wikidata.org/prop/P180> <https://commons.wikimedia.org/entity/statement/M343071-094da699-46fa-bc00-6e6b-7b3dbb7f6f64> .
+<https://commons.wikimedia.org/entity/statement/M343071-094da699-46fa-bc00-6e6b-7b3dbb7f6f64> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://wikiba.se/ontology#Statement> .
+<https://commons.wikimedia.org/entity/statement/M343071-094da699-46fa-bc00-6e6b-7b3dbb7f6f64> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://wikiba.se/ontology#BestRank> .
+<https://commons.wikimedia.org/entity/statement/M343071-094da699-46fa-bc00-6e6b-7b3dbb7f6f64> <http://wikiba.se/ontology#rank> <http://wikiba.se/ontology#PreferredRank> .
+<https://commons.wikimedia.org/entity/statement/M343071-094da699-46fa-bc00-6e6b-7b3dbb7f6f64> <http://www.wikidata.org/prop/statement/P180> <http://www.wikidata.org/entity/Q48160> .
+<https://commons.wikimedia.org/entity/M343071> <http://www.wikidata.org/prop/P1163> <https://commons.wikimedia.org/entity/statement/M343071-161EBD1C-30F8-4312-94B6-EF20BEBD2300> .
+<https://commons.wikimedia.org/entity/statement/M343071-161EBD1C-30F8-4312-94B6-EF20BEBD2300> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://wikiba.se/ontology#Statement> .
+<https://commons.wikimedia.org/entity/statement/M343071-161EBD1C-30F8-4312-94B6-EF20BEBD2300> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://wikiba.se/ontology#BestRank> .
+<https://commons.wikimedia.org/entity/statement/M343071-161EBD1C-30F8-4312-94B6-EF20BEBD2300> <http://wikiba.se/ontology#rank> <http://wikiba.se/ontology#NormalRank> .
+<https://commons.wikimedia.org/entity/statement/M343071-161EBD1C-30F8-4312-94B6-EF20BEBD2300> <http://www.wikidata.org/prop/statement/P1163> "image/svg+xml" .
+<https://commons.wikimedia.org/entity/M343071> <http://schema.org/caption> "Bandeira da Alemanha"@pt .
+<https://commons.wikimedia.org/entity/M343071> <http://www.w3.org/2000/01/rdf-schema#label> "Bandeira da Alemanha"@pt .
+<https://commons.wikimedia.org/entity/M343071> <http://schema.org/caption> "Flaga Niemiec"@pl .
+<https://commons.wikimedia.org/entity/M343071> <http://www.w3.org/2000/01/rdf-schema#label> "Flaga Niemiec"@pl .
+<https://commons.wikimedia.org/entity/M343071> <http://schema.org/caption> "Flag of the Federal Republic of Germany"@en .
+<https://commons.wikimedia.org/entity/M343071> <http://www.w3.org/2000/01/rdf-schema#label> "Flag of the Federal Republic of Germany"@en .
+<https://commons.wikimedia.org/entity/M343071> <http://schema.org/caption> "\u897F\u5FB7\u56FD\u65D7"@zh-hans .
+<https://commons.wikimedia.org/entity/M343071> <http://www.w3.org/2000/01/rdf-schema#label> "\u897F\u5FB7\u56FD\u65D7"@zh-hans .
+<https://commons.wikimedia.org/entity/M343071> <http://schema.org/caption> "\u099C\u09BE\u09B0\u09CD\u09AE\u09BE\u09A8\u09BF\u09B0 \u09AA\u09A4\u09BE\u0995\u09BE"@bn .
+<https://commons.wikimedia.org/entity/M343071> <http://www.w3.org/2000/01/rdf-schema#label> "\u099C\u09BE\u09B0\u09CD\u09AE\u09BE\u09A8\u09BF\u09B0 \u09AA\u09A4\u09BE\u0995\u09BE"@bn .
+<https://commons.wikimedia.org/entity/M343071> <http://schema.org/caption> "\u1002\u103B\u102C\u1019\u1014\u102E\u1014\u102D\u102F\u1004\u103A\u1004\u1036\u1021\u101C\u1036\u1010\u1031\u102C\u103A"@my .
+<https://commons.wikimedia.org/entity/M343071> <http://www.w3.org/2000/01/rdf-schema#label> "\u1002\u103B\u102C\u1019\u1014\u102E\u1014\u102D\u102F\u1004\u103A\u1004\u1036\u1021\u101C\u1036\u1010\u1031\u102C\u103A"@my .
+<https://commons.wikimedia.org/entity/M343071> <http://schema.org/caption> "\u0639\u0644\u0645 \u0623\u0644\u0645\u0627\u0646\u064A\u0627"@ar .
+<https://commons.wikimedia.org/entity/M343071> <http://www.w3.org/2000/01/rdf-schema#label> "\u0639\u0644\u0645 \u0623\u0644\u0645\u0627\u0646\u064A\u0627"@ar .
+<https://commons.wikimedia.org/entity/M343071> <http://schema.org/caption> "Hissflagge der Bundesrepublik Deutschland"@de .
+<https://commons.wikimedia.org/entity/M343071> <http://www.w3.org/2000/01/rdf-schema#label> "Hissflagge der Bundesrepublik Deutschland"@de .
+<https://commons.wikimedia.org/entity/M343071> <http://schema.org/caption> "\u0424\u043B\u0430\u0433 \u0413\u0435\u0440\u043C\u0430\u043D\u0438\u0438"@ru .
+<https://commons.wikimedia.org/entity/M343071> <http://www.w3.org/2000/01/rdf-schema#label> "\u0424\u043B\u0430\u0433 \u0413\u0435\u0440\u043C\u0430\u043D\u0438\u0438"@ru .
+<https://commons.wikimedia.org/entity/M343071> <http://schema.org/caption> "\u5FB7\u56FD\u56FD\u65D7"@zh-hant .
+<https://commons.wikimedia.org/entity/M343071> <http://www.w3.org/2000/01/rdf-schema#label> "\u5FB7\u56FD\u56FD\u65D7"@zh-hant .
+<https://commons.wikimedia.org/entity/M343071> <http://schema.org/caption> "Almanya bayra\u011F\u0131"@tr .
+<https://commons.wikimedia.org/entity/M343071> <http://www.w3.org/2000/01/rdf-schema#label> "Almanya bayra\u011F\u0131"@tr .
+<https://commons.wikimedia.org/entity/M343071> <http://schema.org/caption> "Almanya bayraq"@az .
+<https://commons.wikimedia.org/entity/M343071> <http://www.w3.org/2000/01/rdf-schema#label> "Almanya bayraq"@az .
+<https://commons.wikimedia.org/entity/M343071> <http://schema.org/caption> "\u067E\u0631\u0686\u0645 \u0622\u0644\u0645\u0627\u0646"@fa .
+<https://commons.wikimedia.org/entity/M343071> <http://www.w3.org/2000/01/rdf-schema#label> "\u067E\u0631\u0686\u0645 \u0622\u0644\u0645\u0627\u0646"@fa .
+<https://commons.wikimedia.org/entity/M343071> <http://schema.org/caption> "Tysklands flagga"@sv .
+<https://commons.wikimedia.org/entity/M343071> <http://www.w3.org/2000/01/rdf-schema#label> "Tysklands flagga"@sv .
+<https://commons.wikimedia.org/entity/M343071> <http://schema.org/caption> "Flago de Germanio"@eo .
+<https://commons.wikimedia.org/entity/M343071> <http://www.w3.org/2000/01/rdf-schema#label> "Flago de Germanio"@eo .
+<https://commons.wikimedia.org/entity/M343071> <http://schema.org/caption> "Bandera de la Rep\u00FAblica Federal de Alemania"@es .
+<https://commons.wikimedia.org/entity/M343071> <http://www.w3.org/2000/01/rdf-schema#label> "Bandera de la Rep\u00FAblica Federal de Alemania"@es .
+<https://commons.wikimedia.org/entity/M343071> <http://schema.org/caption> "Bandeira de Alema\u00F1a"@gl .
+<https://commons.wikimedia.org/entity/M343071> <http://www.w3.org/2000/01/rdf-schema#label> "Bandeira de Alema\u00F1a"@gl .
+<https://commons.wikimedia.org/entity/M343071> <http://schema.org/caption> "Bandiera della Repubblica Federale di Germania"@it .
+<https://commons.wikimedia.org/entity/M343071> <http://www.w3.org/2000/01/rdf-schema#label> "Bandiera della Repubblica Federale di Germania"@it .
+<https://commons.wikimedia.org/entity/M343071> <http://schema.org/caption> "Drapeau de la R\u00E9publique f\u00E9d\u00E9rale d'Allemagne"@fr .
+<https://commons.wikimedia.org/entity/M343071> <http://www.w3.org/2000/01/rdf-schema#label> "Drapeau de la R\u00E9publique f\u00E9d\u00E9rale d'Allemagne"@fr .
+<https://commons.wikimedia.org/entity/M343071> <http://schema.org/caption> "Saksan lippu"@fi .
+<https://commons.wikimedia.org/entity/M343071> <http://www.w3.org/2000/01/rdf-schema#label> "Saksan lippu"@fi .
+<https://commons.wikimedia.org/entity/M343071> <http://schema.org/caption> "\u0A1C\u0A30\u0A2E\u0A28\u0A40 \u0A26\u0A3E \u0A1D\u0A70\u0A21\u0A3E"@pa .
+<https://commons.wikimedia.org/entity/M343071> <http://www.w3.org/2000/01/rdf-schema#label> "\u0A1C\u0A30\u0A2E\u0A28\u0A40 \u0A26\u0A3E \u0A1D\u0A70\u0A21\u0A3E"@pa .
+<https://commons.wikimedia.org/entity/M343071> <http://schema.org/caption> "\u05E4\u05D0\u05DF \u05D3\u05D9\u05D9\u05D8\u05E9\u05DC\u05D0\u05E0\u05D3"@yi .
+<https://commons.wikimedia.org/entity/M343071> <http://www.w3.org/2000/01/rdf-schema#label> "\u05E4\u05D0\u05DF \u05D3\u05D9\u05D9\u05D8\u05E9\u05DC\u05D0\u05E0\u05D3"@yi .
+<https://commons.wikimedia.org/entity/M343071> <http://schema.org/caption> "\u10D2\u10D4\u10E0\u10DB\u10D0\u10DC\u10D8\u10D8\u10E1 \u10D3\u10E0\u10DD\u10E8\u10D0"@ka .
+<https://commons.wikimedia.org/entity/M343071> <http://www.w3.org/2000/01/rdf-schema#label> "\u10D2\u10D4\u10E0\u10DB\u10D0\u10DC\u10D8\u10D8\u10E1 \u10D3\u10E0\u10DD\u10E8\u10D0"@ka .
+<https://commons.wikimedia.org/entity/M343071> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MediaObject> .
+<https://commons.wikimedia.org/entity/M343071> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+<https://commons.wikimedia.org/entity/M343071> <http://schema.org/encodingFormat> "image/svg+xml" .
+<https://commons.wikimedia.org/entity/M343071> <http://schema.org/contentUrl> <https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg> .
+<https://commons.wikimedia.org/entity/M343071> <http://schema.org/url> <http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Germany.svg> .
+<https://commons.wikimedia.org/entity/M343071> <http://schema.org/contentSize> "502"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://commons.wikimedia.org/entity/M343071> <http://schema.org/height> "600"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://commons.wikimedia.org/entity/M343071> <http://schema.org/width> "1000"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.wikidata.org/entity/Q183> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://wikiba.se/ontology#Item> .
+<http://www.wikidata.org/entity/Q183> <http://www.w3.org/2000/01/rdf-schema#label> "Germany"@en .
+<http://www.wikidata.org/entity/Q183> <http://www.w3.org/2004/02/skos/core#prefLabel> "Germany"@en .
+<http://www.wikidata.org/entity/Q183> <http://schema.org/name> "Germany"@en .
+<http://www.wikidata.org/entity/Q183> <http://schema.org/description> "country in Central Europe"@en .
+<http://www.wikidata.org/entity/P8058> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://wikiba.se/ontology#Property> .
+<http://www.wikidata.org/entity/P8058> <http://www.w3.org/2000/01/rdf-schema#label> "symbol of"@en .
+<http://www.wikidata.org/entity/P8058> <http://www.w3.org/2004/02/skos/core#prefLabel> "symbol of"@en .
+<http://www.wikidata.org/entity/P8058> <http://schema.org/name> "symbol of"@en .
+<http://www.wikidata.org/entity/P8058> <http://schema.org/description> "item of which the image is a symbol"@en .
+<http://www.wikidata.org/entity/P8058> <http://wikiba.se/ontology#propertyType> <http://wikiba.se/ontology#WikibaseItem> .
+<http://www.wikidata.org/entity/P8058> <http://wikiba.se/ontology#directClaim> <http://www.wikidata.org/prop/direct/P8058> .
+<http://www.wikidata.org/entity/P8058> <http://wikiba.se/ontology#claim> <http://www.wikidata.org/prop/P8058> .
+<http://www.wikidata.org/entity/P8058> <http://wikiba.se/ontology#statementProperty> <http://www.wikidata.org/prop/statement/P8058> .
+<http://www.wikidata.org/entity/P8058> <http://wikiba.se/ontology#statementValue> <http://www.wikidata.org/prop/statement/value/P8058> .
+<http://www.wikidata.org/entity/P8058> <http://wikiba.se/ontology#qualifier> <http://www.wikidata.org/prop/qualifier/P8058> .
+<http://www.wikidata.org/entity/P8058> <http://wikiba.se/ontology#qualifierValue> <http://www.wikidata.org/prop/qualifier/value/P8058> .
+<http://www.wikidata.org/entity/P8058> <http://wikiba.se/ontology#reference> <http://www.wikidata.org/prop/reference/P8058> .
+<http://www.wikidata.org/entity/P8058> <http://wikiba.se/ontology#referenceValue> <http://www.wikidata.org/prop/reference/value/P8058> .
+<http://www.wikidata.org/entity/P8058> <http://wikiba.se/ontology#novalue> <http://www.wikidata.org/prop/novalue/P8058> .
+<http://www.wikidata.org/prop/P8058> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.wikidata.org/prop/statement/value/P8058> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.wikidata.org/prop/qualifier/value/P8058> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.wikidata.org/prop/reference/value/P8058> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.wikidata.org/prop/direct/P8058> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.wikidata.org/prop/statement/P8058> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.wikidata.org/prop/qualifier/P8058> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.wikidata.org/prop/reference/P8058> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.wikidata.org/prop/novalue/P8058> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://www.wikidata.org/prop/novalue/P8058> <http://www.w3.org/2002/07/owl#complementOf> _:796d08ffa521e6ab5b31b99c37c08ebc .
+_:796d08ffa521e6ab5b31b99c37c08ebc <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:796d08ffa521e6ab5b31b99c37c08ebc <http://www.w3.org/2002/07/owl#onProperty> <http://www.wikidata.org/prop/direct/P8058> .
+_:796d08ffa521e6ab5b31b99c37c08ebc <http://www.w3.org/2002/07/owl#someValuesFrom> <http://www.w3.org/2002/07/owl#Thing> .
+<http://www.wikidata.org/entity/Q66458942> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://wikiba.se/ontology#Item> .
+<http://www.wikidata.org/entity/Q66458942> <http://www.w3.org/2000/01/rdf-schema#label> "original creation by uploader"@en .
+<http://www.wikidata.org/entity/Q66458942> <http://www.w3.org/2004/02/skos/core#prefLabel> "original creation by uploader"@en .
+<http://www.wikidata.org/entity/Q66458942> <http://schema.org/name> "original creation by uploader"@en .
+<http://www.wikidata.org/entity/Q66458942> <http://schema.org/description> "value to indicate source of an image on Wikimedia Commons"@en .
+<http://www.wikidata.org/entity/P7482> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://wikiba.se/ontology#Property> .
+<http://www.wikidata.org/entity/P7482> <http://www.w3.org/2000/01/rdf-schema#label> "source of file"@en .
+<http://www.wikidata.org/entity/P7482> <http://www.w3.org/2004/02/skos/core#prefLabel> "source of file"@en .
+<http://www.wikidata.org/entity/P7482> <http://schema.org/name> "source of file"@en .
+<http://www.wikidata.org/entity/P7482> <http://schema.org/description> "broad nature of the origin of the file"@en .
+<http://www.wikidata.org/entity/P7482> <http://wikiba.se/ontology#propertyType> <http://wikiba.se/ontology#WikibaseItem> .
+<http://www.wikidata.org/entity/P7482> <http://wikiba.se/ontology#directClaim> <http://www.wikidata.org/prop/direct/P7482> .
+<http://www.wikidata.org/entity/P7482> <http://wikiba.se/ontology#claim> <http://www.wikidata.org/prop/P7482> .
+<http://www.wikidata.org/entity/P7482> <http://wikiba.se/ontology#statementProperty> <http://www.wikidata.org/prop/statement/P7482> .
+<http://www.wikidata.org/entity/P7482> <http://wikiba.se/ontology#statementValue> <http://www.wikidata.org/prop/statement/value/P7482> .
+<http://www.wikidata.org/entity/P7482> <http://wikiba.se/ontology#qualifier> <http://www.wikidata.org/prop/qualifier/P7482> .
+<http://www.wikidata.org/entity/P7482> <http://wikiba.se/ontology#qualifierValue> <http://www.wikidata.org/prop/qualifier/value/P7482> .
+<http://www.wikidata.org/entity/P7482> <http://wikiba.se/ontology#reference> <http://www.wikidata.org/prop/reference/P7482> .
+<http://www.wikidata.org/entity/P7482> <http://wikiba.se/ontology#referenceValue> <http://www.wikidata.org/prop/reference/value/P7482> .
+<http://www.wikidata.org/entity/P7482> <http://wikiba.se/ontology#novalue> <http://www.wikidata.org/prop/novalue/P7482> .
+<http://www.wikidata.org/prop/P7482> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.wikidata.org/prop/statement/value/P7482> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.wikidata.org/prop/qualifier/value/P7482> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.wikidata.org/prop/reference/value/P7482> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.wikidata.org/prop/direct/P7482> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.wikidata.org/prop/statement/P7482> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.wikidata.org/prop/qualifier/P7482> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.wikidata.org/prop/reference/P7482> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.wikidata.org/prop/novalue/P7482> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://www.wikidata.org/prop/novalue/P7482> <http://www.w3.org/2002/07/owl#complementOf> _:acc493f3ae8de4cf9c16f9963879aa6e .
+_:acc493f3ae8de4cf9c16f9963879aa6e <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:acc493f3ae8de4cf9c16f9963879aa6e <http://www.w3.org/2002/07/owl#onProperty> <http://www.wikidata.org/prop/direct/P7482> .
+_:acc493f3ae8de4cf9c16f9963879aa6e <http://www.w3.org/2002/07/owl#someValuesFrom> <http://www.w3.org/2002/07/owl#Thing> .
+<http://www.wikidata.org/entity/Q48160> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://wikiba.se/ontology#Item> .
+<http://www.wikidata.org/entity/Q48160> <http://www.w3.org/2000/01/rdf-schema#label> "flag of Germany"@en .
+<http://www.wikidata.org/entity/Q48160> <http://www.w3.org/2004/02/skos/core#prefLabel> "flag of Germany"@en .
+<http://www.wikidata.org/entity/Q48160> <http://schema.org/name> "flag of Germany"@en .
+<http://www.wikidata.org/entity/Q48160> <http://schema.org/description> "national flag"@en .
+<http://www.wikidata.org/entity/P180> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://wikiba.se/ontology#Property> .
+<http://www.wikidata.org/entity/P180> <http://www.w3.org/2000/01/rdf-schema#label> "depicts"@en .
+<http://www.wikidata.org/entity/P180> <http://www.w3.org/2004/02/skos/core#prefLabel> "depicts"@en .
+<http://www.wikidata.org/entity/P180> <http://schema.org/name> "depicts"@en .
+<http://www.wikidata.org/entity/P180> <http://schema.org/description> "entity visually depicted in an image, literarily described in a work, or otherwise incorporated into an audiovisual or other medium; see also P921,  'main subject'"@en .
+<http://www.wikidata.org/entity/P180> <http://wikiba.se/ontology#propertyType> <http://wikiba.se/ontology#WikibaseItem> .
+<http://www.wikidata.org/entity/P180> <http://wikiba.se/ontology#directClaim> <http://www.wikidata.org/prop/direct/P180> .
+<http://www.wikidata.org/entity/P180> <http://wikiba.se/ontology#claim> <http://www.wikidata.org/prop/P180> .
+<http://www.wikidata.org/entity/P180> <http://wikiba.se/ontology#statementProperty> <http://www.wikidata.org/prop/statement/P180> .
+<http://www.wikidata.org/entity/P180> <http://wikiba.se/ontology#statementValue> <http://www.wikidata.org/prop/statement/value/P180> .
+<http://www.wikidata.org/entity/P180> <http://wikiba.se/ontology#qualifier> <http://www.wikidata.org/prop/qualifier/P180> .
+<http://www.wikidata.org/entity/P180> <http://wikiba.se/ontology#qualifierValue> <http://www.wikidata.org/prop/qualifier/value/P180> .
+<http://www.wikidata.org/entity/P180> <http://wikiba.se/ontology#reference> <http://www.wikidata.org/prop/reference/P180> .
+<http://www.wikidata.org/entity/P180> <http://wikiba.se/ontology#referenceValue> <http://www.wikidata.org/prop/reference/value/P180> .
+<http://www.wikidata.org/entity/P180> <http://wikiba.se/ontology#novalue> <http://www.wikidata.org/prop/novalue/P180> .
+<http://www.wikidata.org/prop/P180> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.wikidata.org/prop/statement/value/P180> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.wikidata.org/prop/qualifier/value/P180> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.wikidata.org/prop/reference/value/P180> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.wikidata.org/prop/direct/P180> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.wikidata.org/prop/statement/P180> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.wikidata.org/prop/qualifier/P180> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.wikidata.org/prop/reference/P180> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.wikidata.org/prop/novalue/P180> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://www.wikidata.org/prop/novalue/P180> <http://www.w3.org/2002/07/owl#complementOf> _:20c681d1555b7d642c63c655f8ceb64a .
+_:20c681d1555b7d642c63c655f8ceb64a <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:20c681d1555b7d642c63c655f8ceb64a <http://www.w3.org/2002/07/owl#onProperty> <http://www.wikidata.org/prop/direct/P180> .
+_:20c681d1555b7d642c63c655f8ceb64a <http://www.w3.org/2002/07/owl#someValuesFrom> <http://www.w3.org/2002/07/owl#Thing> .
+<http://www.wikidata.org/entity/P1163> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://wikiba.se/ontology#Property> .
+<http://www.wikidata.org/entity/P1163> <http://www.w3.org/2000/01/rdf-schema#label> "MIME type"@en .
+<http://www.wikidata.org/entity/P1163> <http://www.w3.org/2004/02/skos/core#prefLabel> "MIME type"@en .
+<http://www.wikidata.org/entity/P1163> <http://schema.org/name> "MIME type"@en .
+<http://www.wikidata.org/entity/P1163> <http://schema.org/description> "IANA-registered identifier for a file type (MIME)"@en .
+<http://www.wikidata.org/entity/P1163> <http://wikiba.se/ontology#propertyType> <http://wikiba.se/ontology#String> .
+<http://www.wikidata.org/entity/P1163> <http://wikiba.se/ontology#directClaim> <http://www.wikidata.org/prop/direct/P1163> .
+<http://www.wikidata.org/entity/P1163> <http://wikiba.se/ontology#claim> <http://www.wikidata.org/prop/P1163> .
+<http://www.wikidata.org/entity/P1163> <http://wikiba.se/ontology#statementProperty> <http://www.wikidata.org/prop/statement/P1163> .
+<http://www.wikidata.org/entity/P1163> <http://wikiba.se/ontology#statementValue> <http://www.wikidata.org/prop/statement/value/P1163> .
+<http://www.wikidata.org/entity/P1163> <http://wikiba.se/ontology#qualifier> <http://www.wikidata.org/prop/qualifier/P1163> .
+<http://www.wikidata.org/entity/P1163> <http://wikiba.se/ontology#qualifierValue> <http://www.wikidata.org/prop/qualifier/value/P1163> .
+<http://www.wikidata.org/entity/P1163> <http://wikiba.se/ontology#reference> <http://www.wikidata.org/prop/reference/P1163> .
+<http://www.wikidata.org/entity/P1163> <http://wikiba.se/ontology#referenceValue> <http://www.wikidata.org/prop/reference/value/P1163> .
+<http://www.wikidata.org/entity/P1163> <http://wikiba.se/ontology#novalue> <http://www.wikidata.org/prop/novalue/P1163> .
+<http://www.wikidata.org/prop/P1163> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.wikidata.org/prop/statement/value/P1163> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.wikidata.org/prop/qualifier/value/P1163> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.wikidata.org/prop/reference/value/P1163> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.wikidata.org/prop/direct/P1163> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+<http://www.wikidata.org/prop/statement/P1163> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+<http://www.wikidata.org/prop/qualifier/P1163> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+<http://www.wikidata.org/prop/reference/P1163> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+<http://www.wikidata.org/prop/novalue/P1163> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://www.wikidata.org/prop/novalue/P1163> <http://www.w3.org/2002/07/owl#complementOf> _:704e62989d8eb9df732666f92fa84714 .
+_:704e62989d8eb9df732666f92fa84714 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:704e62989d8eb9df732666f92fa84714 <http://www.w3.org/2002/07/owl#onProperty> <http://www.wikidata.org/prop/direct/P1163> .
+_:704e62989d8eb9df732666f92fa84714 <http://www.w3.org/2002/07/owl#someValuesFrom> <http://www.w3.org/2002/07/owl#Thing> .
+<https://commons.wikimedia.org/entity/M15847977> <http://www.w3.org/2002/07/owl#sameAs> <https://commons.wikimedia.org/entity/M343071> .
+<https://commons.wikimedia.org/entity/M21307529> <http://www.w3.org/2002/07/owl#sameAs> <https://commons.wikimedia.org/entity/M343071> .
+<https://commons.wikimedia.org/entity/M45962783> <http://www.w3.org/2002/07/owl#sameAs> <https://commons.wikimedia.org/entity/M343071> .
+<https://commons.wikimedia.org/entity/M74867398> <http://www.w3.org/2002/07/owl#sameAs> <https://commons.wikimedia.org/entity/M343071> .
+<https://commons.wikimedia.org/entity/M88638343> <http://www.w3.org/2002/07/owl#sameAs> <https://commons.wikimedia.org/entity/M343071> .
+<https://commons.wikimedia.org/entity/M88638375> <http://www.w3.org/2002/07/owl#sameAs> <https://commons.wikimedia.org/entity/M343071> .
+<https://commons.wikimedia.org/entity/M89195361> <http://www.w3.org/2002/07/owl#sameAs> <https://commons.wikimedia.org/entity/M343071> .
+<https://commons.wikimedia.org/entity/M89195393> <http://www.w3.org/2002/07/owl#sameAs> <https://commons.wikimedia.org/entity/M343071> .
+<https://commons.wikimedia.org/entity/M119982008> <http://www.w3.org/2002/07/owl#sameAs> <https://commons.wikimedia.org/entity/M343071> .

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Kommentare zu: Salt Water Fuel Cell Kits	</title>
+	<atom:link href="https://gaminggadgets.de/salt-water-fuel-cell-kits/feed" rel="self" type="application/rss+xml" />
+	<link>https://gaminggadgets.de/salt-water-fuel-cell-kits</link>
+	<description>Gaming &#38; Gadgets &#124; Verrücktes, Verspieltes, Spaßiges und Gebasteltes</description>
+	<lastBuildDate>Tue, 01 Jul 2014 17:35:19 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.3</generator>
+	<item>
+		<title>
+		Von: Jule		</title>
+		<link>https://gaminggadgets.de/salt-water-fuel-cell-kits/comment-page-1#comment-12</link>
+
+		<dc:creator><![CDATA[Jule]]></dc:creator>
+		<pubDate>Thu, 29 Mar 2012 10:29:29 +0000</pubDate>
+		<guid isPermaLink="false">http://gaminggadgets.de/?p=429#comment-12</guid>
+
+					<description><![CDATA[Vielleicht wäre das die Lösung für die momentanen Benzinpreise ;)]]></description>
+			<content:encoded><![CDATA[<p>Vielleicht wäre das die Lösung für die momentanen Benzinpreise ;)</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

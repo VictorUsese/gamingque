@@ -1,0 +1,22 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+commons.wikimedia.org	TRUE	/	FALSE	1999999999	WMF-Last-Access	20-Aug-2023
+.wikimedia.org	TRUE	/	FALSE	1999999999	GeoIP	NG:LA:Lagos:6.45:3.39:v4
+commons.m.wikimedia.org	TRUE	/	FALSE	1999999999	WMF-Last-Access	20-Aug-2023
+commons.wikimedia.org	TRUE	/	FALSE	1999999999	ss0-commonswikiSession	t2s41u2fcnna8pr11pol1fvgn49tvu9k
+commons.wikimedia.org	TRUE	/	FALSE	1999999999	commonswikiSession	t2s41u2fcnna8pr11pol1fvgn49tvu9k
+commons.wikimedia.org	TRUE	/	FALSE	1999999999	SameSite	None
+commons.wikimedia.org	TRUE	/	FALSE	1999999999	cpPosIndex	1%401692549719%23baddbf4b40c134fd42cf6f73129e04bc
+.wikipedia.org	TRUE	/	FALSE	1999999999	WMF-Last-Access-Global	20-Aug-2023
+commons.m.wikimedia.org	TRUE	/	FALSE	1999999999	WMF-DP	1b0
+commons.m.wikimedia.org	TRUE	/	FALSE	1999999999	ss0-commonswikiSession	65lukactq7ftggpng1k4tohdgsuqd5k1
+commons.m.wikimedia.org	TRUE	/	FALSE	1999999999	commonswikiSession	65lukactq7ftggpng1k4tohdgsuqd5k1
+commons.m.wikimedia.org	TRUE	/	FALSE	1999999999	SameSite	None
+commons.wikimedia.org	TRUE	/	FALSE	1999999999	WMF-DP	1b0,fb1,957,a1d,753,73f,fa1,56f,655
+commons.wikimedia.org	TRUE	/	FALSE	1999999999	include_pv	0
+commons.m.wikimedia.org	TRUE	/	FALSE	1999999999	NetworkProbeLimit	0.001
+ru.wikipedia.org	TRUE	/	FALSE	1999999999	WMF-Last-Access	20-Aug-2023
+.wikipedia.org	TRUE	/	FALSE	1999999999	GeoIP	NG:LA:Lagos:6.45:3.39:v4
+ru.wikipedia.org	TRUE	/	FALSE	1999999999	NetworkProbeLimit	0.001
+commons.wikimedia.org	TRUE	/	FALSE	1999999999	NetworkProbeLimit	0.001
+

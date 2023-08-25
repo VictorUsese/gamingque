@@ -1,0 +1,635 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Raspberry Pi Archive - GamingGadgets.de</title>
+	<atom:link href="https://gaminggadgets.de/tag/raspberry-pi/feed" rel="self" type="application/rss+xml" />
+	<link>https://gaminggadgets.de/tag/raspberry-pi</link>
+	<description>Gaming &#38; Gadgets &#124; Verrücktes, Verspieltes, Spaßiges und Gebasteltes</description>
+	<lastBuildDate>Sun, 04 Apr 2021 10:01:59 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.3</generator>
+
+<image>
+	<url>https://gaminggadgets.de/wp-content/uploads/2022/11/cropped-favicon-gg-logo-new-100x100-1-32x32.jpg</url>
+	<title>Raspberry Pi Archive - GamingGadgets.de</title>
+	<link>https://gaminggadgets.de/tag/raspberry-pi</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Lunchbox Arcade</title>
+		<link>https://gaminggadgets.de/lunchbox-arcade-spielkonsole-in-einer-brotdose</link>
+		
+		<dc:creator><![CDATA[Sven]]></dc:creator>
+		<pubDate>Mon, 30 Nov 2020 11:25:27 +0000</pubDate>
+				<category><![CDATA[Spielgeräte]]></category>
+		<category><![CDATA[Bastelei]]></category>
+		<category><![CDATA[DIY]]></category>
+		<category><![CDATA[Handheld]]></category>
+		<category><![CDATA[Lunchbox Arcade]]></category>
+		<category><![CDATA[Raspberry Pi]]></category>
+		<category><![CDATA[Raspberry Pi 4]]></category>
+		<category><![CDATA[Spielkonsole]]></category>
+		<guid isPermaLink="false">http://gaminggadgets.de/?p=42103</guid>
+
+					<description><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://gaminggadgets.de/wp-content/uploads/2020/11/lunchbox-arcade.jpg" width="1050" height="750" title="Das ist Lunchbox Arcade. (Foto: Screenshot)" alt="Das ist Lunchbox Arcade. (Foto: Screenshot)" /></div>
+<div>
+<div style="margin-bottom:20px;"><img width="1050" height="750" src="https://gaminggadgets.de/wp-content/uploads/2020/11/lunchbox-arcade.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Das ist Lunchbox Arcade. (Foto: Screenshot)" decoding="async" srcset="https://gaminggadgets.de/wp-content/uploads/2020/11/lunchbox-arcade.jpg 1050w, https://gaminggadgets.de/wp-content/uploads/2020/11/lunchbox-arcade-300x214.jpg 300w, https://gaminggadgets.de/wp-content/uploads/2020/11/lunchbox-arcade-1024x731.jpg 1024w, https://gaminggadgets.de/wp-content/uploads/2020/11/lunchbox-arcade-768x549.jpg 768w" sizes="(max-width: 1050px) 100vw, 1050px" /></div>
+<p>Tolle Retro-Optik, mobil und leistungsstark: Diese Brotdose lässt euch unterwegs allerlei Spieleklassiker zocken. Der Tüftler Rich Jones ließ sich offenbar von dem Bastel-Kollegen Daniel Davis mit seiner Mini Lunchbox Arcade inspirieren. Doch seine tragbare Arcade-Konsole in einer Brotdose ist doch eine Ecke stylischer und vor allem technisch besser geworden. Das bietet Lunchbox Arcade Rich Jones, [&#8230;]</p></div>
+<p>Der Beitrag <a rel="nofollow" href="https://gaminggadgets.de/lunchbox-arcade-spielkonsole-in-einer-brotdose">Lunchbox Arcade</a> erschien zuerst auf <a rel="nofollow" href="https://gaminggadgets.de">GamingGadgets.de</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://gaminggadgets.de/wp-content/uploads/2020/11/lunchbox-arcade.jpg" width="1050" height="750" title="Das ist Lunchbox Arcade. (Foto: Screenshot)" alt="Das ist Lunchbox Arcade. (Foto: Screenshot)" /></div><div><div style="margin-bottom:20px;"><img width="1050" height="750" src="https://gaminggadgets.de/wp-content/uploads/2020/11/lunchbox-arcade.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Das ist Lunchbox Arcade. (Foto: Screenshot)" decoding="async" loading="lazy" srcset="https://gaminggadgets.de/wp-content/uploads/2020/11/lunchbox-arcade.jpg 1050w, https://gaminggadgets.de/wp-content/uploads/2020/11/lunchbox-arcade-300x214.jpg 300w, https://gaminggadgets.de/wp-content/uploads/2020/11/lunchbox-arcade-1024x731.jpg 1024w, https://gaminggadgets.de/wp-content/uploads/2020/11/lunchbox-arcade-768x549.jpg 768w" sizes="(max-width: 1050px) 100vw, 1050px" /></div><p>Tolle Retro-Optik, mobil und leistungsstark: Diese Brotdose lässt euch unterwegs allerlei Spieleklassiker zocken.</p>
+<p>Der Tüftler Rich Jones ließ sich offenbar von dem Bastel-Kollegen Daniel Davis mit seiner <a href="http://gaminggadgets.de/mini-lunchbox-arcade-mit-dieser-brotdose-koennt-ihr-zocken">Mini Lunchbox Arcade</a> inspirieren. Doch seine tragbare Arcade-Konsole in einer Brotdose ist doch eine Ecke stylischer und vor allem technisch besser geworden.</p>
+<h2>Das bietet Lunchbox Arcade</h2>
+<p>Rich Jones, der sich selbst <a href="https://www.youtube.com/channel/UCg1DBS_m31liyo4ZEVxuh_w" target="_blank" rel="noopener noreferrer">Arcade Dad</a> nennt, tüftelt schon seit einigen Monaten an der Lunchbox Arcade, die bereits in nostalgischen Dosen mit „Pac-Man“- oder „Gauntlet“-Optik steckte. Zweitgenannte Variante stammt aus den 1980er Jahren und kostet ihn über 60 Euro.</p>
+<p><iframe title="Lunchbox Arcade" width="1170" height="658" src="https://www.youtube.com/embed/vF9-hDQ2iT4?wmode=transparent&amp;rel=0&amp;feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p>Interessant ist aber auch das Innenleben: Verwendung findet ein Raspberry Pi 4, der am besten mit einer externen Stromversorgung betrieben wird. Lautsprecher, Arcade-Stick, Buttons – alles ist dabei. Gerade die Speaker sollen wohl aufgrund des Gehäuses besonders gut klingen. Und der Stick lässt sich für den Transport abschrauben. Schick, schick!</p>
+<h2>Nicht zum Verkauf</h2>
+<p>Ich finde: Das ist eine schöne „Handheld“-Konsole, die dank Raspberry Pi 4 wohl für sehr viele Emulatoren hervorragend geeignet ist. Aber: Ein kommerzielles Produkt ist Lunchbox Arcade nicht.</p>
+<p><iframe title="Lunchbox Arcades" width="1170" height="658" src="https://www.youtube.com/embed/cZosSnL2BTI?wmode=transparent&amp;rel=0&amp;feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p>Doch der Schöpfer beantwortet sicher gerne Fragen, solltet ihr selbst so ein Gerät bauen wollen…</p>
+</div><p>Der Beitrag <a rel="nofollow" href="https://gaminggadgets.de/lunchbox-arcade-spielkonsole-in-einer-brotdose">Lunchbox Arcade</a> erschien zuerst auf <a rel="nofollow" href="https://gaminggadgets.de">GamingGadgets.de</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<enclosure url="https://gaminggadgets.de/wp-content/uploads/2020/11/lunchbox-arcade.jpg" length="72491" type="image/jpg" />
+<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://gaminggadgets.de/wp-content/uploads/2020/11/lunchbox-arcade.jpg" width="1050" height="750" medium="image" type="image/jpeg">
+	<media:copyright>GamingGadgets.de</media:copyright>
+	<media:title>Das ist Lunchbox Arcade. (Foto: Screenshot)</media:title>
+	<media:description type="html"><![CDATA[Das ist Lunchbox Arcade. (Foto: Screenshot)]]></media:description>
+</media:content>
+<media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://gaminggadgets.de/wp-content/uploads/2020/11/lunchbox-arcade.jpg" width="1050" height="750" />
+	</item>
+		<item>
+		<title>Dark Souls 3</title>
+		<link>https://gaminggadgets.de/dark-souls-3-diese-kanone-bespritzt-euch-beim-spielen-mit-blut</link>
+		
+		<dc:creator><![CDATA[Sven]]></dc:creator>
+		<pubDate>Sat, 31 Oct 2020 11:55:14 +0000</pubDate>
+				<category><![CDATA[Undsonstso]]></category>
+		<category><![CDATA[Bastelei]]></category>
+		<category><![CDATA[Blut]]></category>
+		<category><![CDATA[Dark Souls 3]]></category>
+		<category><![CDATA[DIY]]></category>
+		<category><![CDATA[Raspberry Pi]]></category>
+		<guid isPermaLink="false">http://gaminggadgets.de/?p=42057</guid>
+
+					<description><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://gaminggadgets.de/wp-content/uploads/2020/10/dark-souls-3-scaled.jpg" width="2560" height="1366" title="Ob das Spaß macht? (Foto: Screenshot)" alt="Ob das Spaß macht? (Foto: Screenshot)" /></div>
+<div>
+<div style="margin-bottom:20px;"><img width="2560" height="1366" src="https://gaminggadgets.de/wp-content/uploads/2020/10/dark-souls-3-scaled.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Ob das Spaß macht? (Foto: Screenshot)" decoding="async" loading="lazy" srcset="https://gaminggadgets.de/wp-content/uploads/2020/10/dark-souls-3-scaled.jpg 2560w, https://gaminggadgets.de/wp-content/uploads/2020/10/dark-souls-3-300x160.jpg 300w, https://gaminggadgets.de/wp-content/uploads/2020/10/dark-souls-3-1024x546.jpg 1024w, https://gaminggadgets.de/wp-content/uploads/2020/10/dark-souls-3-768x410.jpg 768w, https://gaminggadgets.de/wp-content/uploads/2020/10/dark-souls-3-1536x819.jpg 1536w, https://gaminggadgets.de/wp-content/uploads/2020/10/dark-souls-3-2048x1093.jpg 2048w" sizes="(max-width: 2560px) 100vw, 2560px" /></div>
+<p>„Dark Souls 3“ ist euch nicht hart genug? Diese Maschine spritzt euch Blut ins Gesicht, wenn ihr im Spiel versagt. Der YouTuber Big Secret bastelte in der Vergangenheit schon ein paar seltsame Konstruktionen. Seine aktuelle Maschine widmet sich „Dark Souls 3“. Oder anders gesagt: Wenn Spieler bei diesem ohnehin schon schweren Brocken scheitern, wird ihnen [&#8230;]</p></div>
+<p>Der Beitrag <a rel="nofollow" href="https://gaminggadgets.de/dark-souls-3-diese-kanone-bespritzt-euch-beim-spielen-mit-blut">Dark Souls 3</a> erschien zuerst auf <a rel="nofollow" href="https://gaminggadgets.de">GamingGadgets.de</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://gaminggadgets.de/wp-content/uploads/2020/10/dark-souls-3-scaled.jpg" width="2560" height="1366" title="Ob das Spaß macht? (Foto: Screenshot)" alt="Ob das Spaß macht? (Foto: Screenshot)" /></div><div><div style="margin-bottom:20px;"><img width="2560" height="1366" src="https://gaminggadgets.de/wp-content/uploads/2020/10/dark-souls-3-scaled.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Ob das Spaß macht? (Foto: Screenshot)" decoding="async" loading="lazy" srcset="https://gaminggadgets.de/wp-content/uploads/2020/10/dark-souls-3-scaled.jpg 2560w, https://gaminggadgets.de/wp-content/uploads/2020/10/dark-souls-3-300x160.jpg 300w, https://gaminggadgets.de/wp-content/uploads/2020/10/dark-souls-3-1024x546.jpg 1024w, https://gaminggadgets.de/wp-content/uploads/2020/10/dark-souls-3-768x410.jpg 768w, https://gaminggadgets.de/wp-content/uploads/2020/10/dark-souls-3-1536x819.jpg 1536w, https://gaminggadgets.de/wp-content/uploads/2020/10/dark-souls-3-2048x1093.jpg 2048w" sizes="(max-width: 2560px) 100vw, 2560px" /></div><p>„Dark Souls 3“ ist euch nicht hart genug? Diese Maschine spritzt euch Blut ins Gesicht, wenn ihr im Spiel versagt.</p>
+<p>Der YouTuber Big Secret bastelte in der Vergangenheit schon ein paar seltsame Konstruktionen. Seine aktuelle Maschine widmet sich „Dark Souls 3“. Oder anders gesagt: Wenn Spieler bei diesem ohnehin schon schweren Brocken scheitern, wird ihnen Blut ins Gesicht geschossen. Ob das noch Spaß macht?</p>
+<h2>Dark Souls 3 trifft auf Raspberry Pi</h2>
+<p>Alex, der bei YouTube und auf Streamingplattformen besser als Big Secret bekannt ist, erschuf eine ganz besondere Kanone. Ein Kompressor schießt über einen Schlauch mittels Luftdruck Blutspritzer direkt ins Gesicht der Spieler. Natürlich kommt nur Lebensmittelfarbe zum Einsatz – echter Lebenssaft wäre doch etwas zu viel des Guten.</p>
+<p><iframe title="Sprayed with Blood Every Time I Get Hit in Dark Souls" width="1170" height="658" src="https://www.youtube.com/embed/JE99BZkRnYk?wmode=transparent&amp;rel=0&amp;feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p>Sein Gerät nutzt einen <a href="http://gaminggadgets.de/tag/raspberry-pi">Raspberry Pi</a>, der nötige Berechnungen durchführt und Aktionen erlaubt. Denn die Blut-Kanone reagiert auf Situationen im Spiel: Sterbt ihr, gibt’s einen kleinen Spritzer Blut im „Easy Mode“. Das dürfte gerade bei „Dark Souls 3“ ohnehin recht häufig sein.</p>
+<h2>Noch mehr Blut in Dark Souls 3</h2>
+<p>Sollte das nicht genügen, kann die Kanone im „Hard Mode“ auch dann Blut um sich feuern, wenn die Spielfigur von einem Gegner getroffen wird. Puh, wie lecker!</p>
+<p>Bei <a href="https://www.youtube.com/watch?v=JE99BZkRnYk" target="_blank" rel="noopener noreferrer">YouTube</a> fand sogar Namco Bandai, Hersteller von „Dark Souls 3“ die Idee herrlich. Aber ich denke, solch ein „Gaming Gadget“ wird wohl auch in Zukunft nicht in den Handel kommen. Wenn ihr so etwas braucht, müsst ihr euch die Kanone selbst bauen…</p>
+</div><p>Der Beitrag <a rel="nofollow" href="https://gaminggadgets.de/dark-souls-3-diese-kanone-bespritzt-euch-beim-spielen-mit-blut">Dark Souls 3</a> erschien zuerst auf <a rel="nofollow" href="https://gaminggadgets.de">GamingGadgets.de</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<enclosure url="https://gaminggadgets.de/wp-content/uploads/2020/10/dark-souls-3-scaled.jpg" length="181527" type="image/jpg" />
+<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://gaminggadgets.de/wp-content/uploads/2020/10/dark-souls-3-scaled.jpg" width="2560" height="1366" medium="image" type="image/jpeg">
+	<media:copyright>GamingGadgets.de</media:copyright>
+	<media:title>Ob das Spaß macht? (Foto: Screenshot)</media:title>
+	<media:description type="html"><![CDATA[Ob das Spaß macht? (Foto: Screenshot)]]></media:description>
+</media:content>
+<media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://gaminggadgets.de/wp-content/uploads/2020/10/dark-souls-3-scaled.jpg" width="2560" height="1366" />
+	</item>
+		<item>
+		<title>Sinden Light Gun</title>
+		<link>https://gaminggadgets.de/sinden-light-gun-endlich-wieder-lightgun-action-auf-modernen-tvs</link>
+		
+		<dc:creator><![CDATA[Sven]]></dc:creator>
+		<pubDate>Mon, 01 Jun 2020 10:35:19 +0000</pubDate>
+				<category><![CDATA[Zubehör]]></category>
+		<category><![CDATA[Light Gun]]></category>
+		<category><![CDATA[PlayStation]]></category>
+		<category><![CDATA[PlayStation 2]]></category>
+		<category><![CDATA[Railshooter]]></category>
+		<category><![CDATA[Raspberry Pi]]></category>
+		<category><![CDATA[Sinden Light Gun]]></category>
+		<guid isPermaLink="false">http://gaminggadgets.de/?p=41548</guid>
+
+					<description><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://gaminggadgets.de/wp-content/uploads/2020/05/sinden-light-gun-2.jpg" width="1600" height="797" title="Endlich wieder Railshooter! (Foto: Sinden Technology)" alt="Endlich wieder Railshooter! (Foto: Sinden Technology)" /></div>
+<div>
+<div style="margin-bottom:20px;"><img width="1600" height="797" src="https://gaminggadgets.de/wp-content/uploads/2020/05/sinden-light-gun-2.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Endlich wieder Railshooter! (Foto: Sinden Technology)" decoding="async" loading="lazy" srcset="https://gaminggadgets.de/wp-content/uploads/2020/05/sinden-light-gun-2.jpg 1600w, https://gaminggadgets.de/wp-content/uploads/2020/05/sinden-light-gun-2-300x149.jpg 300w, https://gaminggadgets.de/wp-content/uploads/2020/05/sinden-light-gun-2-1024x510.jpg 1024w, https://gaminggadgets.de/wp-content/uploads/2020/05/sinden-light-gun-2-768x383.jpg 768w, https://gaminggadgets.de/wp-content/uploads/2020/05/sinden-light-gun-2-1536x765.jpg 1536w" sizes="(max-width: 1600px) 100vw, 1600px" /></div>
+<p>Klassische Railshooter funktionieren leider nicht auf modernen Fernsehern. Doch die Sinden Light Gun macht es endlich wieder möglich! Erinnert ihr euch noch an diverse Klassiker aus dem Railshooter-Segment? „House of the Dead“, „Virtua Cop“, „Time Crisis“ oder gar “Duck Hunt” sorgten damals für besonders viel Spaß. Aber nur, wenn ihr auch eine passende Lightgun, also [&#8230;]</p></div>
+<p>Der Beitrag <a rel="nofollow" href="https://gaminggadgets.de/sinden-light-gun-endlich-wieder-lightgun-action-auf-modernen-tvs">Sinden Light Gun</a> erschien zuerst auf <a rel="nofollow" href="https://gaminggadgets.de">GamingGadgets.de</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://gaminggadgets.de/wp-content/uploads/2020/05/sinden-light-gun-2.jpg" width="1600" height="797" title="Endlich wieder Railshooter! (Foto: Sinden Technology)" alt="Endlich wieder Railshooter! (Foto: Sinden Technology)" /></div><div><div style="margin-bottom:20px;"><img width="1600" height="797" src="https://gaminggadgets.de/wp-content/uploads/2020/05/sinden-light-gun-2.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Endlich wieder Railshooter! (Foto: Sinden Technology)" decoding="async" loading="lazy" srcset="https://gaminggadgets.de/wp-content/uploads/2020/05/sinden-light-gun-2.jpg 1600w, https://gaminggadgets.de/wp-content/uploads/2020/05/sinden-light-gun-2-300x149.jpg 300w, https://gaminggadgets.de/wp-content/uploads/2020/05/sinden-light-gun-2-1024x510.jpg 1024w, https://gaminggadgets.de/wp-content/uploads/2020/05/sinden-light-gun-2-768x383.jpg 768w, https://gaminggadgets.de/wp-content/uploads/2020/05/sinden-light-gun-2-1536x765.jpg 1536w" sizes="(max-width: 1600px) 100vw, 1600px" /></div>
+<p>Klassische Railshooter funktionieren leider nicht auf modernen Fernsehern. Doch die Sinden Light Gun macht es endlich wieder möglich!</p>
+
+
+
+<p>Erinnert ihr euch noch an diverse Klassiker aus dem Railshooter-Segment? „House of the Dead“, „Virtua Cop“, „Time Crisis“ oder gar “Duck Hunt” sorgten damals für besonders viel Spaß. Aber nur, wenn ihr auch eine passende Lightgun, also eine Plastikpistole als Eingabegerät, nutzen konntet. Diese Wummen können auf heutigen TV-Geräten nicht mehr verwendet werden, da der Lichtstrahl der Gun nicht mehr wie damals reflektiert wird – das klappte nur auf früher üblichen „Röhrenfernsehern“. Was nun? Hier kommt die Sinden Light Gun ins Spiel.</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><a href="http://gaminggadgets.de/wp-content/uploads/2020/05/sinden-light-gun-scaled.jpg" data-rel="lightbox-image-0" data-rl_title="So sieht das aktuelle Modell aus. (Foto: Sinden Technology)" data-rl_caption="" title="So sieht das aktuelle Modell aus. (Foto: Sinden Technology)"><img decoding="async" width="2560" height="1440" src="http://gaminggadgets.de/wp-content/uploads/2020/05/sinden-light-gun-scaled.jpg" alt="So sieht das aktuelle Modell aus. (Foto: Sinden Technology)" class="wp-image-41549" srcset="https://gaminggadgets.de/wp-content/uploads/2020/05/sinden-light-gun-scaled.jpg 2560w, https://gaminggadgets.de/wp-content/uploads/2020/05/sinden-light-gun-300x169.jpg 300w, https://gaminggadgets.de/wp-content/uploads/2020/05/sinden-light-gun-1024x576.jpg 1024w, https://gaminggadgets.de/wp-content/uploads/2020/05/sinden-light-gun-768x432.jpg 768w, https://gaminggadgets.de/wp-content/uploads/2020/05/sinden-light-gun-1536x864.jpg 1536w, https://gaminggadgets.de/wp-content/uploads/2020/05/sinden-light-gun-2048x1152.jpg 2048w" sizes="(max-width: 2560px) 100vw, 2560px" /></a><figcaption>So sieht das aktuelle Modell aus. (Foto: Sinden Technology)</figcaption></figure></div>
+
+
+
+<h2>Das bietet die Sinden Light Gun</h2>
+
+
+
+<p>Gegenüber zeitgemäßen Konzepten wie vor einigen Jahren noch beim Move-Controller der PS3 (und PS4) sowie der Wii-Remote (Wii, Wii U) ist die Sinden Light Gun explizit für Retro-Spiele ausgelegt. Moderne Technik kommt dennoch zum Einsatz: Eine HD-Kamera mitsamt Tracking-Technologie erkennt selbständig in einem dreidimensionalen Raum die Entfernung zu eurem TV. Mit diesen Daten ist eine präzise Berechnung des Laserpointers und damit eine Verwendung als Game-Controller möglich. Die berechneten X- und Y- Koordinaten gelangen via USB als analoge Maus-Informationen zu einem verbundenen Endgerät. Also einer Konsole oder einem Rechner.</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="Sinden Lightgun - How to use on LCD TV - House Of The Dead 2 PC" width="1170" height="658" src="https://www.youtube.com/embed/asmZZhDpZAs?wmode=transparent&amp;rel=0&amp;feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<p>Und hier kommen wir zu einer leider noch großen Einschränkung: Die Sinden Light Gun ist nur mit Playstation 1 und PlayStation 2 kompatibel, ebenso könnt ihr emulierte Spiele auf dem Raspberry Pi oder einem PC (Windows, Linux) verwenden. Sega Saturn oder PS3 beispielsweise werden (noch) nicht unterstützt. </p>
+
+
+
+<p>Der eine oder andere greift hier womöglich doch einfach auf die Gaming Guns fürs Smartphone zurück, wie zum Beispiel <strong><a href="https://track.adtraction.com/t/t?a=1332191426&amp;as=1583836229&amp;t=2&amp;tk=1&amp;url=https://www.meintrendyhandy.de/shop/ar-gun-shaped-bluetooth-halterung-smartphone-265093p.html" target="_blank" rel="noreferrer noopener nofollow">dieses Modell bei meintrendyhandy.de</a></strong>.</p>
+
+
+
+<div class="is-layout-flex wp-container-6 wp-block-columns">
+<div class="is-layout-flow wp-block-column" style="flex-basis:15%"></div>
+
+
+
+<div class="is-layout-flow wp-block-column" style="flex-basis:70%">
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><a href="https://track.adtraction.com/t/t?a=1332191426&amp;as=1583836229&amp;t=2&amp;tk=1&amp;url=https://www.meintrendyhandy.de/shop/ar-gun-shaped-bluetooth-halterung-smartphone-265093p.html" target="_blank" rel="nofollow noopener"><img decoding="async" src="https://gaminggadgets.de/wp-content/uploads/2020/06/AR-Gun-Shaped-halterung.jpg" alt="AR Gun Shaped halterung" class="wp-image-42503" width="375" height="375" srcset="https://gaminggadgets.de/wp-content/uploads/2020/06/AR-Gun-Shaped-halterung.jpg 500w, https://gaminggadgets.de/wp-content/uploads/2020/06/AR-Gun-Shaped-halterung-300x300.jpg 300w, https://gaminggadgets.de/wp-content/uploads/2020/06/AR-Gun-Shaped-halterung-120x120.jpg 120w" sizes="(max-width: 375px) 100vw, 375px" /></a></figure></div>
+</div>
+
+
+
+<div class="is-layout-flow wp-block-column" style="flex-basis:15%"></div>
+</div>
+
+
+
+<p>Zudem ist bei der Singen Light Gun die Latenz mit 40ms etwas höher als die einer ursprünglichen Lightgun an einem CRT-Bildschirm. Doch diese sei zum vernünftigen Spielen bereits niedrig genug, ebenso wird hier noch weiter Feintuning betrieben.</p>
+
+
+
+<h2>Riesiger Erfolg via Crowdfunding</h2>
+
+
+
+<p>Dass die Sinden Light Gun eine offenbar dringend benötigte Peripherie ist, zeigen die Erfolge bei <a href="https://www.kickstarter.com/projects/sindenlightgun/the-sinden-lightgun/" target="_blank" rel="noopener noreferrer">Kickstarter</a>. Dort sammelte das zuständige Unternehmen Sinden Technology bereits rund 270.000 Euro ein. Noch einmal über 220.000 Euro kamen bei <a href="https://www.indiegogo.com/projects/the-sinden-lightgun#/">Indiegogo</a> im Rahmen der Nachschub-Finanzierung zusammen. Auf zweitgenannter Crowdfunding-Plattform könnt ihr euch eine solche Lightgun noch sichern – bei knapp 100 Euro geht’s los.</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="Sinden Lightgun - Kickstarter Launch Video - LCD TV Compatible Lightgun" width="1170" height="658" src="https://www.youtube.com/embed/SYQYHELb5pU?wmode=transparent&amp;rel=0&amp;feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<p>Geplant ist übrigens auch eine Art Pumpgun, die zumindest in der aktuellen (Prototypen-)Version auch schon sehr vielversprechend aussieht. Ab September 2020 könnte mit der Auslieferung begonnen werden. Zuletzt gab’s ein paar Schwierigkeiten bei der Lieferung nötiger Komponenten aufgrund der Corona-Krise.</p>
+
+
+
+
+<div class="aawp">
+
+            
+            
+<div class="aawp-product aawp-product--horizontal aawp-product--ribbon aawp-product--sale aawp-product--style-dark"  data-aawp-product-id="B07R2KPLJV" data-aawp-product-title="FASTSNAIL Shooting Gun Kompatibel mit Splatoon 2/Splatoon 3 Gun Grip Kompatibel mit Nintendo Switch Controller Pistole Kompatibel mit JoyCon">
+
+    <span class="aawp-product__ribbon aawp-product__ribbon--sale">Angebot</span>
+    <div class="aawp-product__thumb">
+        <a class="aawp-product__image-link"
+           href="https://www.amazon.de/dp/B07R2KPLJV?tag=gaminggadgets04-21&linkCode=ogi&th=1&psc=1" title="FASTSNAIL Shooting Gun Kompatibel mit Splatoon 2/Splatoon 3, Gun Grip..." rel="nofollow noopener sponsored" target="_blank">
+            <img class="aawp-product__image" src="https://m.media-amazon.com/images/I/31ODi+qB-0S._SL160_.jpg" alt="FASTSNAIL Shooting Gun Kompatibel mit Splatoon 2/Splatoon 3, Gun Grip..."  />
+        </a>
+
+            </div>
+
+    <div class="aawp-product__content">
+        <a class="aawp-product__title" href="https://www.amazon.de/dp/B07R2KPLJV?tag=gaminggadgets04-21&linkCode=ogi&th=1&psc=1" title="FASTSNAIL Shooting Gun Kompatibel mit Splatoon 2/Splatoon 3, Gun Grip..." rel="nofollow noopener sponsored" target="_blank">
+            FASTSNAIL Shooting Gun Kompatibel mit Splatoon 2/Splatoon 3, Gun Grip...        </a>
+        <div class="aawp-product__description">
+            <ul><li><img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f449.png" alt="👉" class="wp-smiley" style="height: 1em; max-height: 1em;" />Kompatibilität - Shooting Gun, kompatibel mit Nintendo Switch.</li><li><img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f449.png" alt="👉" class="wp-smiley" style="height: 1em; max-height: 1em;" />Verbesserte Erfahrung - Ein realistischer game gun controller, speziell für Shooter entwickelt, verbessert Ihr spielerlebnis und macht die Spiele interaktiver.</li></ul>        </div>
+    </div>
+
+    <div class="aawp-product__footer">
+
+        <div class="aawp-product__pricing">
+                                                        
+                            <span class="aawp-product__price aawp-product__price--current">21,99 EUR</span>
+            
+            <a class="aawp-check-prime" href="https://www.amazon.de/gp/prime/?tag=gaminggadgets04-21" title="Amazon Prime" rel="nofollow noopener sponsored" target="_blank"></a>        </div>
+
+                <a class="aawp-button aawp-button--buy aawp-button aawp-button--orange aawp-button--icon aawp-button--icon-white" href="https://www.amazon.de/dp/B07R2KPLJV?tag=gaminggadgets04-21&#038;linkCode=ogi&#038;th=1&#038;psc=1" title="Preis prüfen" target="_blank" rel="nofollow noopener sponsored">Preis prüfen</a>
+            </div>
+
+</div>
+
+    
+</div>
+
+</div><p>Der Beitrag <a rel="nofollow" href="https://gaminggadgets.de/sinden-light-gun-endlich-wieder-lightgun-action-auf-modernen-tvs">Sinden Light Gun</a> erschien zuerst auf <a rel="nofollow" href="https://gaminggadgets.de">GamingGadgets.de</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<enclosure url="https://gaminggadgets.de/wp-content/uploads/2020/05/sinden-light-gun-2.jpg" length="26868" type="image/jpg" />
+<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://gaminggadgets.de/wp-content/uploads/2020/05/sinden-light-gun-2.jpg" width="1600" height="797" medium="image" type="image/jpeg">
+	<media:copyright>GamingGadgets.de</media:copyright>
+	<media:title>Endlich wieder Railshooter! (Foto: Sinden Technology)</media:title>
+	<media:description type="html"><![CDATA[Endlich wieder Railshooter! (Foto: Sinden Technology)]]></media:description>
+</media:content>
+<media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://gaminggadgets.de/wp-content/uploads/2020/05/sinden-light-gun-2.jpg" width="1600" height="797" />
+	</item>
+		<item>
+		<title>DIY Busy Light</title>
+		<link>https://gaminggadgets.de/diy-busy-light-mit-dieser-lampe-stoert-euch-niemand-im-home-office</link>
+		
+		<dc:creator><![CDATA[Sven]]></dc:creator>
+		<pubDate>Sat, 02 May 2020 10:55:19 +0000</pubDate>
+				<category><![CDATA[Lifestyle]]></category>
+		<category><![CDATA[Bastelei]]></category>
+		<category><![CDATA[Corona-Krise]]></category>
+		<category><![CDATA[DIY]]></category>
+		<category><![CDATA[DIY Busy Light]]></category>
+		<category><![CDATA[Home Office]]></category>
+		<category><![CDATA[Raspberry Pi]]></category>
+		<guid isPermaLink="false">http://gaminggadgets.de/?p=41471</guid>
+
+					<description><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://gaminggadgets.de/wp-content/uploads/2020/04/diy-busy-light-home-office.jpg" width="1050" height="750" title="Jetzt ist der Eintritt erlaubt. (Foto: Elio Struyf)" alt="Jetzt ist der Eintritt erlaubt. (Foto: Elio Struyf)" /></div>
+<div>
+<div style="margin-bottom:20px;"><img width="1050" height="750" src="https://gaminggadgets.de/wp-content/uploads/2020/04/diy-busy-light-home-office.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Jetzt ist der Eintritt erlaubt. (Foto: Elio Struyf)" decoding="async" loading="lazy" srcset="https://gaminggadgets.de/wp-content/uploads/2020/04/diy-busy-light-home-office.jpg 1050w, https://gaminggadgets.de/wp-content/uploads/2020/04/diy-busy-light-home-office-300x214.jpg 300w, https://gaminggadgets.de/wp-content/uploads/2020/04/diy-busy-light-home-office-1024x731.jpg 1024w, https://gaminggadgets.de/wp-content/uploads/2020/04/diy-busy-light-home-office-768x549.jpg 768w" sizes="(max-width: 1050px) 100vw, 1050px" /></div>
+<p>Ihr seid notgedrungen im Home Office? Mit dieser DIY-Lampe zeigt ihr dem Rest eurer Familie, wann sie euch nicht stören darf. Eine geniale Idee: Eine Lampe an der Wohnzimmertür zeigt den anderen Familienmitgliedern, wann man wieder eintreten darf. Der belgische Tüftler Elio Struyf baute sich genau eine solche Leuchte, die sicherlich für viele Menschen, die [&#8230;]</p></div>
+<p>Der Beitrag <a rel="nofollow" href="https://gaminggadgets.de/diy-busy-light-mit-dieser-lampe-stoert-euch-niemand-im-home-office">DIY Busy Light</a> erschien zuerst auf <a rel="nofollow" href="https://gaminggadgets.de">GamingGadgets.de</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://gaminggadgets.de/wp-content/uploads/2020/04/diy-busy-light-home-office.jpg" width="1050" height="750" title="Jetzt ist der Eintritt erlaubt. (Foto: Elio Struyf)" alt="Jetzt ist der Eintritt erlaubt. (Foto: Elio Struyf)" /></div><div><div style="margin-bottom:20px;"><img width="1050" height="750" src="https://gaminggadgets.de/wp-content/uploads/2020/04/diy-busy-light-home-office.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Jetzt ist der Eintritt erlaubt. (Foto: Elio Struyf)" decoding="async" loading="lazy" srcset="https://gaminggadgets.de/wp-content/uploads/2020/04/diy-busy-light-home-office.jpg 1050w, https://gaminggadgets.de/wp-content/uploads/2020/04/diy-busy-light-home-office-300x214.jpg 300w, https://gaminggadgets.de/wp-content/uploads/2020/04/diy-busy-light-home-office-1024x731.jpg 1024w, https://gaminggadgets.de/wp-content/uploads/2020/04/diy-busy-light-home-office-768x549.jpg 768w" sizes="(max-width: 1050px) 100vw, 1050px" /></div><p>Ihr seid notgedrungen im Home Office? Mit dieser DIY-Lampe zeigt ihr dem Rest eurer Familie, wann sie euch nicht stören darf.</p>
+<p>Eine geniale Idee: Eine Lampe an der Wohnzimmertür zeigt den anderen Familienmitgliedern, wann man wieder eintreten darf. Der belgische Tüftler Elio Struyf baute sich genau eine solche Leuchte, die sicherlich für viele Menschen, die gerade zum Home Office gezwungen sind, ganz praktisch wäre.</p>
+<h2>So funktioniert das DIY Busy Light</h2>
+<p>Das Konzept hinter dem DIY Busy Light ist kein allzu komplexes: Während ihr produktiv arbeitet oder gerade in einer Videokonferenz seid, leuchtet das Status-Licht Rot. Gelbes Licht bedeutet, dass ihr gerade den Status „Away“ habt. Und bei grün strahlenden LEDs dürfen die Kids euch nerven. Oder der Partner beziehungsweise die Partnerin.</p>
+<p><figure id="attachment_41473" aria-describedby="caption-attachment-41473" style="width: 700px" class="wp-caption aligncenter"><a href="http://gaminggadgets.de/wp-content/uploads/2020/04/diy-busy-light-home-office-2.png" data-rel="lightbox-image-0" data-rl_title="Bei Rot bleibe stehen. (Foto: Elio Struyf)" data-rl_caption="" title="Bei Rot bleibe stehen. (Foto: Elio Struyf)"><img decoding="async" class="size-full wp-image-41473" src="http://gaminggadgets.de/wp-content/uploads/2020/04/diy-busy-light-home-office-2.png" alt="Bei Rot bleibe stehen. (Foto: Elio Struyf)" width="700" height="859" srcset="https://gaminggadgets.de/wp-content/uploads/2020/04/diy-busy-light-home-office-2.png 700w, https://gaminggadgets.de/wp-content/uploads/2020/04/diy-busy-light-home-office-2-244x300.png 244w, https://gaminggadgets.de/wp-content/uploads/2020/04/diy-busy-light-home-office-2-626x768.png 626w" sizes="(max-width: 700px) 100vw, 700px" /></a><figcaption id="caption-attachment-41473" class="wp-caption-text">Bei Rot bleibe stehen. (Foto: Elio Struyf)</figcaption></figure></p>
+<p>Elio synchronisiert sein DIY Busy Light mit Microsoft Teams, doch auch andere Software und Videokonferenz-Tools dürften geeignet sein. Ihr selbst könnt euch nämlich auch eine individuelle Lösung basteln, denn der Schöpfer bietet alle nötigen Infos und Software-Bestandteile auf <a href="https://www.eliostruyf.com/diy-building-busy-light-show-microsoft-teams-presence/" target="_blank" rel="noopener noreferrer">seiner Webseite</a> an.</p>
+<h2>Raspberry Pi übernimmt die Arbeit</h2>
+<p>Hinter dem Busy Light steckt übrigens ein <a href="http://gaminggadgets.de/raspberry-pi-zero-5-us-dollar-fuer-einen-rechner-das-bekommt-ihr-geboten">Raspberry Pi Zero W</a>, der 32 RGB-LEDs ansteuert. Passendes Zubehör ist regulär erhältlich, die Software könnt ihr euch bei Elio herunterladen. Ganz einfach ist das nicht umzusetzen, vor allem wenn ihr weitere Features integrieren wollt.</p>
+<p>Als Home-Office-Lampe ist dieses DIY-Projekt schon eine grandiose Idee, oder? Übrigens: Der Bastel-Experte ließ sich von den kommerziellen Business-Lampen von <a href="https://luxafor.com/" target="_blank" rel="noopener noreferrer">Luxafor</a> inspirieren &#8211; die sind aber eine ganze Ecke kostspieliger.</p>
+<p>
+<div class="aawp">
+
+            
+            
+<div class="aawp-product aawp-product--horizontal aawp-product--style-dark"  data-aawp-product-id="B07WSDXGK9" data-aawp-product-title="Luxafor Bluetooth LED Busy Light Indicator - Wireless Do Not Disturb and Other Status Light">
+
+    
+    <div class="aawp-product__thumb">
+        <a class="aawp-product__image-link"
+           href="https://www.amazon.de/dp/B07WSDXGK9?tag=gaminggadgets04-21&linkCode=ogi&th=1&psc=1" title="Luxafor Bluetooth LED Busy Light Indicator - Wireless Do Not Disturb..." rel="nofollow noopener sponsored" target="_blank">
+            <img class="aawp-product__image" src="https://m.media-amazon.com/images/I/31fXmIosdgL._SL160_.jpg" alt="Luxafor Bluetooth LED Busy Light Indicator - Wireless Do Not Disturb..."  />
+        </a>
+
+            </div>
+
+    <div class="aawp-product__content">
+        <a class="aawp-product__title" href="https://www.amazon.de/dp/B07WSDXGK9?tag=gaminggadgets04-21&linkCode=ogi&th=1&psc=1" title="Luxafor Bluetooth LED Busy Light Indicator - Wireless Do Not Disturb..." rel="nofollow noopener sponsored" target="_blank">
+            Luxafor Bluetooth LED Busy Light Indicator - Wireless Do Not Disturb...        </a>
+        <div class="aawp-product__description">
+            <ul><li>Geben Sie an, ob ein Konferenzraum frei oder belegt ist oder platzieren Sie ihn außerhalb Ihres Büros oder neben Ihrem PC, um zu zeigen, ob Sie verfügbar oder beschäftigt sind. Lässt sich leicht...</li><li>Kabellose Anzeige, kommt mit einem Bluetooth-Dongle, der bis zu 25 Meter ohne Hindernisse betreiben kann. Kostenlose Software, kompatibel mit Mac und PC. Tragbare und kleine Größe ohne Kabel sorgt...</li></ul>        </div>
+    </div>
+
+    <div class="aawp-product__footer">
+
+        <div class="aawp-product__pricing">
+            
+                            <span class="aawp-product__price aawp-product__price--current">92,99 EUR</span>
+            
+            <a class="aawp-check-prime" href="https://www.amazon.de/gp/prime/?tag=gaminggadgets04-21" title="Amazon Prime" rel="nofollow noopener sponsored" target="_blank"></a>        </div>
+
+                <a class="aawp-button aawp-button--buy aawp-button aawp-button--orange aawp-button--icon aawp-button--icon-white" href="https://www.amazon.de/dp/B07WSDXGK9?tag=gaminggadgets04-21&#038;linkCode=ogi&#038;th=1&#038;psc=1" title="Preis prüfen" target="_blank" rel="nofollow noopener sponsored">Preis prüfen</a>
+            </div>
+
+</div>
+
+    
+</div>
+</p>
+</div><p>Der Beitrag <a rel="nofollow" href="https://gaminggadgets.de/diy-busy-light-mit-dieser-lampe-stoert-euch-niemand-im-home-office">DIY Busy Light</a> erschien zuerst auf <a rel="nofollow" href="https://gaminggadgets.de">GamingGadgets.de</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<enclosure url="https://gaminggadgets.de/wp-content/uploads/2020/04/diy-busy-light-home-office.jpg" length="32419" type="image/jpg" />
+<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://gaminggadgets.de/wp-content/uploads/2020/04/diy-busy-light-home-office.jpg" width="1050" height="750" medium="image" type="image/jpeg">
+	<media:copyright>GamingGadgets.de</media:copyright>
+	<media:title>Jetzt ist der Eintritt erlaubt. (Foto: Elio Struyf)</media:title>
+	<media:description type="html"><![CDATA[Jetzt ist der Eintritt erlaubt. (Foto: Elio Struyf)]]></media:description>
+</media:content>
+<media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://gaminggadgets.de/wp-content/uploads/2020/04/diy-busy-light-home-office.jpg" width="1050" height="750" />
+	</item>
+		<item>
+		<title>Mini SEGA Aero City</title>
+		<link>https://gaminggadgets.de/mini-sega-aero-city-handlicher-arcade-automat-selbstgebaut</link>
+		
+		<dc:creator><![CDATA[Sven]]></dc:creator>
+		<pubDate>Sat, 01 Feb 2020 11:55:21 +0000</pubDate>
+				<category><![CDATA[Spielgeräte]]></category>
+		<category><![CDATA[3D-Drucker]]></category>
+		<category><![CDATA[Arcade-Automat]]></category>
+		<category><![CDATA[Bastelei]]></category>
+		<category><![CDATA[DIY]]></category>
+		<category><![CDATA[Mini SEGA Aero City]]></category>
+		<category><![CDATA[Raspberry Pi]]></category>
+		<category><![CDATA[Retro]]></category>
+		<category><![CDATA[Spielautomat]]></category>
+		<guid isPermaLink="false">http://gaminggadgets.de/?p=41196</guid>
+
+					<description><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://gaminggadgets.de/wp-content/uploads/2020/01/mini-sega-aero-city.jpg" width="1280" height="720" title="Ein schöner Automat im Eigenbau. (Foto: Game-Makers)" alt="Ein schöner Automat im Eigenbau. (Foto: Game-Makers)" /></div>
+<div>
+<div style="margin-bottom:20px;"><img width="1280" height="720" src="https://gaminggadgets.de/wp-content/uploads/2020/01/mini-sega-aero-city.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Ein schöner Automat im Eigenbau. (Foto: Game-Makers)" decoding="async" loading="lazy" srcset="https://gaminggadgets.de/wp-content/uploads/2020/01/mini-sega-aero-city.jpg 1280w, https://gaminggadgets.de/wp-content/uploads/2020/01/mini-sega-aero-city-300x169.jpg 300w, https://gaminggadgets.de/wp-content/uploads/2020/01/mini-sega-aero-city-1024x576.jpg 1024w, https://gaminggadgets.de/wp-content/uploads/2020/01/mini-sega-aero-city-768x432.jpg 768w" sizes="(max-width: 1280px) 100vw, 1280px" /></div>
+<p>Heutzutage könnt ihr mit etwas Talent problemlos einen eigenen Spielautomaten basteln. Auch Mini-Varianten berühmter Maschinen wie dem SEGA Aero City sind möglich. Die Tüftler von Game-Makers bauen seit Jahren allerlei Retro-Konsolen und Arcade-Maschinen basierend auf handelsüblicher Technik. Das neueste Werk ist eine kleine Liebeserklärung an den SEGA Aero City. Der Spielautomat erschien 1988 in Japan, [&#8230;]</p></div>
+<p>Der Beitrag <a rel="nofollow" href="https://gaminggadgets.de/mini-sega-aero-city-handlicher-arcade-automat-selbstgebaut">Mini SEGA Aero City</a> erschien zuerst auf <a rel="nofollow" href="https://gaminggadgets.de">GamingGadgets.de</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://gaminggadgets.de/wp-content/uploads/2020/01/mini-sega-aero-city.jpg" width="1280" height="720" title="Ein schöner Automat im Eigenbau. (Foto: Game-Makers)" alt="Ein schöner Automat im Eigenbau. (Foto: Game-Makers)" /></div><div><div style="margin-bottom:20px;"><img width="1280" height="720" src="https://gaminggadgets.de/wp-content/uploads/2020/01/mini-sega-aero-city.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Ein schöner Automat im Eigenbau. (Foto: Game-Makers)" decoding="async" loading="lazy" srcset="https://gaminggadgets.de/wp-content/uploads/2020/01/mini-sega-aero-city.jpg 1280w, https://gaminggadgets.de/wp-content/uploads/2020/01/mini-sega-aero-city-300x169.jpg 300w, https://gaminggadgets.de/wp-content/uploads/2020/01/mini-sega-aero-city-1024x576.jpg 1024w, https://gaminggadgets.de/wp-content/uploads/2020/01/mini-sega-aero-city-768x432.jpg 768w" sizes="(max-width: 1280px) 100vw, 1280px" /></div><p>Heutzutage könnt ihr mit etwas Talent problemlos einen eigenen Spielautomaten basteln. Auch Mini-Varianten berühmter Maschinen wie dem SEGA Aero City sind möglich.</p>
+<p>Die Tüftler von Game-Makers bauen seit Jahren allerlei Retro-Konsolen und Arcade-Maschinen basierend auf handelsüblicher Technik. Das neueste Werk ist eine kleine Liebeserklärung an den SEGA Aero City. Der Spielautomat erschien 1988 in Japan, die Mini Bartop-Variante ist dagegen neu und entstand in mühevoller Kleinarbeit.</p>
+<p><figure id="attachment_41200" aria-describedby="caption-attachment-41200" style="width: 1280px" class="wp-caption aligncenter"><a href="http://gaminggadgets.de/wp-content/uploads/2020/01/mini-sega-aero-city-4.jpg" data-rel="lightbox-image-0" data-rl_title="Aufwändiger Tischautomat. (Foto: Game-Makers)" data-rl_caption="" title="Aufwändiger Tischautomat. (Foto: Game-Makers)"><img decoding="async" class="size-full wp-image-41200" src="http://gaminggadgets.de/wp-content/uploads/2020/01/mini-sega-aero-city-4.jpg" alt="Aufwändiger Tischautomat. (Foto: Game-Makers)" width="1280" height="720" srcset="https://gaminggadgets.de/wp-content/uploads/2020/01/mini-sega-aero-city-4.jpg 1280w, https://gaminggadgets.de/wp-content/uploads/2020/01/mini-sega-aero-city-4-300x169.jpg 300w, https://gaminggadgets.de/wp-content/uploads/2020/01/mini-sega-aero-city-4-1024x576.jpg 1024w, https://gaminggadgets.de/wp-content/uploads/2020/01/mini-sega-aero-city-4-768x432.jpg 768w" sizes="(max-width: 1280px) 100vw, 1280px" /></a><figcaption id="caption-attachment-41200" class="wp-caption-text">Aufwändiger Tischautomat. (Foto: Game-Makers)</figcaption></figure></p>
+<h2>Das bietet der Mini SEGA Aero City</h2>
+<p>Wie kann es anders sein – beim Mini SEGA Aero City kommt ein <a href="http://gaminggadgets.de/tag/raspberry-pi">Raspberry Pi 3</a> zum Einsatz, der beispielsweise das originale Arcade-Game emuliert. Das Geschehen wird auf einem 9,7 Zoll großen LCD dargestellt, passende Buttons und Joystick fehlen nicht.</p>
+<p>
+<a href='https://gaminggadgets.de/wp-content/uploads/2020/01/mini-sega-aero-city-6.jpg' title="Die Buttons. (Foto: Game-Makers)" data-rl_title="Die Buttons. (Foto: Game-Makers)" class="rl-gallery-link" data-rl_caption="" data-rel="lightbox-gallery-1"><img width="120" height="120" src="https://gaminggadgets.de/wp-content/uploads/2020/01/mini-sega-aero-city-6-120x120.jpg" class="attachment-thumbnail size-thumbnail" alt="Die Buttons. (Foto: Game-Makers)" decoding="async" /></a>
+<a href='https://gaminggadgets.de/wp-content/uploads/2020/01/mini-sega-aero-city-5.jpg' title="Das Design lehnt sich am Original an. (Foto: Game-Makers)" data-rl_title="Das Design lehnt sich am Original an. (Foto: Game-Makers)" class="rl-gallery-link" data-rl_caption="" data-rel="lightbox-gallery-1"><img width="120" height="120" src="https://gaminggadgets.de/wp-content/uploads/2020/01/mini-sega-aero-city-5-120x120.jpg" class="attachment-thumbnail size-thumbnail" alt="Das Design lehnt sich am Original an. (Foto: Game-Makers)" decoding="async" /></a>
+<a href='https://gaminggadgets.de/wp-content/uploads/2020/01/mini-sega-aero-city-3.jpg' title="In voller Pracht. (Foto: Game-Makers)" data-rl_title="In voller Pracht. (Foto: Game-Makers)" class="rl-gallery-link" data-rl_caption="" data-rel="lightbox-gallery-1"><img width="120" height="120" src="https://gaminggadgets.de/wp-content/uploads/2020/01/mini-sega-aero-city-3-120x120.jpg" class="attachment-thumbnail size-thumbnail" alt="In voller Pracht. (Foto: Game-Makers)" decoding="async" /></a>
+<a href='https://gaminggadgets.de/wp-content/uploads/2020/01/mini-sega-aero-city-2.jpg' title="Das Innenleben. (Foto: Game-Makers)" data-rl_title="Das Innenleben. (Foto: Game-Makers)" class="rl-gallery-link" data-rl_caption="" data-rel="lightbox-gallery-1"><img width="120" height="120" src="https://gaminggadgets.de/wp-content/uploads/2020/01/mini-sega-aero-city-2-120x120.jpg" class="attachment-thumbnail size-thumbnail" alt="Das Innenleben. (Foto: Game-Makers)" decoding="async" /></a>
+</p>
+<p>Das Gehäuse stammt – das ist sicher auch keine Überraschung – aus einem 3D-Drucker. Der benötigte 72 Stunden für die Herstellung. Sehr aufwändig war auch die äußere Gestaltung, die sich an dem Original anlehnt, aber doch eigene Akzente setzt. Sehr attraktiv, wie ich finde.</p>
+<h2>Anleitung im Netz</h2>
+<p>Sicherlich ist der Mini SEGA Aero City keine Neuheit – viele ähnliche Tischautomaten finden sich längst im Internet. Dennoch ist der Automat ein schönes Beispiel dafür, wie Fans selbst aktiv werden, um großartige Geräte für die eigenen vier Wände zu entwerfen. Zugleich teilt Game-Makers auf der eigenen Webseite Erfahrungen. Eine <a href="https://www.game-makers.xyz/00_Projets/Projet037.php" target="_blank" rel="noopener noreferrer">Anleitung</a> (leider in französischer Sprache) gibt’s genauso wie alle <a href="https://www.game-makers.xyz/Dispatcher002.php" target="_blank" rel="noopener noreferrer">Dateien zum Download</a> für den 3D-Drucker. Das ist sehr nett.</p>
+</div><p>Der Beitrag <a rel="nofollow" href="https://gaminggadgets.de/mini-sega-aero-city-handlicher-arcade-automat-selbstgebaut">Mini SEGA Aero City</a> erschien zuerst auf <a rel="nofollow" href="https://gaminggadgets.de">GamingGadgets.de</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<enclosure url="https://gaminggadgets.de/wp-content/uploads/2020/01/mini-sega-aero-city.jpg" length="106060" type="image/jpg" />
+<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://gaminggadgets.de/wp-content/uploads/2020/01/mini-sega-aero-city.jpg" width="1280" height="720" medium="image" type="image/jpeg">
+	<media:copyright>GamingGadgets.de</media:copyright>
+	<media:title>Ein schöner Automat im Eigenbau. (Foto: Game-Makers)</media:title>
+	<media:description type="html"><![CDATA[Ein schöner Automat im Eigenbau. (Foto: Game-Makers)]]></media:description>
+</media:content>
+<media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://gaminggadgets.de/wp-content/uploads/2020/01/mini-sega-aero-city.jpg" width="1280" height="720" />
+	</item>
+		<item>
+		<title>Retro Gaming with Raspberry Pi</title>
+		<link>https://gaminggadgets.de/retro-gaming-with-raspberry-pi-so-bringt-ihr-spieleklassiker-auf-euren-mini-rechner</link>
+		
+		<dc:creator><![CDATA[Sven]]></dc:creator>
+		<pubDate>Fri, 22 Nov 2019 11:35:52 +0000</pubDate>
+				<category><![CDATA[Undsonstso]]></category>
+		<category><![CDATA[Buch]]></category>
+		<category><![CDATA[Raspberry Pi]]></category>
+		<category><![CDATA[Retro Gaming with Raspberry Pi]]></category>
+		<guid isPermaLink="false">http://gaminggadgets.de/?p=40843</guid>
+
+					<description><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://gaminggadgets.de/wp-content/uploads/2019/11/raspberry-pi-buch.png" width="1488" height="1116" title="Dieses Buch bekommt ihr kostenlos. (Foto: Raspberry Press)" alt="Dieses Buch bekommt ihr kostenlos. (Foto: Raspberry Press)" /></div>
+<div>
+<div style="margin-bottom:20px;"><img width="1488" height="1116" src="https://gaminggadgets.de/wp-content/uploads/2019/11/raspberry-pi-buch.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Dieses Buch bekommt ihr kostenlos. (Foto: Raspberry Press)" decoding="async" loading="lazy" srcset="https://gaminggadgets.de/wp-content/uploads/2019/11/raspberry-pi-buch.png 1488w, https://gaminggadgets.de/wp-content/uploads/2019/11/raspberry-pi-buch-300x225.png 300w, https://gaminggadgets.de/wp-content/uploads/2019/11/raspberry-pi-buch-1024x768.png 1024w, https://gaminggadgets.de/wp-content/uploads/2019/11/raspberry-pi-buch-768x576.png 768w" sizes="(max-width: 1488px) 100vw, 1488px" /></div>
+<p>Mit dem Buch Retro Gaming with Raspberry Pi erfahrt ihr, wie ihr berühmte Spieleklassiker auf euren winzigen Rechner bringt. Der Clou: Das Werk gibt’s auch gratis! Die Raspberry Pi Foundation und Raspberry Pi Press haben für Retro-Liebhaber einen interessanten Schmöker parat – das Buch Retro Gaming with Raspberry Pi. Auf 164 Seiten findet ihr heraus, [&#8230;]</p></div>
+<p>Der Beitrag <a rel="nofollow" href="https://gaminggadgets.de/retro-gaming-with-raspberry-pi-so-bringt-ihr-spieleklassiker-auf-euren-mini-rechner">Retro Gaming with Raspberry Pi</a> erschien zuerst auf <a rel="nofollow" href="https://gaminggadgets.de">GamingGadgets.de</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://gaminggadgets.de/wp-content/uploads/2019/11/raspberry-pi-buch.png" width="1488" height="1116" title="Dieses Buch bekommt ihr kostenlos. (Foto: Raspberry Press)" alt="Dieses Buch bekommt ihr kostenlos. (Foto: Raspberry Press)" /></div><div><div style="margin-bottom:20px;"><img width="1488" height="1116" src="https://gaminggadgets.de/wp-content/uploads/2019/11/raspberry-pi-buch.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Dieses Buch bekommt ihr kostenlos. (Foto: Raspberry Press)" decoding="async" loading="lazy" srcset="https://gaminggadgets.de/wp-content/uploads/2019/11/raspberry-pi-buch.png 1488w, https://gaminggadgets.de/wp-content/uploads/2019/11/raspberry-pi-buch-300x225.png 300w, https://gaminggadgets.de/wp-content/uploads/2019/11/raspberry-pi-buch-1024x768.png 1024w, https://gaminggadgets.de/wp-content/uploads/2019/11/raspberry-pi-buch-768x576.png 768w" sizes="(max-width: 1488px) 100vw, 1488px" /></div><p>Mit dem Buch Retro Gaming with Raspberry Pi erfahrt ihr, wie ihr berühmte Spieleklassiker auf euren winzigen Rechner bringt. Der Clou: Das Werk gibt’s auch gratis!</p>
+<p>Die Raspberry Pi Foundation und Raspberry Pi Press haben für Retro-Liebhaber einen interessanten Schmöker parat – das Buch Retro Gaming with Raspberry Pi. Auf 164 Seiten findet ihr heraus, wie ihr klassische Spiele auf einen <a href="http://gaminggadgets.de/tag/raspberry-pi">Raspberry Pi</a> bekommt, aber auch eure eigene Spielkonsole bastelt.</p>
+<p><figure id="attachment_40845" aria-describedby="caption-attachment-40845" style="width: 500px" class="wp-caption aligncenter"><a href="http://gaminggadgets.de/wp-content/uploads/2019/11/raspberry-pi-buch-2.jpg" data-rel="lightbox-image-0" data-rl_title="Das ist das Buch. (Foto: Raspberry Press)" data-rl_caption="" title="Das ist das Buch. (Foto: Raspberry Press)"><img decoding="async" class="size-full wp-image-40845" src="http://gaminggadgets.de/wp-content/uploads/2019/11/raspberry-pi-buch-2.jpg" alt="Das ist das Buch. (Foto: Raspberry Press)" width="500" height="656" srcset="https://gaminggadgets.de/wp-content/uploads/2019/11/raspberry-pi-buch-2.jpg 500w, https://gaminggadgets.de/wp-content/uploads/2019/11/raspberry-pi-buch-2-229x300.jpg 229w" sizes="(max-width: 500px) 100vw, 500px" /></a><figcaption id="caption-attachment-40845" class="wp-caption-text">Das ist das Buch. (Foto: Raspberry Press)</figcaption></figure></p>
+<h2>Basteln und mehr</h2>
+<p>Das Buch berücksichtigt sogar außergewöhnlichere Projekte. Das heißt: Liebäugelt ihr mit dem Bau einer tragbaren Konsole, eines Flippers oder gar eines Arcade-Automaten in Originalgröße, lohnt sich ebenfalls ein Blick in Retro Gaming with Raspberry Pi.</p>
+<p><iframe title="New book: Retro Gaming with Raspberry Pi" width="1170" height="658" src="https://www.youtube.com/embed/PNbUzCjHdpM?wmode=transparent&amp;rel=0&amp;feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p>Um es zu betonen: Das Buch beschäftigt sich nicht nur mit Emulatoren und Hardware. Zusätzlich gibt’s nämlich auch Tipps und Schritt-für-Schritt-Anleitungen zum Programmieren eigener Retro-Games mittels Python und Pygame Zero. Controller-und Zubehör-Empfehlungen fehlen nicht.</p>
+<h2>Kostenlos oder günstig</h2>
+<p>Sicherlich ist die Grundidee des Buchs nicht neu, aber Retro Gaming with Raspberry Pi bietet eine Besonderheit: Ihr könnt euch die digitale Variante kostenlos auf <a href="https://magpi.raspberrypi.org/books/retro-gaming">raspberrypi.org</a> herunterladen. Mögt ihr lieber die Papier-Ausgabe, dann schaut im <a href="https://store.rpipress.cc/collections/books/products/retro-gaming-with-raspberry-pi" target="_blank" rel="noopener noreferrer">offiziellen Shop</a> vorbei. Für 10 Britische Pfund (inklusive Versandkosten!) kommt es zu euch nach Hause.</p>
+<p>
+<a href='https://gaminggadgets.de/wp-content/uploads/2019/11/raspberry-pi-buch-leseprobe-3.png' title="Retro Gaming with Raspberry Pi-Leseprobe. (Foto: Raspberry Press)" data-rl_title="Retro Gaming with Raspberry Pi-Leseprobe. (Foto: Raspberry Press)" class="rl-gallery-link" data-rl_caption="" data-rel="lightbox-gallery-2"><img width="120" height="120" src="https://gaminggadgets.de/wp-content/uploads/2019/11/raspberry-pi-buch-leseprobe-3-120x120.png" class="attachment-thumbnail size-thumbnail" alt="Retro Gaming with Raspberry Pi-Leseprobe. (Foto: Raspberry Press)" decoding="async" /></a>
+<a href='https://gaminggadgets.de/wp-content/uploads/2019/11/raspberry-pi-buch-leseprobe-2.png' title="Retro Gaming with Raspberry Pi-Leseprobe. (Foto: Raspberry Press)" data-rl_title="Retro Gaming with Raspberry Pi-Leseprobe. (Foto: Raspberry Press)" class="rl-gallery-link" data-rl_caption="" data-rel="lightbox-gallery-2"><img width="120" height="120" src="https://gaminggadgets.de/wp-content/uploads/2019/11/raspberry-pi-buch-leseprobe-2-120x120.png" class="attachment-thumbnail size-thumbnail" alt="Retro Gaming with Raspberry Pi-Leseprobe. (Foto: Raspberry Press)" decoding="async" /></a>
+<a href='https://gaminggadgets.de/wp-content/uploads/2019/11/raspberry-pi-buch-leseprobe.png' title="Retro Gaming with Raspberry Pi-Leseprobe. (Foto: Raspberry Press)" data-rl_title="Retro Gaming with Raspberry Pi-Leseprobe. (Foto: Raspberry Press)" class="rl-gallery-link" data-rl_caption="" data-rel="lightbox-gallery-2"><img width="120" height="120" src="https://gaminggadgets.de/wp-content/uploads/2019/11/raspberry-pi-buch-leseprobe-120x120.png" class="attachment-thumbnail size-thumbnail" alt="Retro Gaming with Raspberry Pi-Leseprobe. (Foto: Raspberry Press)" decoding="async" /></a>
+</p>
+<p>Hinweis: Retro Gaming with Raspberry Pi ist ausschließlich in englischer Sprache erhältlich. Beim „Durchblättern“ empfand ich die Texte aber nicht als zu technisch oder zu kompliziert zu verstehen.</p>
+</div><p>Der Beitrag <a rel="nofollow" href="https://gaminggadgets.de/retro-gaming-with-raspberry-pi-so-bringt-ihr-spieleklassiker-auf-euren-mini-rechner">Retro Gaming with Raspberry Pi</a> erschien zuerst auf <a rel="nofollow" href="https://gaminggadgets.de">GamingGadgets.de</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<enclosure url="https://gaminggadgets.de/wp-content/uploads/2019/11/raspberry-pi-buch.png" length="436791" type="image/jpg" />
+<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://gaminggadgets.de/wp-content/uploads/2019/11/raspberry-pi-buch.png" width="1488" height="1116" medium="image" type="image/jpeg">
+	<media:copyright>GamingGadgets.de</media:copyright>
+	<media:title>Dieses Buch bekommt ihr kostenlos. (Foto: Raspberry Press)</media:title>
+	<media:description type="html"><![CDATA[Dieses Buch bekommt ihr kostenlos. (Foto: Raspberry Press)]]></media:description>
+</media:content>
+<media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://gaminggadgets.de/wp-content/uploads/2019/11/raspberry-pi-buch.png" width="1488" height="1116" />
+	</item>
+		<item>
+		<title>GPi Case</title>
+		<link>https://gaminggadgets.de/gpi-case-aus-eurem-raspberry-pi-zero-wird-ein-gameboy</link>
+		
+		<dc:creator><![CDATA[Sven]]></dc:creator>
+		<pubDate>Wed, 06 Nov 2019 11:25:53 +0000</pubDate>
+				<category><![CDATA[Spielgeräte]]></category>
+		<category><![CDATA[Bastelei]]></category>
+		<category><![CDATA[DIY]]></category>
+		<category><![CDATA[Gameboy]]></category>
+		<category><![CDATA[GPi Case]]></category>
+		<category><![CDATA[Handheld]]></category>
+		<category><![CDATA[Raspberry Pi]]></category>
+		<category><![CDATA[Raspberry Pi Zero]]></category>
+		<guid isPermaLink="false">http://gaminggadgets.de/?p=40701</guid>
+
+					<description><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://gaminggadgets.de/wp-content/uploads/2019/10/gpi-case-head.jpg" width="1000" height="637" title="Sieht fast wie ein Gameboy aus. (Foto: Retroflag)" alt="Sieht fast wie ein Gameboy aus. (Foto: Retroflag)" /></div>
+<div>
+<div style="margin-bottom:20px;"><img width="1000" height="637" src="https://gaminggadgets.de/wp-content/uploads/2019/10/gpi-case-head.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Sieht fast wie ein Gameboy aus. (Foto: Retroflag)" decoding="async" loading="lazy" srcset="https://gaminggadgets.de/wp-content/uploads/2019/10/gpi-case-head.jpg 1000w, https://gaminggadgets.de/wp-content/uploads/2019/10/gpi-case-head-300x191.jpg 300w, https://gaminggadgets.de/wp-content/uploads/2019/10/gpi-case-head-768x489.jpg 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></div>
+<p>So einfach kann es sein: Baut euch eine eigene Handheld-Konsole mit dem GPi Case und einem Raspberry Pi Zero. Das GPi Case macht es möglich. Der Anbieter Retroflag hat eine schöne Lösung für Hobby-Bastler parat, die nicht löten, aber eine Retro-Konsole für unterwegs haben wollen. Herzstück ist ein handelsüblicher Raspberry Pi Zero (W), der in [&#8230;]</p></div>
+<p>Der Beitrag <a rel="nofollow" href="https://gaminggadgets.de/gpi-case-aus-eurem-raspberry-pi-zero-wird-ein-gameboy">GPi Case</a> erschien zuerst auf <a rel="nofollow" href="https://gaminggadgets.de">GamingGadgets.de</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://gaminggadgets.de/wp-content/uploads/2019/10/gpi-case-head.jpg" width="1000" height="637" title="Sieht fast wie ein Gameboy aus. (Foto: Retroflag)" alt="Sieht fast wie ein Gameboy aus. (Foto: Retroflag)" /></div><div><div style="margin-bottom:20px;"><img width="1000" height="637" src="https://gaminggadgets.de/wp-content/uploads/2019/10/gpi-case-head.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Sieht fast wie ein Gameboy aus. (Foto: Retroflag)" decoding="async" loading="lazy" srcset="https://gaminggadgets.de/wp-content/uploads/2019/10/gpi-case-head.jpg 1000w, https://gaminggadgets.de/wp-content/uploads/2019/10/gpi-case-head-300x191.jpg 300w, https://gaminggadgets.de/wp-content/uploads/2019/10/gpi-case-head-768x489.jpg 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></div><p>So einfach kann es sein: Baut euch eine eigene Handheld-Konsole mit dem GPi Case und einem Raspberry Pi Zero. Das GPi Case macht es möglich.</p>
+<p>Der Anbieter Retroflag hat eine schöne Lösung für Hobby-Bastler parat, die nicht löten, aber eine Retro-Konsole für unterwegs haben wollen. Herzstück ist ein handelsüblicher <a href="http://gaminggadgets.de/raspberry-pi-zero-5-us-dollar-fuer-einen-rechner-das-bekommt-ihr-geboten">Raspberry Pi Zero (W)</a>, der in der Lage ist, allerlei nostalgische Konsolen früherer Tage (Gameboy, GBA, NES, MegaDrive…) zu emulieren. Preislich liegt dieser bei <a href="https://www.reichelt.de/raspberry-pi-zero-w-v-1-1-1-ghz-512-mb-ram-wlan-bt-rasp-pi-zero-w-p256438.html?&amp;trstct=pos_0" target="_blank" rel="noopener noreferrer">rund 15 Euro</a>. Dazu bräuchtet ihr aber noch das GPi Case.</p>
+<p><figure id="attachment_40702" aria-describedby="caption-attachment-40702" style="width: 1458px" class="wp-caption aligncenter"><a href="http://gaminggadgets.de/wp-content/uploads/2019/10/gpi-case-e1572249088738.jpg" data-rel="lightbox-image-0" data-rl_title="Was ist alles in der Box? (Foto: Retroflag)" data-rl_caption="" title="Was ist alles in der Box? (Foto: Retroflag)"><img decoding="async" class="size-full wp-image-40702" src="http://gaminggadgets.de/wp-content/uploads/2019/10/gpi-case-e1572249088738.jpg" alt="Was ist alles in der Box? (Foto: Retroflag)" width="1458" height="971" srcset="https://gaminggadgets.de/wp-content/uploads/2019/10/gpi-case-e1572249088738.jpg 1458w, https://gaminggadgets.de/wp-content/uploads/2019/10/gpi-case-e1572249088738-300x200.jpg 300w, https://gaminggadgets.de/wp-content/uploads/2019/10/gpi-case-e1572249088738-768x511.jpg 768w, https://gaminggadgets.de/wp-content/uploads/2019/10/gpi-case-e1572249088738-1024x682.jpg 1024w" sizes="(max-width: 1458px) 100vw, 1458px" /></a><figcaption id="caption-attachment-40702" class="wp-caption-text">Was ist alles in der Box? (Foto: Retroflag)</figcaption></figure></p>
+<h2>GPi Case: Alles für eine Handheld-Konsole</h2>
+<p>Spannend an dem GPi Case ist die Tatsache, dass es sich im Grunde um einen Baukasten handelt. Wichtigstes Element ist das eigentliche Gehäuse, das dem originalen Nintendo Gameboy nachempfunden wurde. Es ist allerdings etwas kleiner und bietet vier Action-Buttons. Außerdem sind Schultertasten auf der Rückseite des GPi Case vorhanden. Praktisch.</p>
+<p>
+<a href='https://gaminggadgets.de/wp-content/uploads/2019/10/gpi-case-3-e1572249452482.jpg' title="Die Rückseite. Das Modul. (Foto: Retroflag)" data-rl_title="Die Rückseite. Das Modul. (Foto: Retroflag)" class="rl-gallery-link" data-rl_caption="" data-rel="lightbox-gallery-3"><img width="120" height="120" src="https://gaminggadgets.de/wp-content/uploads/2019/10/gpi-case-3-e1572249452482-120x120.jpg" class="attachment-thumbnail size-thumbnail" alt="Die Rückseite. Das Modul. (Foto: Retroflag)" decoding="async" /></a>
+<a href='https://gaminggadgets.de/wp-content/uploads/2019/10/gpi-case-2.jpg' title="Das ist das Gehäuse. (Foto: Retroflag)" data-rl_title="Das ist das Gehäuse. (Foto: Retroflag)" class="rl-gallery-link" data-rl_caption="" data-rel="lightbox-gallery-3"><img width="120" height="120" src="https://gaminggadgets.de/wp-content/uploads/2019/10/gpi-case-2-120x120.jpg" class="attachment-thumbnail size-thumbnail" alt="Das ist das Gehäuse. (Foto: Retroflag)" decoding="async" srcset="https://gaminggadgets.de/wp-content/uploads/2019/10/gpi-case-2-120x120.jpg 120w, https://gaminggadgets.de/wp-content/uploads/2019/10/gpi-case-2-300x300.jpg 300w, https://gaminggadgets.de/wp-content/uploads/2019/10/gpi-case-2-768x768.jpg 768w, https://gaminggadgets.de/wp-content/uploads/2019/10/gpi-case-2.jpg 1000w" sizes="(max-width: 120px) 100vw, 120px" /></a>
+</p>
+<p>Hinzu kommt eine <a href="http://download.retroflag.com/manual/case/GPi_CASE_Manual.pdf" target="_blank" rel="noopener noreferrer">simple Montage</a>, die euch den Bau einer solchen Spielmaschine erleichtert. Das 2,8 Zoll große IPS-Display liegt dem Lieferumfang bei, genauso bekommt ihr sämtliche nötigen Kabel und Anschlüsse (LEDs für Power-Anzeige, 3,5mm Audio-Port…).</p>
+<h2>Hübsche Details</h2>
+<p>Retroflag machte sich mal wieder ein paar amüsante Gedanken. So erhaltet ihr noch ein Stück Plastik, das wie ein Gameboy-Modul aussieht. In diesem aber steckt der Raspberry Pi Zero. Versorgt wird die Konsole mit regulären Batterien, die ihr noch zusätzlich kaufen müsstest. Sinnvoll sind weiterhin schnell erreichbare Aussparungen für microSD-Speicherkartenslot und USB-Port. Sehr gut.</p>
+<p><figure id="attachment_40705" aria-describedby="caption-attachment-40705" style="width: 1260px" class="wp-caption aligncenter"><a href="http://gaminggadgets.de/wp-content/uploads/2019/10/gpi-case-4-e1572249424609.jpg" data-rel="lightbox-image-3" data-rl_title="Das Modul. (Foto: Retroflag)" data-rl_caption="" title="Das Modul. (Foto: Retroflag)"><img decoding="async" class="wp-image-40705 size-full" src="http://gaminggadgets.de/wp-content/uploads/2019/10/gpi-case-4-e1572249424609.jpg" alt="Das Modul. (Foto: Retroflag)" width="1260" height="570" srcset="https://gaminggadgets.de/wp-content/uploads/2019/10/gpi-case-4-e1572249424609.jpg 1260w, https://gaminggadgets.de/wp-content/uploads/2019/10/gpi-case-4-e1572249424609-300x136.jpg 300w, https://gaminggadgets.de/wp-content/uploads/2019/10/gpi-case-4-e1572249424609-768x347.jpg 768w, https://gaminggadgets.de/wp-content/uploads/2019/10/gpi-case-4-e1572249424609-1024x463.jpg 1024w" sizes="(max-width: 1260px) 100vw, 1260px" /></a><figcaption id="caption-attachment-40705" class="wp-caption-text">Das Modul. (Foto: Retroflag)</figcaption></figure></p>
+<p>Alles in allem wirkt das GPi Case auch aufgrund des Designs doch nach einer liebevollen Hommage an den Gameboy. Mit einem Preis von ungefähr 75 Euro, den ihr <a href="http://gaminggadgets.de/amazon-gpi-case" target="_blank" rel="noopener noreferrer">bei Amazon</a> oder direkt <a href="http://retroflag.com/GPi-CASE.html" target="_blank" rel="noopener noreferrer">beim Hersteller</a> zahlt, ist das Zubehör nicht ganz günstig. Denn dazu gesellt sich eben noch der Raspberry Pi Zero. Und dann müsstet ihr Zeit für die Software-Installation einplanen, was dank einer großen Community zum Glück längst nicht mehr ein allzu großer Aufwand ist.</p>
+<p>Solltet ihr lieber einen echten Gameboy &#8222;modernisieren&#8220; wollen, schaut euch mal den <a href="http://gaminggadgets.de/gameboy-zero-alte-handheld-konsole-mit-modernem-innenleben">Gameboy Zero</a> an.</p>
+</div><p>Der Beitrag <a rel="nofollow" href="https://gaminggadgets.de/gpi-case-aus-eurem-raspberry-pi-zero-wird-ein-gameboy">GPi Case</a> erschien zuerst auf <a rel="nofollow" href="https://gaminggadgets.de">GamingGadgets.de</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<enclosure url="https://gaminggadgets.de/wp-content/uploads/2019/10/gpi-case-head.jpg" length="95228" type="image/jpg" />
+<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://gaminggadgets.de/wp-content/uploads/2019/10/gpi-case-head.jpg" width="1000" height="637" medium="image" type="image/jpeg">
+	<media:copyright>GamingGadgets.de</media:copyright>
+	<media:title>Sieht fast wie ein Gameboy aus. (Foto: Retroflag)</media:title>
+	<media:description type="html"><![CDATA[Sieht fast wie ein Gameboy aus. (Foto: Retroflag)]]></media:description>
+</media:content>
+<media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://gaminggadgets.de/wp-content/uploads/2019/10/gpi-case-head.jpg" width="1000" height="637" />
+	</item>
+		<item>
+		<title>Mini SNES Pi Zero Nano</title>
+		<link>https://gaminggadgets.de/mini-snes-pi-zero-nano-winzige-handheld-konsole-als-schluesselanhaenger</link>
+		
+		<dc:creator><![CDATA[Sven]]></dc:creator>
+		<pubDate>Sun, 13 Oct 2019 11:37:51 +0000</pubDate>
+				<category><![CDATA[Spielgeräte]]></category>
+		<category><![CDATA[3D-Drucker]]></category>
+		<category><![CDATA[Bastelei]]></category>
+		<category><![CDATA[DIY]]></category>
+		<category><![CDATA[Handheld]]></category>
+		<category><![CDATA[Mini SNES]]></category>
+		<category><![CDATA[Mini SNES Pi Zero Nano]]></category>
+		<category><![CDATA[Raspberry Pi]]></category>
+		<category><![CDATA[Raspberry Pi Zero]]></category>
+		<guid isPermaLink="false">http://gaminggadgets.de/?p=40620</guid>
+
+					<description><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://gaminggadgets.de/wp-content/uploads/2019/10/mini-snes-handheld.jpg" width="1050" height="789" title="Eine wirklich keine SNES-Konsole. (Foto: Nochii)" alt="Eine wirklich keine SNES-Konsole. (Foto: Nochii)" /></div>
+<div>
+<div style="margin-bottom:20px;"><img width="1050" height="789" src="https://gaminggadgets.de/wp-content/uploads/2019/10/mini-snes-handheld.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Eine wirklich keine SNES-Konsole. (Foto: Nochii)" decoding="async" loading="lazy" srcset="https://gaminggadgets.de/wp-content/uploads/2019/10/mini-snes-handheld.jpg 1050w, https://gaminggadgets.de/wp-content/uploads/2019/10/mini-snes-handheld-300x225.jpg 300w, https://gaminggadgets.de/wp-content/uploads/2019/10/mini-snes-handheld-768x577.jpg 768w, https://gaminggadgets.de/wp-content/uploads/2019/10/mini-snes-handheld-1022x768.jpg 1022w" sizes="(max-width: 1050px) 100vw, 1050px" /></div>
+<p>Wenn es Nintendo nicht hinbekommt, dann baut euch doch eine Mini SNES-Handheld-Konsole selbst. Die könnt ihr sogar als Schlüsselanhänger verwenden. Einen Gameboy Nano gibt’s bereits – doch dieser Mini SNES Pi Zero Nano ist neu. Der stammt von dem Hobbybastler Manoch Teachajareonvikul aus Thailand. Er schnappte sich einen Raspberry Pi Zero, erstellte am Rechner ein [&#8230;]</p></div>
+<p>Der Beitrag <a rel="nofollow" href="https://gaminggadgets.de/mini-snes-pi-zero-nano-winzige-handheld-konsole-als-schluesselanhaenger">Mini SNES Pi Zero Nano</a> erschien zuerst auf <a rel="nofollow" href="https://gaminggadgets.de">GamingGadgets.de</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://gaminggadgets.de/wp-content/uploads/2019/10/mini-snes-handheld.jpg" width="1050" height="789" title="Eine wirklich keine SNES-Konsole. (Foto: Nochii)" alt="Eine wirklich keine SNES-Konsole. (Foto: Nochii)" /></div><div><div style="margin-bottom:20px;"><img width="1050" height="789" src="https://gaminggadgets.de/wp-content/uploads/2019/10/mini-snes-handheld.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Eine wirklich keine SNES-Konsole. (Foto: Nochii)" decoding="async" loading="lazy" srcset="https://gaminggadgets.de/wp-content/uploads/2019/10/mini-snes-handheld.jpg 1050w, https://gaminggadgets.de/wp-content/uploads/2019/10/mini-snes-handheld-300x225.jpg 300w, https://gaminggadgets.de/wp-content/uploads/2019/10/mini-snes-handheld-768x577.jpg 768w, https://gaminggadgets.de/wp-content/uploads/2019/10/mini-snes-handheld-1022x768.jpg 1022w" sizes="(max-width: 1050px) 100vw, 1050px" /></div><p>Wenn es Nintendo nicht hinbekommt, dann baut euch doch eine Mini SNES-Handheld-Konsole selbst. Die könnt ihr sogar als Schlüsselanhänger verwenden.</p>
+<p>Einen <a href="http://gaminggadgets.de/gameboy-nano-diese-handheld-konsole-ist-so-gross-wie-eine-streichholzschachtel">Gameboy Nano</a> gibt’s bereits – doch dieser Mini SNES Pi Zero Nano ist neu. Der stammt von dem Hobbybastler Manoch Teachajareonvikul aus Thailand. Er schnappte sich einen <a href="http://gaminggadgets.de/raspberry-pi-zero-5-us-dollar-fuer-einen-rechner-das-bekommt-ihr-geboten">Raspberry Pi Zero</a>, erstellte am Rechner ein 3D-Gehäuse und baute sich ein winziges <a href="http://gaminggadgets.de/mini-snes-so-installiert-ihr-weitere-spiele">Mini SNES</a>.</p>
+<p><figure id="attachment_40622" aria-describedby="caption-attachment-40622" style="width: 1024px" class="wp-caption aligncenter"><a href="http://gaminggadgets.de/wp-content/uploads/2019/10/mini-snes-handheld-2.jpg" data-rel="lightbox-image-0" data-rl_title="Noch nicht ganz fertig, aber die Spiele laufen. (Foto: Nochii)" data-rl_caption="" title="Noch nicht ganz fertig, aber die Spiele laufen. (Foto: Nochii)"><img decoding="async" class="size-full wp-image-40622" src="http://gaminggadgets.de/wp-content/uploads/2019/10/mini-snes-handheld-2.jpg" alt="Noch nicht ganz fertig, aber die Spiele laufen. (Foto: Nochii)" width="1024" height="1024" srcset="https://gaminggadgets.de/wp-content/uploads/2019/10/mini-snes-handheld-2.jpg 1024w, https://gaminggadgets.de/wp-content/uploads/2019/10/mini-snes-handheld-2-120x120.jpg 120w, https://gaminggadgets.de/wp-content/uploads/2019/10/mini-snes-handheld-2-300x300.jpg 300w, https://gaminggadgets.de/wp-content/uploads/2019/10/mini-snes-handheld-2-768x768.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption id="caption-attachment-40622" class="wp-caption-text">Noch nicht ganz fertig, aber die Spiele laufen. (Foto: Nochii)</figcaption></figure></p>
+<h2>Mini SNES als Handheld</h2>
+<p>Größte Besonderheit vom Mini SNES Pi Zero Nano ist natürlich die Tatsache, dass ihr die Konsole stets bei euch tragen könnt. Die Handheld-Konsole passt sogar in die Hosentasche und ans Schlüsselbund. Der 800 mAh starke Akku dürfte für einige Zeit Unterhaltung bieten, das Geschehen wird auf einem 1,54 Zoll großen Bildschirm dargestellt. Die Auflösung von 240 x 240 Pixel entspricht zwar nicht dem vom originalen SNES, aber bei den Ausmaßen des Displays ist das völlig okay. Außerdem sollten die emulierten SNES-Games so auch flüssig laufen.</p>
+<p><figure id="attachment_40624" aria-describedby="caption-attachment-40624" style="width: 628px" class="wp-caption aligncenter"><a href="http://gaminggadgets.de/wp-content/uploads/2019/10/mini-snes-handheld-4.jpg" data-rel="lightbox-image-1" data-rl_title="Die fertige Konsole. (Foto: Nochii)" data-rl_caption="" title="Die fertige Konsole. (Foto: Nochii)"><img decoding="async" class="size-full wp-image-40624" src="http://gaminggadgets.de/wp-content/uploads/2019/10/mini-snes-handheld-4.jpg" alt="Die fertige Konsole. (Foto: Nochii)" width="628" height="472" srcset="https://gaminggadgets.de/wp-content/uploads/2019/10/mini-snes-handheld-4.jpg 628w, https://gaminggadgets.de/wp-content/uploads/2019/10/mini-snes-handheld-4-300x225.jpg 300w" sizes="(max-width: 628px) 100vw, 628px" /></a><figcaption id="caption-attachment-40624" class="wp-caption-text">Die fertige Konsole. (Foto: Nochii)</figcaption></figure></p>
+<p>Steuerkreuz, ausreichend Buttons, Lautsprecher, robustes Case – hier fehlt nichts. Bei Bedarf kann der Mini SNES Pi Zero Nano auch andere Konsolen früherer Tage emulieren.</p>
+<h2>Anleitung im Netz</h2>
+<p>Der Tüftler, der sich sekbst Nochii nennt, veröffentlichte bei <a href="https://www.thingiverse.com/thing:3828537" target="_blank" rel="noopener noreferrer">Thingiverse</a> die Daten für den 3D-Drucker, mit denen ihr euch das Gehäuse herstellen könnte. Ansonsten gibt’s auf besagter Seite eher rudimentäre Infos zum Selberbauen, entsprechende Kenntnisse werden also verlangt. Also möchtet ihr so einen Mini SNES Pi Zero Nano haben.</p>
+<p><figure id="attachment_40623" aria-describedby="caption-attachment-40623" style="width: 1024px" class="wp-caption aligncenter"><a href="http://gaminggadgets.de/wp-content/uploads/2019/10/mini-snes-handheld-3.jpg" data-rel="lightbox-image-2" data-rl_title="Das Gehäuse stammt aus dem 3D-Drucker. (Foto: Nochii)" data-rl_caption="" title="Das Gehäuse stammt aus dem 3D-Drucker. (Foto: Nochii)"><img decoding="async" class="size-full wp-image-40623" src="http://gaminggadgets.de/wp-content/uploads/2019/10/mini-snes-handheld-3.jpg" alt="Das Gehäuse stammt aus dem 3D-Drucker. (Foto: Nochii)" width="1024" height="1024" srcset="https://gaminggadgets.de/wp-content/uploads/2019/10/mini-snes-handheld-3.jpg 1024w, https://gaminggadgets.de/wp-content/uploads/2019/10/mini-snes-handheld-3-120x120.jpg 120w, https://gaminggadgets.de/wp-content/uploads/2019/10/mini-snes-handheld-3-300x300.jpg 300w, https://gaminggadgets.de/wp-content/uploads/2019/10/mini-snes-handheld-3-768x768.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption id="caption-attachment-40623" class="wp-caption-text">Das Gehäuse stammt aus dem 3D-Drucker. (Foto: Nochii)</figcaption></figure></p>
+<p>Schönes Gadget, oder?</p>
+</div><p>Der Beitrag <a rel="nofollow" href="https://gaminggadgets.de/mini-snes-pi-zero-nano-winzige-handheld-konsole-als-schluesselanhaenger">Mini SNES Pi Zero Nano</a> erschien zuerst auf <a rel="nofollow" href="https://gaminggadgets.de">GamingGadgets.de</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<enclosure url="https://gaminggadgets.de/wp-content/uploads/2019/10/mini-snes-handheld.jpg" length="98032" type="image/jpg" />
+<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://gaminggadgets.de/wp-content/uploads/2019/10/mini-snes-handheld.jpg" width="1050" height="789" medium="image" type="image/jpeg">
+	<media:copyright>GamingGadgets.de</media:copyright>
+	<media:title>Eine wirklich keine SNES-Konsole. (Foto: Nochii)</media:title>
+	<media:description type="html"><![CDATA[Eine wirklich keine SNES-Konsole. (Foto: Nochii)]]></media:description>
+</media:content>
+<media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://gaminggadgets.de/wp-content/uploads/2019/10/mini-snes-handheld.jpg" width="1050" height="789" />
+	</item>
+		<item>
+		<title>R-Kaid-R SK-4</title>
+		<link>https://gaminggadgets.de/r-kaid-r-sk-4-design-trifft-auf-retro-konsole</link>
+					<comments>https://gaminggadgets.de/r-kaid-r-sk-4-design-trifft-auf-retro-konsole#comments</comments>
+		
+		<dc:creator><![CDATA[Sven]]></dc:creator>
+		<pubDate>Fri, 27 Sep 2019 10:25:44 +0000</pubDate>
+				<category><![CDATA[Spielgeräte]]></category>
+		<category><![CDATA[Arcade-Automat]]></category>
+		<category><![CDATA[Bastelei]]></category>
+		<category><![CDATA[DIY]]></category>
+		<category><![CDATA[Holz]]></category>
+		<category><![CDATA[Love Hultèn]]></category>
+		<category><![CDATA[R-Kaid-R SK-4]]></category>
+		<category><![CDATA[Raspberry Pi]]></category>
+		<category><![CDATA[Retro]]></category>
+		<category><![CDATA[Spielkonsole]]></category>
+		<guid isPermaLink="false">http://gaminggadgets.de/?p=40582</guid>
+
+					<description><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://gaminggadgets.de/wp-content/uploads/2019/09/r-kaid-r-sk4.jpg" width="1100" height="733" title="Das ist der R-Kaid-R SK4. (Foto: Love Hultén)" alt="Das ist der R-Kaid-R SK4. (Foto: Love Hultén)" /></div>
+<div>
+<div style="margin-bottom:20px;"><img width="1100" height="733" src="https://gaminggadgets.de/wp-content/uploads/2019/09/r-kaid-r-sk4.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Das ist der R-Kaid-R SK4. (Foto: Love Hultén)" decoding="async" loading="lazy" srcset="https://gaminggadgets.de/wp-content/uploads/2019/09/r-kaid-r-sk4.jpg 1100w, https://gaminggadgets.de/wp-content/uploads/2019/09/r-kaid-r-sk4-300x200.jpg 300w, https://gaminggadgets.de/wp-content/uploads/2019/09/r-kaid-r-sk4-768x512.jpg 768w, https://gaminggadgets.de/wp-content/uploads/2019/09/r-kaid-r-sk4-1024x682.jpg 1024w" sizes="(max-width: 1100px) 100vw, 1100px" /></div>
+<p>Sie sieht nicht nur grandios aus, die etwas andere Konsole ist auch eine Hommage an einen berühmten Designer. Das bietet R-Kaid-R SK-4. Eigentlich ist R-Kaid-R keine Neuheit mehr, denn der schwedische Designer Love Hultén baute das Gerät bereits vor fünf Jahren. Im Inneren steckt ein Raspberry Pi, der zahlreiche Konsolen früherer Tage emulieren kann. Das [&#8230;]</p></div>
+<p>Der Beitrag <a rel="nofollow" href="https://gaminggadgets.de/r-kaid-r-sk-4-design-trifft-auf-retro-konsole">R-Kaid-R SK-4</a> erschien zuerst auf <a rel="nofollow" href="https://gaminggadgets.de">GamingGadgets.de</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://gaminggadgets.de/wp-content/uploads/2019/09/r-kaid-r-sk4.jpg" width="1100" height="733" title="Das ist der R-Kaid-R SK4. (Foto: Love Hultén)" alt="Das ist der R-Kaid-R SK4. (Foto: Love Hultén)" /></div><div><div style="margin-bottom:20px;"><img width="1100" height="733" src="https://gaminggadgets.de/wp-content/uploads/2019/09/r-kaid-r-sk4.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Das ist der R-Kaid-R SK4. (Foto: Love Hultén)" decoding="async" loading="lazy" srcset="https://gaminggadgets.de/wp-content/uploads/2019/09/r-kaid-r-sk4.jpg 1100w, https://gaminggadgets.de/wp-content/uploads/2019/09/r-kaid-r-sk4-300x200.jpg 300w, https://gaminggadgets.de/wp-content/uploads/2019/09/r-kaid-r-sk4-768x512.jpg 768w, https://gaminggadgets.de/wp-content/uploads/2019/09/r-kaid-r-sk4-1024x682.jpg 1024w" sizes="(max-width: 1100px) 100vw, 1100px" /></div><p>Sie sieht nicht nur grandios aus, die etwas andere Konsole ist auch eine Hommage an einen berühmten Designer. Das bietet R-Kaid-R SK-4.</p>
+<p>Eigentlich ist <a href="http://gaminggadgets.de/r-kaid-r-edle-arcade-konsole-fuer-gut-betuchte-spiele-fans">R-Kaid-R</a> keine Neuheit mehr, denn der schwedische Designer Love Hultén baute das Gerät bereits vor fünf Jahren. Im Inneren steckt ein <a href="http://gaminggadgets.de/tag/raspberry-pi">Raspberry Pi</a>, der zahlreiche Konsolen früherer Tage emulieren kann. Das neue Modell mit der Typenbezeichnung R-Kaid-R SK-4 bietet aber etwas mehr.</p>
+<p><figure id="attachment_40585" aria-describedby="caption-attachment-40585" style="width: 1100px" class="wp-caption aligncenter"><a href="http://gaminggadgets.de/wp-content/uploads/2019/09/r-kaid-r-sk4-3.jpg" data-rel="lightbox-image-0" data-rl_title="Ein schöner Klapp-Mechanismus. (Foto: Love Hultén)" data-rl_caption="" title="Ein schöner Klapp-Mechanismus. (Foto: Love Hultén)"><img decoding="async" class="size-full wp-image-40585" src="http://gaminggadgets.de/wp-content/uploads/2019/09/r-kaid-r-sk4-3.jpg" alt="Ein schöner Klapp-Mechanismus. (Foto: Love Hultén)" width="1100" height="733" srcset="https://gaminggadgets.de/wp-content/uploads/2019/09/r-kaid-r-sk4-3.jpg 1100w, https://gaminggadgets.de/wp-content/uploads/2019/09/r-kaid-r-sk4-3-300x200.jpg 300w, https://gaminggadgets.de/wp-content/uploads/2019/09/r-kaid-r-sk4-3-768x512.jpg 768w, https://gaminggadgets.de/wp-content/uploads/2019/09/r-kaid-r-sk4-3-1024x682.jpg 1024w" sizes="(max-width: 1100px) 100vw, 1100px" /></a><figcaption id="caption-attachment-40585" class="wp-caption-text">Ein schöner Klapp-Mechanismus. (Foto: Love Hultén)</figcaption></figure></p>
+<h2>R-Kaid-R SK-4 ehrt Designer-Legende Dieter Rams</h2>
+<p>SK-4 ist auf gewisse Weise eine kleine Liebeserklärung an den Industrie-Designer Dieter Rams, der die „Zehn Thesen für gutes Design“ ausformulierte. Diese beschreiben, was unter anderem für moderne Produkte vorausgesetzt werden sollte, um sie schlicht gut zu machen. <a href="http://gaminggadgets.de/tag/love-hulten">Love Hultén</a> versuchte, diese auch bei seinem neuen R-Kaid-R SK-4 zu berücksichtigen.</p>
+<p><iframe title="R-Kaid-R SK-4 / Dieter Rams tribute" width="1170" height="658" src="https://www.youtube.com/embed/ZnnGBs8GswM?wmode=transparent&amp;rel=0&amp;feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p>R-Kaid-R SK-4 möchte also unter anderem unaufdringlich, ästhetisch, langlebig und konsequent bis ins letzte Detail sein. Und schaut ihr euch frühere Werke von Love Hultén an – beispielsweise die <a href="http://gaminggadgets.de/fc-pvm-einzigartige-nes-konsole-aus-holz">NES-Konsole aus Holz FC-PVM</a> oder die Handheld-Maschine <a href="http://gaminggadgets.de/pixel-vision-2-0-moderne-retro-konsole-als-lifestyle-gadget">Pixel-Vision 2.0</a> – so wird klar, dass der kreative Tüftler tatsächlich bemüht ist, diese Thesen ernsthaft umzusetzen.</p>
+<h2>Unverkäuflich. Aber…</h2>
+<p>Keine Frage: R-Kaid-R SK-4 ist schon eine Augenweide. Die tragbare Konsole besitzt einen Akku, der über 10 Stunden Spielspaß verspricht. Hochwertigste Komponenten für perfekte Arcade-Unterhaltung, liebevoll hergestelltes Holzgehäuse, integriertes Display – hier fehlt nichts. Allerdings wird der SK-4 <a href="http://www.lovehulten.com/sk4.html#" target="_blank" rel="noopener noreferrer">nicht verkauft</a>.</p>
+<p>
+<a href='https://gaminggadgets.de/wp-content/uploads/2019/09/r-kaid-r-sk4-4.jpg' title="R-Kaid-R SK-4. (Foto: Love Hultén)" data-rl_title="R-Kaid-R SK-4. (Foto: Love Hultén)" class="rl-gallery-link" data-rl_caption="" data-rel="lightbox-gallery-4"><img width="120" height="120" src="https://gaminggadgets.de/wp-content/uploads/2019/09/r-kaid-r-sk4-4-120x120.jpg" class="attachment-thumbnail size-thumbnail" alt="R-Kaid-R SK-4. (Foto: Love Hultén)" decoding="async" /></a>
+<a href='https://gaminggadgets.de/wp-content/uploads/2019/09/r-kaid-r-sk4-2.jpg' title="R-Kaid-R SK-4. (Foto: Love Hultén)" data-rl_title="R-Kaid-R SK-4. (Foto: Love Hultén)" class="rl-gallery-link" data-rl_caption="" data-rel="lightbox-gallery-4"><img width="120" height="120" src="https://gaminggadgets.de/wp-content/uploads/2019/09/r-kaid-r-sk4-2-120x120.jpg" class="attachment-thumbnail size-thumbnail" alt="R-Kaid-R SK-4. (Foto: Love Hultén)" decoding="async" /></a>
+</p>
+<p>Sollte euch das Konzept dennoch gefallen, könnt ihr den regulären R-Kaid-R nach wie vor kaufen. Er kostet allerdings knapp 2700 US-Dollar plus Steuern und Versand. Dafür ist das Gerät handgefertigt und auf 50 Exemplare limitiert.</p>
+</div><p>Der Beitrag <a rel="nofollow" href="https://gaminggadgets.de/r-kaid-r-sk-4-design-trifft-auf-retro-konsole">R-Kaid-R SK-4</a> erschien zuerst auf <a rel="nofollow" href="https://gaminggadgets.de">GamingGadgets.de</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://gaminggadgets.de/r-kaid-r-sk-4-design-trifft-auf-retro-konsole/feed</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<enclosure url="https://gaminggadgets.de/wp-content/uploads/2019/09/r-kaid-r-sk4.jpg" length="59678" type="image/jpg" />
+<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://gaminggadgets.de/wp-content/uploads/2019/09/r-kaid-r-sk4.jpg" width="1100" height="733" medium="image" type="image/jpeg">
+	<media:copyright>GamingGadgets.de</media:copyright>
+	<media:title>Das ist der R-Kaid-R SK4. (Foto: Love Hultén)</media:title>
+	<media:description type="html"><![CDATA[Das ist der R-Kaid-R SK4. (Foto: Love Hultén)]]></media:description>
+</media:content>
+<media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://gaminggadgets.de/wp-content/uploads/2019/09/r-kaid-r-sk4.jpg" width="1100" height="733" />
+	</item>
+		<item>
+		<title>1963 Pi Tourer Game Console</title>
+		<link>https://gaminggadgets.de/1963-pi-tourer-game-console-autoradio-als-spielkonsole</link>
+		
+		<dc:creator><![CDATA[Sven]]></dc:creator>
+		<pubDate>Sat, 07 Sep 2019 10:55:12 +0000</pubDate>
+				<category><![CDATA[Spielgeräte]]></category>
+		<category><![CDATA[1963 Pi Tourer Game Console]]></category>
+		<category><![CDATA[Bastelei]]></category>
+		<category><![CDATA[DIY]]></category>
+		<category><![CDATA[Raspberry Pi]]></category>
+		<category><![CDATA[Spielkonsole]]></category>
+		<guid isPermaLink="false">http://gaminggadgets.de/?p=40442</guid>
+
+					<description><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://gaminggadgets.de/wp-content/uploads/2019/08/autoradio-spielkonsole-2.jpg" width="1280" height="879" title="Eine Spielkonsole? Ein Autoradio? Beides! (Foto: Martin Mander)" alt="Eine Spielkonsole? Ein Autoradio? Beides! (Foto: Martin Mander)" /></div>
+<div>
+<div style="margin-bottom:20px;"><img width="1280" height="879" src="https://gaminggadgets.de/wp-content/uploads/2019/08/autoradio-spielkonsole-2.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Eine Spielkonsole? Ein Autoradio? Beides! (Foto: Martin Mander)" decoding="async" loading="lazy" srcset="https://gaminggadgets.de/wp-content/uploads/2019/08/autoradio-spielkonsole-2.jpg 1280w, https://gaminggadgets.de/wp-content/uploads/2019/08/autoradio-spielkonsole-2-300x206.jpg 300w, https://gaminggadgets.de/wp-content/uploads/2019/08/autoradio-spielkonsole-2-768x527.jpg 768w, https://gaminggadgets.de/wp-content/uploads/2019/08/autoradio-spielkonsole-2-1024x703.jpg 1024w" sizes="(max-width: 1280px) 100vw, 1280px" /></div>
+<p>Ein Autoradio aus den 1960ern landet heutzutage eher im Müll. Dabei könnt ihr aus einer solchen Antiquität eine geniale Retro-Spielkonsole basteln. Der Bastel-Experte Martin Mander entdeckte ein Autoradio (Sky Tourer) aus dem Jahr 1963, das er nicht einfach wegwerfen wollte. Und so entstand die Idee für die 1963 Pi Tourer Game Console. Das bietet das [&#8230;]</p></div>
+<p>Der Beitrag <a rel="nofollow" href="https://gaminggadgets.de/1963-pi-tourer-game-console-autoradio-als-spielkonsole">1963 Pi Tourer Game Console</a> erschien zuerst auf <a rel="nofollow" href="https://gaminggadgets.de">GamingGadgets.de</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://gaminggadgets.de/wp-content/uploads/2019/08/autoradio-spielkonsole-2.jpg" width="1280" height="879" title="Eine Spielkonsole? Ein Autoradio? Beides! (Foto: Martin Mander)" alt="Eine Spielkonsole? Ein Autoradio? Beides! (Foto: Martin Mander)" /></div><div><div style="margin-bottom:20px;"><img width="1280" height="879" src="https://gaminggadgets.de/wp-content/uploads/2019/08/autoradio-spielkonsole-2.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Eine Spielkonsole? Ein Autoradio? Beides! (Foto: Martin Mander)" decoding="async" loading="lazy" srcset="https://gaminggadgets.de/wp-content/uploads/2019/08/autoradio-spielkonsole-2.jpg 1280w, https://gaminggadgets.de/wp-content/uploads/2019/08/autoradio-spielkonsole-2-300x206.jpg 300w, https://gaminggadgets.de/wp-content/uploads/2019/08/autoradio-spielkonsole-2-768x527.jpg 768w, https://gaminggadgets.de/wp-content/uploads/2019/08/autoradio-spielkonsole-2-1024x703.jpg 1024w" sizes="(max-width: 1280px) 100vw, 1280px" /></div><p>Ein Autoradio aus den 1960ern landet heutzutage eher im Müll. Dabei könnt ihr aus einer solchen Antiquität eine geniale Retro-Spielkonsole basteln.</p>
+<p>Der Bastel-Experte Martin Mander entdeckte ein Autoradio (Sky Tourer) aus dem Jahr 1963, das er nicht einfach wegwerfen wollte. Und so entstand die Idee für die 1963 Pi Tourer Game Console.</p>
+<p><figure id="attachment_40446" aria-describedby="caption-attachment-40446" style="width: 1280px" class="wp-caption aligncenter"><a href="http://gaminggadgets.de/wp-content/uploads/2019/08/autoradio-spielkonsole-4.jpg" data-rel="lightbox-image-0" data-rl_title="Das Autoradio leuchtet sogar. (Foto: Martin Mander)" data-rl_caption="" title="Das Autoradio leuchtet sogar. (Foto: Martin Mander)"><img decoding="async" class="size-full wp-image-40446" src="http://gaminggadgets.de/wp-content/uploads/2019/08/autoradio-spielkonsole-4.jpg" alt="Das Autoradio leuchtet sogar. (Foto: Martin Mander)" width="1280" height="960" srcset="https://gaminggadgets.de/wp-content/uploads/2019/08/autoradio-spielkonsole-4.jpg 1280w, https://gaminggadgets.de/wp-content/uploads/2019/08/autoradio-spielkonsole-4-300x225.jpg 300w, https://gaminggadgets.de/wp-content/uploads/2019/08/autoradio-spielkonsole-4-768x576.jpg 768w, https://gaminggadgets.de/wp-content/uploads/2019/08/autoradio-spielkonsole-4-1024x768.jpg 1024w" sizes="(max-width: 1280px) 100vw, 1280px" /></a><figcaption id="caption-attachment-40446" class="wp-caption-text">Das Autoradio leuchtet sogar. (Foto: Martin Mander)</figcaption></figure></p>
+<h2>Das bietet das Spielkonsolen-Autoradio</h2>
+<p>Martin nahm das alte Radio auseinander und verbaute im Inneren einen <a href="http://gaminggadgets.de/tag/raspberry-pi">Raspberry Pi 3</a>. Doch nicht genug: Coole Lichteffekte gibt’s dank LED-Strips, die Teile der Peripherie attraktiv und durchaus authentisch illuminieren. Ausgänge für HDMI- und USB-Ports dürfen natürlich nicht fehlen.</p>
+<p><iframe title="1963 Pi Tourer Game Console" width="1170" height="658" src="https://www.youtube.com/embed/Ys04Nz6xxxg?wmode=transparent&amp;rel=0&amp;feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p>Nicht zu vergessen: Auf der Oberseite der 1963 Pi Tourer Game Console befinden sich ein Analogstick und allerlei Buttons für diverse Arcade-Klassiker. Die werden von der vorinstallierten Software RetroPie emuliert.</p>
+<p><figure id="attachment_40445" aria-describedby="caption-attachment-40445" style="width: 1249px" class="wp-caption aligncenter"><a href="http://gaminggadgets.de/wp-content/uploads/2019/08/autoradio-spielkonsole-3.jpg" data-rel="lightbox-image-1" data-rl_title="Eine witzige Konsole... (Foto: Martin Mander)" data-rl_caption="" title="Eine witzige Konsole... (Foto: Martin Mander)"><img decoding="async" class="size-full wp-image-40445" src="http://gaminggadgets.de/wp-content/uploads/2019/08/autoradio-spielkonsole-3.jpg" alt="Eine witzige Konsole... (Foto: Martin Mander)" width="1249" height="960" srcset="https://gaminggadgets.de/wp-content/uploads/2019/08/autoradio-spielkonsole-3.jpg 1249w, https://gaminggadgets.de/wp-content/uploads/2019/08/autoradio-spielkonsole-3-300x231.jpg 300w, https://gaminggadgets.de/wp-content/uploads/2019/08/autoradio-spielkonsole-3-768x590.jpg 768w, https://gaminggadgets.de/wp-content/uploads/2019/08/autoradio-spielkonsole-3-999x768.jpg 999w" sizes="(max-width: 1249px) 100vw, 1249px" /></a><figcaption id="caption-attachment-40445" class="wp-caption-text">Eine witzige Konsole&#8230; (Foto: Martin Mander)</figcaption></figure></p>
+<p>Übrigens werden die alten Tasten (Lautstärke, Tuning) noch für Funktionen wie Start und Select verwendet, was zweifelsohne ganz cool ist. Und bei <a href="https://www.hackster.io/martin-mander/1963-pi-tourer-game-console-7732d9" target="_blank" rel="noopener noreferrer">Hackster.io</a> erfahrt ihr mehr über die technischen Hintergründe. Schwierig dürfte es sicherlich sein, ein solch altes Autoradio noch aufzutreiben, möchtet ihr euch auch so etwas bauen…</p>
+</div><p>Der Beitrag <a rel="nofollow" href="https://gaminggadgets.de/1963-pi-tourer-game-console-autoradio-als-spielkonsole">1963 Pi Tourer Game Console</a> erschien zuerst auf <a rel="nofollow" href="https://gaminggadgets.de">GamingGadgets.de</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<enclosure url="https://gaminggadgets.de/wp-content/uploads/2019/08/autoradio-spielkonsole-2.jpg" length="146055" type="image/jpg" />
+<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://gaminggadgets.de/wp-content/uploads/2019/08/autoradio-spielkonsole-2.jpg" width="1280" height="879" medium="image" type="image/jpeg">
+	<media:copyright>GamingGadgets.de</media:copyright>
+	<media:title>Eine Spielkonsole? Ein Autoradio? Beides! (Foto: Martin Mander)</media:title>
+	<media:description type="html"><![CDATA[Eine Spielkonsole? Ein Autoradio? Beides! (Foto: Martin Mander)]]></media:description>
+</media:content>
+<media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://gaminggadgets.de/wp-content/uploads/2019/08/autoradio-spielkonsole-2.jpg" width="1280" height="879" />
+	</item>
+	</channel>
+</rss>
